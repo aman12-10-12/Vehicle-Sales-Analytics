@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Data / DB (keep raw in repo if small; large artifacts optional)
+vehicle_sales.db
+*.sqlite
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Power BI / Office temp
+~$*
+*.tmp
+
+# Large model artifacts (regenerate with train_model.py)
+python/models/deal_classifier_model.pkl
+python/models/random_forest_model.pkl
+
+docs/vehicle_sales_question_bank.docx
