@@ -5,14 +5,44 @@ Used vehicle auction data contains hundreds of thousands of transactions with in
 ## Objectives
 
 1. Build an end-to-end analytics stack: **SQL → Python → Excel → ML → Power BI**
-2. Answer all **60 questions** in `vehicle_sales_question_bank.docx` (Basic, Intermediate, Advanced, Master)
-3. Deliver portfolio-ready artifacts: cleaned dataset, SQL scripts, notebooks, models, dashboards, and documentation
+2. Perform data cleaning, exploratory data analysis, business intelligence, and market trend analysis on large-scale vehicle auction data.
+3. Develop predictive machine learning models to estimate vehicle selling prices using historical transaction records.
+4. Create interactive dashboards and portfolio-ready analytical artifacts including SQL scripts, notebooks, reports, visualizations, and business insights.
 
 ## Dataset
 
 - **Source:** `dataset/raw/car_prices.csv` (~558K auction records)
 - **Target variable (regression):** `sellingprice`
 - **Secondary target (classification):** `deal_label` — Good Deal / Fair Deal / Overpriced from `price_vs_mmr`
+
+  ---
+
+# Project Scope
+
+## SQL
+- Data cleaning
+- Exploratory queries
+- Business KPI analysis
+- Window functions and CTEs
+
+## Python
+- Data preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature engineering
+- Regression modeling
+
+## Machine Learning
+- Linear Regression
+- Random Forest Regressor
+- Model evaluation using MAE, RMSE, and R² Score
+
+## Power BI
+- Executive dashboard
+- Market trend analysis
+- Pricing intelligence dashboard
+- Business insights visualization
+
+---
 
 ## Success Criteria
 
