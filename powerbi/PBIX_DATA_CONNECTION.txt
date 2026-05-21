@@ -1,0 +1,4 @@
+Open vehicle_sales_dashboard.pbix in Power BI Desktop.
+Get Data > Text/CSV > select dataset/cleaned/cleaned_vehicle_sales.csv
+Also import powerbi/ml_predictions.csv and powerbi/vehicle_sales_for_powerbi.csv
+Build visuals per POWERBI_SETUP.md using DAX from dax_measures.txt

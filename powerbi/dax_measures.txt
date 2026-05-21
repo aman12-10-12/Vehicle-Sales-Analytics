@@ -1,0 +1,19 @@
+Total Revenue = SUM(vehicle_sales[sellingprice])
+Total Units = COUNT(vehicle_sales[vin])
+Avg Selling Price = AVERAGE(vehicle_sales[sellingprice])
+Avg MMR Premium % = AVERAGE(vehicle_sales[mmr_premium_pct])
+Good Deal Rate =
+    DIVIDE(
+        CALCULATE(COUNT(vehicle_sales[vin]), vehicle_sales[deal_label] = "Good Deal"),
+        COUNT(vehicle_sales[vin])
+    )
+Above MMR Rate =
+    DIVIDE(
+        CALCULATE(COUNT(vehicle_sales[vin]), vehicle_sales[sellingprice] > vehicle_sales[mmr]),
+        COUNT(vehicle_sales[vin])
+    )
+Potential Underpriced Profit =
+    SUMX(
+        FILTER(vehicle_sales, vehicle_sales[sellingprice] < 0.9 * vehicle_sales[mmr]),
+        vehicle_sales[mmr] - vehicle_sales[sellingprice]
+    )

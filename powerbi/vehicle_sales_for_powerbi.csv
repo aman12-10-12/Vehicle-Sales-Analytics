@@ -1,0 +1,4704 @@
+make,body,state,units,avg_price,revenue
+acura,coupe,az,1,1000.0,1000.0
+acura,coupe,ca,2,1450.0,2900.0
+acura,coupe,ga,2,1700.0,3400.0
+acura,coupe,il,1,1050.0,1050.0
+acura,coupe,ma,1,1600.0,1600.0
+acura,coupe,md,1,2750.0,2750.0
+acura,coupe,nc,1,2300.0,2300.0
+acura,coupe,nm,1,1300.0,1300.0
+acura,coupe,pa,1,4700.0,4700.0
+acura,coupe,tn,1,4800.0,4800.0
+acura,coupe,tx,2,1250.0,2500.0
+acura,coupe,va,1,2500.0,2500.0
+acura,coupe,wa,1,750.0,750.0
+acura,hatchback,az,1,4300.0,4300.0
+acura,hatchback,ca,10,9705.0,97050.0
+acura,hatchback,fl,8,5700.0,45600.0
+acura,hatchback,ga,3,2666.6666666666665,8000.0
+acura,hatchback,ma,1,4300.0,4300.0
+acura,hatchback,md,3,2983.3333333333335,8950.0
+acura,hatchback,nc,2,4600.0,9200.0
+acura,hatchback,nj,4,5325.0,21300.0
+acura,hatchback,nv,2,16275.0,32550.0
+acura,hatchback,pa,5,13520.0,67600.0
+acura,hatchback,tx,1,4500.0,4500.0
+acura,hatchback,wi,1,5400.0,5400.0
+acura,sedan,az,6,8391.666666666666,50350.0
+acura,sedan,ca,82,13239.634146341463,1085650.0
+acura,sedan,co,1,7000.0,7000.0
+acura,sedan,fl,65,9603.076923076924,624200.0
+acura,sedan,ga,57,12012.280701754386,684700.0
+acura,sedan,hi,7,18571.428571428572,130000.0
+acura,sedan,il,36,16068.055555555555,578450.0
+acura,sedan,in,2,10050.0,20100.0
+acura,sedan,ma,5,7900.0,39500.0
+acura,sedan,md,20,5812.5,116250.0
+acura,sedan,mi,3,3133.3333333333335,9400.0
+acura,sedan,mn,2,7900.0,15800.0
+acura,sedan,mo,7,7842.857142857143,54900.0
+acura,sedan,ms,1,5500.0,5500.0
+acura,sedan,nc,24,6677.083333333333,160250.0
+acura,sedan,ne,2,17300.0,34600.0
+acura,sedan,nj,47,13148.936170212766,618000.0
+acura,sedan,nv,22,18668.18181818182,410700.0
+acura,sedan,ny,2,3700.0,7400.0
+acura,sedan,oh,8,11625.0,93000.0
+acura,sedan,on,3,3983.3333333333335,11950.0
+acura,sedan,or,2,12050.0,24100.0
+acura,sedan,pa,172,17000.581395348836,2924100.0
+acura,sedan,pr,3,12366.666666666666,37100.0
+acura,sedan,sc,4,6850.0,27400.0
+acura,sedan,tn,17,12526.470588235294,212950.0
+acura,sedan,tx,23,8265.217391304348,190100.0
+acura,sedan,ut,1,2900.0,2900.0
+acura,sedan,va,19,6921.0526315789475,131500.0
+acura,sedan,wa,9,10894.444444444445,98050.0
+acura,sedan,wi,1,3600.0,3600.0
+acura,suv,ab,1,2300.0,2300.0
+acura,suv,az,2,12600.0,25200.0
+acura,suv,ca,44,12272.727272727272,540000.0
+acura,suv,co,1,18100.0,18100.0
+acura,suv,fl,43,16276.744186046511,699900.0
+acura,suv,ga,24,16141.666666666666,387400.0
+acura,suv,hi,3,23666.666666666668,71000.0
+acura,suv,il,10,15120.0,151200.0
+acura,suv,in,1,25500.0,25500.0
+acura,suv,la,1,7900.0,7900.0
+acura,suv,ma,3,5050.0,15150.0
+acura,suv,md,5,6040.0,30200.0
+acura,suv,mi,4,12700.0,50800.0
+acura,suv,mn,1,19900.0,19900.0
+acura,suv,mo,5,15220.0,76100.0
+acura,suv,nc,15,11726.666666666666,175900.0
+acura,suv,ne,2,21450.0,42900.0
+acura,suv,nj,27,14824.074074074075,400250.0
+acura,suv,nv,11,22022.727272727272,242250.0
+acura,suv,ny,2,5950.0,11900.0
+acura,suv,oh,4,10525.0,42100.0
+acura,suv,on,2,15900.0,31800.0
+acura,suv,pa,79,21213.92405063291,1675900.0
+acura,suv,sc,1,14900.0,14900.0
+acura,suv,tn,3,27733.333333333332,83200.0
+acura,suv,tx,18,13616.666666666666,245100.0
+acura,suv,ut,1,4400.0,4400.0
+acura,suv,va,7,7221.428571428572,50550.0
+acura,suv,wa,7,15871.42857142857,111100.0
+acura,suv,wi,8,12775.0,102200.0
+acura,tsx sport wagon,ca,1,15000.0,15000.0
+acura,tsx sport wagon,pa,1,20600.0,20600.0
+acura,tsx sport wagon,tn,2,17600.0,35200.0
+audi,convertible,ca,14,13971.42857142857,195600.0
+audi,convertible,co,1,3300.0,3300.0
+audi,convertible,fl,15,12213.333333333334,183200.0
+audi,convertible,ga,1,4300.0,4300.0
+audi,convertible,ma,1,17100.0,17100.0
+audi,convertible,md,1,4300.0,4300.0
+audi,convertible,mn,1,8500.0,8500.0
+audi,convertible,mo,1,6500.0,6500.0
+audi,convertible,nc,2,15000.0,30000.0
+audi,convertible,nj,4,22250.0,89000.0
+audi,convertible,oh,1,6800.0,6800.0
+audi,convertible,pa,8,15725.0,125800.0
+audi,convertible,tx,4,6050.0,24200.0
+audi,convertible,va,4,5162.5,20650.0
+audi,convertible,wa,1,11500.0,11500.0
+audi,coupe,ca,24,25595.833333333332,614300.0
+audi,coupe,fl,12,22458.333333333332,269500.0
+audi,coupe,ga,3,21800.0,65400.0
+audi,coupe,il,5,27200.0,136000.0
+audi,coupe,mi,1,4000.0,4000.0
+audi,coupe,mo,1,28200.0,28200.0
+audi,coupe,nj,9,22833.333333333332,205500.0
+audi,coupe,nv,1,25200.0,25200.0
+audi,coupe,pa,10,21230.0,212300.0
+audi,coupe,tx,3,21766.666666666668,65300.0
+audi,coupe,wa,1,22600.0,22600.0
+audi,hatchback,fl,1,15900.0,15900.0
+audi,hatchback,nv,1,16500.0,16500.0
+audi,hatchback,pa,1,22000.0,22000.0
+audi,sedan,ab,1,2200.0,2200.0
+audi,sedan,az,4,10325.0,41300.0
+audi,sedan,ca,115,15913.478260869566,1830050.0
+audi,sedan,co,8,16250.0,130000.0
+audi,sedan,fl,89,14782.022471910112,1315600.0
+audi,sedan,ga,22,9481.818181818182,208600.0
+audi,sedan,il,13,20976.923076923078,272700.0
+audi,sedan,la,1,24000.0,24000.0
+audi,sedan,ma,5,6830.0,34150.0
+audi,sedan,md,14,4889.285714285715,68450.0
+audi,sedan,mi,2,20100.0,40200.0
+audi,sedan,mn,6,6966.666666666667,41800.0
+audi,sedan,mo,6,13683.333333333334,82100.0
+audi,sedan,nc,17,8458.823529411764,143800.0
+audi,sedan,ne,1,3300.0,3300.0
+audi,sedan,nj,49,12948.979591836734,634500.0
+audi,sedan,nv,12,13879.166666666666,166550.0
+audi,sedan,ny,10,7605.0,76050.0
+audi,sedan,oh,13,18000.0,234000.0
+audi,sedan,on,2,4000.0,8000.0
+audi,sedan,or,1,3600.0,3600.0
+audi,sedan,pa,78,16188.461538461539,1262700.0
+audi,sedan,qc,1,4200.0,4200.0
+audi,sedan,sc,2,8700.0,17400.0
+audi,sedan,tn,12,12466.666666666666,149600.0
+audi,sedan,tx,27,16214.814814814816,437800.0
+audi,sedan,ut,1,500.0,500.0
+audi,sedan,va,9,9016.666666666666,81150.0
+audi,sedan,wa,9,8683.333333333334,78150.0
+audi,sedan,wi,6,5600.0,33600.0
+audi,suv,ca,30,24856.666666666668,745700.0
+audi,suv,fl,33,23009.090909090908,759300.0
+audi,suv,ga,5,16020.0,80100.0
+audi,suv,il,1,13100.0,13100.0
+audi,suv,ma,1,13800.0,13800.0
+audi,suv,md,1,19000.0,19000.0
+audi,suv,mi,2,19750.0,39500.0
+audi,suv,mo,1,30700.0,30700.0
+audi,suv,nc,1,12600.0,12600.0
+audi,suv,ne,1,21100.0,21100.0
+audi,suv,nj,12,21658.333333333332,259900.0
+audi,suv,nv,3,25100.0,75300.0
+audi,suv,ny,1,17000.0,17000.0
+audi,suv,oh,3,16966.666666666668,50900.0
+audi,suv,pa,43,22768.60465116279,979050.0
+audi,suv,pr,1,11800.0,11800.0
+audi,suv,sc,1,10100.0,10100.0
+audi,suv,tn,1,24600.0,24600.0
+audi,suv,tx,4,28412.5,113650.0
+audi,suv,ut,1,18600.0,18600.0
+audi,suv,va,3,18066.666666666668,54200.0
+audi,suv,wa,2,14400.0,28800.0
+audi,wagon,az,3,7050.0,21150.0
+audi,wagon,ca,24,14778.125,354675.0
+audi,wagon,fl,11,12127.272727272728,133400.0
+audi,wagon,ga,4,7862.5,31450.0
+audi,wagon,il,2,13900.0,27800.0
+audi,wagon,ma,1,1200.0,1200.0
+audi,wagon,md,4,4400.0,17600.0
+audi,wagon,mo,1,13000.0,13000.0
+audi,wagon,nc,6,8683.333333333334,52100.0
+audi,wagon,nj,3,4200.0,12600.0
+audi,wagon,nv,1,7500.0,7500.0
+audi,wagon,ny,1,3150.0,3150.0
+audi,wagon,oh,2,18800.0,37600.0
+audi,wagon,or,2,10450.0,20900.0
+audi,wagon,pa,13,15880.76923076923,206450.0
+audi,wagon,tx,2,23250.0,46500.0
+audi,wagon,wa,3,24933.333333333332,74800.0
+bmw,convertible,ca,66,19890.909090909092,1312800.0
+bmw,convertible,fl,59,18396.610169491527,1085400.0
+bmw,convertible,ga,33,18839.39393939394,621700.0
+bmw,convertible,il,2,13450.0,26900.0
+bmw,convertible,in,1,28600.0,28600.0
+bmw,convertible,la,3,10600.0,31800.0
+bmw,convertible,md,4,10600.0,42400.0
+bmw,convertible,mi,1,3900.0,3900.0
+bmw,convertible,mo,1,1000.0,1000.0
+bmw,convertible,nc,14,13146.42857142857,184050.0
+bmw,convertible,ne,1,6500.0,6500.0
+bmw,convertible,nj,12,16525.0,198300.0
+bmw,convertible,nv,14,23171.428571428572,324400.0
+bmw,convertible,ny,1,1650.0,1650.0
+bmw,convertible,oh,6,13250.0,79500.0
+bmw,convertible,pa,17,15688.235294117647,266700.0
+bmw,convertible,sc,3,9233.333333333334,27700.0
+bmw,convertible,tn,3,15200.0,45600.0
+bmw,convertible,tx,14,13278.57142857143,185900.0
+bmw,convertible,va,5,12610.0,63050.0
+bmw,convertible,wa,4,21400.0,85600.0
+bmw,convertible,wi,6,28750.0,172500.0
+bmw,coupe,az,1,8300.0,8300.0
+bmw,coupe,ca,101,19477.970297029704,1967275.0
+bmw,coupe,co,2,18350.0,36700.0
+bmw,coupe,fl,43,16939.53488372093,728400.0
+bmw,coupe,ga,20,19535.0,390700.0
+bmw,coupe,il,2,11500.0,23000.0
+bmw,coupe,in,1,20300.0,20300.0
+bmw,coupe,ma,2,19750.0,39500.0
+bmw,coupe,md,6,9950.0,59700.0
+bmw,coupe,mo,2,18750.0,37500.0
+bmw,coupe,nc,6,11758.333333333334,70550.0
+bmw,coupe,nj,12,17737.5,212850.0
+bmw,coupe,nv,10,19770.0,197700.0
+bmw,coupe,oh,9,23000.0,207000.0
+bmw,coupe,on,3,23400.0,70200.0
+bmw,coupe,pa,20,18175.0,363500.0
+bmw,coupe,pr,1,13000.0,13000.0
+bmw,coupe,sc,1,4200.0,4200.0
+bmw,coupe,tn,4,16687.5,66750.0
+bmw,coupe,tx,12,15983.333333333334,191800.0
+bmw,coupe,va,5,10880.0,54400.0
+bmw,coupe,wa,3,18466.666666666668,55400.0
+bmw,coupe,wi,3,13516.666666666666,40550.0
+bmw,hatchback,ca,10,21430.0,214300.0
+bmw,hatchback,fl,6,28166.666666666668,169000.0
+bmw,hatchback,ga,3,26033.333333333332,78100.0
+bmw,hatchback,nj,1,22400.0,22400.0
+bmw,hatchback,nv,3,29800.0,89400.0
+bmw,hatchback,oh,3,31583.333333333332,94750.0
+bmw,hatchback,on,1,26750.0,26750.0
+bmw,hatchback,or,1,25000.0,25000.0
+bmw,hatchback,pa,4,31812.5,127250.0
+bmw,hatchback,wa,1,26000.0,26000.0
+bmw,hatchback,wi,1,29750.0,29750.0
+bmw,sedan,az,14,11153.57142857143,156150.0
+bmw,sedan,ca,532,17730.45112781955,9432600.0
+bmw,sedan,co,10,25740.0,257400.0
+bmw,sedan,fl,305,16051.639344262296,4895750.0
+bmw,sedan,ga,145,15998.965517241379,2319850.0
+bmw,sedan,hi,1,25750.0,25750.0
+bmw,sedan,il,24,10525.0,252600.0
+bmw,sedan,in,1,6600.0,6600.0
+bmw,sedan,la,5,7065.0,35325.0
+bmw,sedan,ma,25,12988.0,324700.0
+bmw,sedan,md,37,8004.054054054054,296150.0
+bmw,sedan,mi,9,7922.222222222223,71300.0
+bmw,sedan,mn,10,12300.0,123000.0
+bmw,sedan,mo,21,12259.52380952381,257450.0
+bmw,sedan,ms,2,6550.0,13100.0
+bmw,sedan,nc,74,8141.216216216216,602450.0
+bmw,sedan,ne,8,9631.25,77050.0
+bmw,sedan,nj,108,18364.722222222223,1983390.0
+bmw,sedan,nm,3,2583.3333333333335,7750.0
+bmw,sedan,nv,111,20564.414414414416,2282650.0
+bmw,sedan,ny,8,7900.0,63200.0
+bmw,sedan,oh,85,23674.117647058825,2012300.0
+bmw,sedan,on,32,17848.4375,571150.0
+bmw,sedan,pa,155,17990.612903225807,2788545.0
+bmw,sedan,pr,4,15900.0,63600.0
+bmw,sedan,qc,2,25700.0,51400.0
+bmw,sedan,sc,7,12271.42857142857,85900.0
+bmw,sedan,tn,15,16033.333333333334,240500.0
+bmw,sedan,tx,73,9407.534246575342,686750.0
+bmw,sedan,ut,3,4400.0,13200.0
+bmw,sedan,va,29,7687.931034482759,222950.0
+bmw,sedan,wa,36,18565.277777777777,668350.0
+bmw,sedan,wi,63,19105.95238095238,1203675.0
+bmw,suv,ab,1,14000.0,14000.0
+bmw,suv,az,4,17075.0,68300.0
+bmw,suv,ca,112,18895.3125,2116275.0
+bmw,suv,co,6,15091.666666666666,90550.0
+bmw,suv,fl,102,19819.117647058825,2021550.0
+bmw,suv,ga,44,14242.045454545454,626650.0
+bmw,suv,il,7,13514.285714285714,94600.0
+bmw,suv,ma,11,15272.727272727272,168000.0
+bmw,suv,md,12,5891.666666666667,70700.0
+bmw,suv,mi,7,17764.285714285714,124350.0
+bmw,suv,mn,5,13340.0,66700.0
+bmw,suv,mo,8,11743.75,93950.0
+bmw,suv,ms,1,6000.0,6000.0
+bmw,suv,nc,23,10569.565217391304,243100.0
+bmw,suv,ne,2,10950.0,21900.0
+bmw,suv,nj,44,19840.909090909092,873000.0
+bmw,suv,nv,17,20182.352941176472,343100.0
+bmw,suv,ny,3,12033.333333333334,36100.0
+bmw,suv,oh,33,26890.909090909092,887400.0
+bmw,suv,on,12,19550.0,234600.0
+bmw,suv,or,1,30900.0,30900.0
+bmw,suv,pa,103,19019.90291262136,1959050.0
+bmw,suv,pr,1,32000.0,32000.0
+bmw,suv,sc,4,13775.0,55100.0
+bmw,suv,tn,3,12033.333333333334,36100.0
+bmw,suv,tx,25,10300.0,257500.0
+bmw,suv,va,11,6981.818181818182,76800.0
+bmw,suv,wa,12,16308.333333333334,195700.0
+bmw,suv,wi,26,23782.69230769231,618350.0
+bmw,wagon,ca,2,2350.0,4700.0
+bmw,wagon,fl,3,8000.0,24000.0
+bmw,wagon,ga,1,9700.0,9700.0
+bmw,wagon,il,2,9000.0,18000.0
+bmw,wagon,md,1,2800.0,2800.0
+bmw,wagon,mn,1,4700.0,4700.0
+bmw,wagon,nv,2,18100.0,36200.0
+bmw,wagon,oh,2,13125.0,26250.0
+bmw,wagon,or,1,24500.0,24500.0
+bmw,wagon,pa,3,10666.666666666666,32000.0
+bmw,wagon,va,1,9800.0,9800.0
+bmw,wagon,wa,2,12350.0,24700.0
+buick,coupe,nc,1,1050.0,1050.0
+buick,minivan,ca,1,7500.0,7500.0
+buick,minivan,fl,3,4366.666666666667,13100.0
+buick,minivan,mi,1,3300.0,3300.0
+buick,minivan,nc,2,4375.0,8750.0
+buick,minivan,oh,2,1450.0,2900.0
+buick,sedan,az,10,12300.0,123000.0
+buick,sedan,ca,51,6779.431372549019,345751.0
+buick,sedan,co,8,12125.0,97000.0
+buick,sedan,fl,93,9398.924731182795,874100.0
+buick,sedan,ga,31,8187.096774193548,253800.0
+buick,sedan,il,49,13850.0,678650.0
+buick,sedan,in,14,8371.42857142857,117200.0
+buick,sedan,la,5,6150.0,30750.0
+buick,sedan,ma,10,4245.0,42450.0
+buick,sedan,md,18,4994.444444444444,89900.0
+buick,sedan,mi,33,12365.212121212122,408052.0
+buick,sedan,mn,13,9507.692307692309,123600.0
+buick,sedan,mo,12,10325.0,123900.0
+buick,sedan,ms,3,11616.666666666666,34850.0
+buick,sedan,nc,41,8780.487804878048,360000.0
+buick,sedan,ne,11,10400.0,114400.0
+buick,sedan,nj,30,7178.366666666667,215351.0
+buick,sedan,nv,14,8664.285714285714,121300.0
+buick,sedan,ny,2,1625.0,3250.0
+buick,sedan,oh,38,6988.184210526316,265551.0
+buick,sedan,on,2,13050.0,26100.0
+buick,sedan,or,1,3600.0,3600.0
+buick,sedan,pa,62,12594.354838709678,780850.0
+buick,sedan,qc,7,11071.42857142857,77500.0
+buick,sedan,sc,4,13400.0,53600.0
+buick,sedan,tn,10,11360.0,113600.0
+buick,sedan,tx,40,9562.575,382503.0
+buick,sedan,va,18,5305.555555555556,95500.0
+buick,sedan,wa,7,7642.857142857143,53500.0
+buick,sedan,wi,24,10789.583333333334,258950.0
+buick,suv,az,2,24300.0,48600.0
+buick,suv,ca,14,14682.142857142857,205550.0
+buick,suv,co,2,16400.0,32800.0
+buick,suv,fl,40,17722.5,708900.0
+buick,suv,ga,15,12913.333333333334,193700.0
+buick,suv,il,9,15133.333333333334,136200.0
+buick,suv,in,2,7200.0,14400.0
+buick,suv,la,2,21050.0,42100.0
+buick,suv,ma,1,8500.0,8500.0
+buick,suv,md,4,10550.0,42200.0
+buick,suv,mi,18,12783.333333333334,230100.0
+buick,suv,mn,15,14060.0,210900.0
+buick,suv,mo,15,15240.0,228600.0
+buick,suv,ms,2,11350.0,22700.0
+buick,suv,nc,18,12950.0,233100.0
+buick,suv,ne,8,20012.5,160100.0
+buick,suv,nj,6,12733.333333333334,76400.0
+buick,suv,nv,4,23975.0,95900.0
+buick,suv,ny,2,10050.0,20100.0
+buick,suv,oh,13,7511.538461538462,97650.0
+buick,suv,or,2,10050.0,20100.0
+buick,suv,pa,26,14023.076923076924,364600.0
+buick,suv,qc,1,23400.0,23400.0
+buick,suv,sc,3,13066.666666666666,39200.0
+buick,suv,tn,9,22294.444444444445,200650.0
+buick,suv,tx,28,16021.42857142857,448600.0
+buick,suv,ut,1,6700.0,6700.0
+buick,suv,va,5,11580.0,57900.0
+buick,suv,wa,3,10633.333333333334,31900.0
+buick,suv,wi,6,10166.666666666666,61000.0
+cadillac,convertible,ca,2,19400.0,38800.0
+cadillac,convertible,fl,1,20000.0,20000.0
+cadillac,convertible,va,1,11900.0,11900.0
+cadillac,coupe,ca,3,1733.3333333333333,5200.0
+cadillac,coupe,fl,3,3133.3333333333335,9400.0
+cadillac,coupe,il,1,850.0,850.0
+cadillac,coupe,ma,1,500.0,500.0
+cadillac,coupe,oh,1,950.0,950.0
+cadillac,coupe,tn,1,1300.0,1300.0
+cadillac,crew cab,ca,5,18280.0,91400.0
+cadillac,crew cab,fl,7,14071.42857142857,98500.0
+cadillac,crew cab,ga,1,13400.0,13400.0
+cadillac,crew cab,il,1,23000.0,23000.0
+cadillac,crew cab,md,1,17900.0,17900.0
+cadillac,crew cab,mi,1,22900.0,22900.0
+cadillac,crew cab,nc,1,16700.0,16700.0
+cadillac,crew cab,nj,2,18850.0,37700.0
+cadillac,crew cab,pa,7,16957.14285714286,118700.0
+cadillac,crew cab,tx,1,21300.0,21300.0
+cadillac,crew cab,ut,1,7800.0,7800.0
+cadillac,crew cab,va,1,7200.0,7200.0
+cadillac,crew cab,wa,1,12600.0,12600.0
+cadillac,cts coupe,ca,2,24875.0,49750.0
+cadillac,cts coupe,fl,3,25066.666666666668,75200.0
+cadillac,cts coupe,ga,1,22500.0,22500.0
+cadillac,cts coupe,hi,1,21800.0,21800.0
+cadillac,cts coupe,il,3,17800.0,53400.0
+cadillac,cts coupe,mi,3,22700.0,68100.0
+cadillac,cts coupe,nc,2,21550.0,43100.0
+cadillac,cts coupe,nj,1,25000.0,25000.0
+cadillac,cts coupe,oh,1,17200.0,17200.0
+cadillac,cts coupe,pa,8,23512.5,188100.0
+cadillac,cts coupe,tn,1,22500.0,22500.0
+cadillac,cts coupe,tx,1,24400.0,24400.0
+cadillac,cts coupe,wi,1,24800.0,24800.0
+cadillac,cts wagon,ca,2,21375.0,42750.0
+cadillac,cts-v coupe,ca,1,34500.0,34500.0
+cadillac,sedan,az,17,4767.64705882353,81050.0
+cadillac,sedan,ca,63,8198.412698412698,516500.0
+cadillac,sedan,co,3,18066.666666666668,54200.0
+cadillac,sedan,fl,107,9115.88785046729,975400.0
+cadillac,sedan,ga,43,7555.813953488372,324900.0
+cadillac,sedan,hi,1,13000.0,13000.0
+cadillac,sedan,il,37,13227.027027027027,489400.0
+cadillac,sedan,in,4,5575.0,22300.0
+cadillac,sedan,la,4,3525.0,14100.0
+cadillac,sedan,ma,6,6366.666666666667,38200.0
+cadillac,sedan,md,12,4154.166666666667,49850.0
+cadillac,sedan,mi,31,11867.741935483871,367900.0
+cadillac,sedan,mn,4,7300.0,29200.0
+cadillac,sedan,mo,16,7950.0,127200.0
+cadillac,sedan,ms,2,6400.0,12800.0
+cadillac,sedan,nc,36,5854.166666666667,210750.0
+cadillac,sedan,ne,8,7687.5,61500.0
+cadillac,sedan,nj,35,8311.42857142857,290900.0
+cadillac,sedan,nv,15,12073.333333333334,181100.0
+cadillac,sedan,ny,4,3875.0,15500.0
+cadillac,sedan,oh,32,10735.96875,343551.0
+cadillac,sedan,on,1,16000.0,16000.0
+cadillac,sedan,or,1,7500.0,7500.0
+cadillac,sedan,pa,77,13197.402597402597,1016200.0
+cadillac,sedan,sc,16,6431.25,102900.0
+cadillac,sedan,tn,20,12465.0,249300.0
+cadillac,sedan,tx,62,8963.709677419354,555750.0
+cadillac,sedan,ut,2,5800.0,11600.0
+cadillac,sedan,va,22,5013.636363636364,110300.0
+cadillac,sedan,wa,4,5775.0,23100.0
+cadillac,sedan,wi,24,9198.958333333334,220775.0
+cadillac,suv,ab,1,17800.0,17800.0
+cadillac,suv,az,7,20842.85714285714,145900.0
+cadillac,suv,ca,51,19937.254901960783,1016800.0
+cadillac,suv,co,7,22742.85714285714,159200.0
+cadillac,suv,fl,75,20380.666666666668,1528550.0
+cadillac,suv,ga,34,14605.882352941177,496600.0
+cadillac,suv,il,13,20753.846153846152,269800.0
+cadillac,suv,la,4,15375.0,61500.0
+cadillac,suv,ma,1,2200.0,2200.0
+cadillac,suv,md,9,15033.333333333334,135300.0
+cadillac,suv,mi,21,18328.571428571428,384900.0
+cadillac,suv,mn,8,21756.25,174050.0
+cadillac,suv,mo,11,19868.18181818182,218550.0
+cadillac,suv,ms,2,20250.0,40500.0
+cadillac,suv,nc,20,15202.5,304050.0
+cadillac,suv,ne,5,16020.0,80100.0
+cadillac,suv,nj,26,18176.923076923078,472600.0
+cadillac,suv,nm,1,4900.0,4900.0
+cadillac,suv,nv,15,18610.0,279150.0
+cadillac,suv,ny,2,12850.0,25700.0
+cadillac,suv,oh,19,19136.842105263157,363600.0
+cadillac,suv,on,1,11800.0,11800.0
+cadillac,suv,or,1,23200.0,23200.0
+cadillac,suv,pa,95,21956.315789473683,2085850.0
+cadillac,suv,sc,7,20842.85714285714,145900.0
+cadillac,suv,tn,17,19944.117647058825,339050.0
+cadillac,suv,tx,42,20436.904761904763,858350.0
+cadillac,suv,ut,3,13233.333333333334,39700.0
+cadillac,suv,va,14,13557.142857142857,189800.0
+cadillac,suv,wa,5,20700.0,103500.0
+cadillac,suv,wi,8,16406.25,131250.0
+chevrolet,convertible,az,3,24483.333333333332,73450.0
+chevrolet,convertible,ca,24,17552.083333333332,421250.0
+chevrolet,convertible,co,2,27950.0,55900.0
+chevrolet,convertible,fl,37,21059.45945945946,779200.0
+chevrolet,convertible,ga,4,19000.0,76000.0
+chevrolet,convertible,il,4,26775.0,107100.0
+chevrolet,convertible,la,2,19250.0,38500.0
+chevrolet,convertible,md,1,18000.0,18000.0
+chevrolet,convertible,mi,3,25800.0,77400.0
+chevrolet,convertible,mn,1,17400.0,17400.0
+chevrolet,convertible,mo,7,21485.714285714286,150400.0
+chevrolet,convertible,nc,2,17850.0,35700.0
+chevrolet,convertible,nj,2,22325.0,44650.0
+chevrolet,convertible,nv,10,22675.0,226750.0
+chevrolet,convertible,ny,1,22000.0,22000.0
+chevrolet,convertible,oh,3,19833.333333333332,59500.0
+chevrolet,convertible,pa,10,22210.0,222100.0
+chevrolet,convertible,sc,3,19183.333333333332,57550.0
+chevrolet,convertible,tn,3,19600.0,58800.0
+chevrolet,convertible,tx,16,22337.5,357400.0
+chevrolet,convertible,va,2,17200.0,34400.0
+chevrolet,convertible,wa,2,20300.0,40600.0
+chevrolet,convertible,wi,1,18001.0,18001.0
+chevrolet,coupe,az,7,7550.0,52850.0
+chevrolet,coupe,ca,41,13569.512195121952,556350.0
+chevrolet,coupe,co,12,15658.333333333334,187900.0
+chevrolet,coupe,fl,75,13385.333333333334,1003900.0
+chevrolet,coupe,ga,41,13704.878048780487,561900.0
+chevrolet,coupe,il,15,9070.0,136050.0
+chevrolet,coupe,in,8,9100.0,72800.0
+chevrolet,coupe,la,3,17400.0,52200.0
+chevrolet,coupe,ma,2,1750.0,3500.0
+chevrolet,coupe,md,14,10082.142857142857,141150.0
+chevrolet,coupe,mi,13,8980.76923076923,116750.0
+chevrolet,coupe,mn,3,19550.0,58650.0
+chevrolet,coupe,mo,16,12487.5,199800.0
+chevrolet,coupe,ms,1,16300.0,16300.0
+chevrolet,coupe,nc,24,10397.916666666666,249550.0
+chevrolet,coupe,ne,3,10466.666666666666,31400.0
+chevrolet,coupe,nj,16,11640.625,186250.0
+chevrolet,coupe,nv,10,16125.0,161250.0
+chevrolet,coupe,ny,5,12010.0,60050.0
+chevrolet,coupe,oh,22,7865.909090909091,173050.0
+chevrolet,coupe,pa,40,17377.5,695100.0
+chevrolet,coupe,qc,1,2600.0,2600.0
+chevrolet,coupe,sc,2,3100.0,6200.0
+chevrolet,coupe,tn,20,15722.5,314450.0
+chevrolet,coupe,tx,54,14572.222222222223,786900.0
+chevrolet,coupe,va,6,4383.333333333333,26300.0
+chevrolet,coupe,wa,2,12900.0,25800.0
+chevrolet,coupe,wi,8,5587.5,44700.0
+chevrolet,crew cab,ab,2,17250.0,34500.0
+chevrolet,crew cab,az,19,18442.105263157893,350400.0
+chevrolet,crew cab,ca,119,16501.26050420168,1963650.0
+chevrolet,crew cab,co,21,21521.428571428572,451950.0
+chevrolet,crew cab,fl,83,17613.85542168675,1461950.0
+chevrolet,crew cab,ga,75,16415.333333333332,1231150.0
+chevrolet,crew cab,hi,2,15225.0,30450.0
+chevrolet,crew cab,il,13,15165.384615384615,197150.0
+chevrolet,crew cab,in,5,23600.0,118000.0
+chevrolet,crew cab,la,8,14581.25,116650.0
+chevrolet,crew cab,ma,6,13566.666666666666,81400.0
+chevrolet,crew cab,md,3,9766.666666666666,29300.0
+chevrolet,crew cab,mi,52,18939.423076923078,984850.0
+chevrolet,crew cab,mn,31,18714.516129032258,580150.0
+chevrolet,crew cab,mo,36,18463.194444444445,664675.0
+chevrolet,crew cab,ms,5,14080.0,70400.0
+chevrolet,crew cab,nc,46,18008.695652173912,828400.0
+chevrolet,crew cab,ne,17,20417.647058823528,347100.0
+chevrolet,crew cab,nj,17,16050.0,272850.0
+chevrolet,crew cab,nm,2,21125.0,42250.0
+chevrolet,crew cab,nv,23,20697.82608695652,476050.0
+chevrolet,crew cab,ny,8,11037.5,88300.0
+chevrolet,crew cab,oh,23,18176.08695652174,418050.0
+chevrolet,crew cab,or,1,15100.0,15100.0
+chevrolet,crew cab,pa,73,20454.109589041094,1493150.0
+chevrolet,crew cab,qc,1,5500.0,5500.0
+chevrolet,crew cab,sc,19,15952.631578947368,303100.0
+chevrolet,crew cab,tn,62,21365.322580645163,1324650.0
+chevrolet,crew cab,tx,209,18406.22009569378,3846900.0
+chevrolet,crew cab,ut,17,23229.41176470588,394900.0
+chevrolet,crew cab,va,14,16235.714285714286,227300.0
+chevrolet,crew cab,wa,13,18500.0,240500.0
+chevrolet,crew cab,wi,13,19226.923076923078,249950.0
+chevrolet,double cab,ca,2,25750.0,51500.0
+chevrolet,double cab,co,2,28650.0,57300.0
+chevrolet,double cab,fl,5,26060.0,130300.0
+chevrolet,double cab,ga,1,22000.0,22000.0
+chevrolet,double cab,hi,1,20250.0,20250.0
+chevrolet,double cab,la,1,27300.0,27300.0
+chevrolet,double cab,mi,4,27375.0,109500.0
+chevrolet,double cab,mn,2,29000.0,58000.0
+chevrolet,double cab,mo,3,26800.0,80400.0
+chevrolet,double cab,nc,1,25500.0,25500.0
+chevrolet,double cab,nv,1,21600.0,21600.0
+chevrolet,double cab,oh,2,33150.0,66300.0
+chevrolet,double cab,pa,1,28200.0,28200.0
+chevrolet,double cab,tn,5,25930.0,129650.0
+chevrolet,double cab,tx,2,24550.0,49100.0
+chevrolet,double cab,va,1,22000.0,22000.0
+chevrolet,extended cab,az,17,11126.470588235294,189150.0
+chevrolet,extended cab,ca,82,9218.292682926829,755900.0
+chevrolet,extended cab,co,11,13313.636363636364,146450.0
+chevrolet,extended cab,fl,51,10454.901960784313,533200.0
+chevrolet,extended cab,ga,41,12165.853658536585,498800.0
+chevrolet,extended cab,il,10,11580.0,115800.0
+chevrolet,extended cab,in,8,7200.0,57600.0
+chevrolet,extended cab,la,3,10100.0,30300.0
+chevrolet,extended cab,ma,10,4925.0,49250.0
+chevrolet,extended cab,md,8,7687.5,61500.0
+chevrolet,extended cab,mi,37,17185.135135135137,635850.0
+chevrolet,extended cab,mn,21,10588.095238095239,222350.0
+chevrolet,extended cab,mo,12,11058.333333333334,132700.0
+chevrolet,extended cab,ms,3,11033.333333333334,33100.0
+chevrolet,extended cab,nc,39,10450.0,407550.0
+chevrolet,extended cab,ne,6,9133.333333333334,54800.0
+chevrolet,extended cab,nj,14,8900.0,124600.0
+chevrolet,extended cab,nv,11,9600.0,105600.0
+chevrolet,extended cab,ny,12,11362.5,136350.0
+chevrolet,extended cab,oh,27,10987.037037037036,296650.0
+chevrolet,extended cab,or,2,5775.0,11550.0
+chevrolet,extended cab,pa,50,14262.0,713100.0
+chevrolet,extended cab,pr,1,13600.0,13600.0
+chevrolet,extended cab,sc,4,11475.0,45900.0
+chevrolet,extended cab,tn,19,18815.78947368421,357500.0
+chevrolet,extended cab,tx,76,10853.947368421053,824900.0
+chevrolet,extended cab,ut,8,9950.0,79600.0
+chevrolet,extended cab,va,19,8910.526315789473,169300.0
+chevrolet,extended cab,wa,6,13450.0,80700.0
+chevrolet,extended cab,wi,11,10288.636363636364,113175.0
+chevrolet,hatchback,az,8,9562.5,76500.0
+chevrolet,hatchback,ca,55,10049.09090909091,552700.0
+chevrolet,hatchback,co,9,11077.777777777777,99700.0
+chevrolet,hatchback,fl,48,7702.083333333333,369700.0
+chevrolet,hatchback,ga,19,7036.8421052631575,133700.0
+chevrolet,hatchback,hi,4,10825.0,43300.0
+chevrolet,hatchback,il,35,10102.857142857143,353600.0
+chevrolet,hatchback,in,3,7166.666666666667,21500.0
+chevrolet,hatchback,ma,5,8840.0,44200.0
+chevrolet,hatchback,md,8,5887.5,47100.0
+chevrolet,hatchback,mi,11,8477.272727272728,93250.0
+chevrolet,hatchback,mn,8,6875.25,55002.0
+chevrolet,hatchback,mo,7,6364.285714285715,44550.0
+chevrolet,hatchback,ms,3,5700.0,17100.0
+chevrolet,hatchback,nc,17,7335.294117647059,124700.0
+chevrolet,hatchback,ne,7,8085.714285714285,56600.0
+chevrolet,hatchback,nj,1,5400.0,5400.0
+chevrolet,hatchback,nv,6,7033.333333333333,42200.0
+chevrolet,hatchback,ny,3,8766.666666666666,26300.0
+chevrolet,hatchback,oh,14,6042.857142857143,84600.0
+chevrolet,hatchback,on,1,600.0,600.0
+chevrolet,hatchback,or,6,8700.0,52200.0
+chevrolet,hatchback,pa,35,8460.0,296100.0
+chevrolet,hatchback,sc,3,9000.0,27000.0
+chevrolet,hatchback,tn,7,8714.285714285714,61000.0
+chevrolet,hatchback,tx,17,10764.764705882353,183001.0
+chevrolet,hatchback,ut,4,7350.0,29400.0
+chevrolet,hatchback,va,5,4480.0,22400.0
+chevrolet,hatchback,wa,3,5866.666666666667,17600.0
+chevrolet,hatchback,wi,6,4783.333333333333,28700.0
+chevrolet,minivan,ab,1,2000.0,2000.0
+chevrolet,minivan,az,1,2400.0,2400.0
+chevrolet,minivan,ca,9,2177.777777777778,19600.0
+chevrolet,minivan,co,2,2850.0,5700.0
+chevrolet,minivan,fl,8,3450.0,27600.0
+chevrolet,minivan,ga,7,1642.857142857143,11500.0
+chevrolet,minivan,hi,1,1900.0,1900.0
+chevrolet,minivan,il,3,2550.0,7650.0
+chevrolet,minivan,in,2,3075.0,6150.0
+chevrolet,minivan,la,3,1333.3333333333333,4000.0
+chevrolet,minivan,ma,1,3100.0,3100.0
+chevrolet,minivan,md,6,2133.3333333333335,12800.0
+chevrolet,minivan,mi,3,2633.3333333333335,7900.0
+chevrolet,minivan,mn,3,3183.3333333333335,9550.0
+chevrolet,minivan,mo,3,2350.0,7050.0
+chevrolet,minivan,nc,8,3312.5,26500.0
+chevrolet,minivan,ne,3,2366.6666666666665,7100.0
+chevrolet,minivan,nj,3,1500.0,4500.0
+chevrolet,minivan,nv,6,2708.3333333333335,16250.0
+chevrolet,minivan,oh,9,3622.222222222222,32600.0
+chevrolet,minivan,or,1,1500.0,1500.0
+chevrolet,minivan,pa,4,1400.0,5600.0
+chevrolet,minivan,pr,1,2400.0,2400.0
+chevrolet,minivan,tn,2,1150.0,2300.0
+chevrolet,minivan,tx,8,2443.75,19550.0
+chevrolet,minivan,ut,1,3600.0,3600.0
+chevrolet,minivan,va,5,2440.0,12200.0
+chevrolet,minivan,wi,2,700.0,1400.0
+chevrolet,regular cab,az,7,7235.714285714285,50650.0
+chevrolet,regular cab,ca,21,9209.52380952381,193400.0
+chevrolet,regular cab,co,1,7800.0,7800.0
+chevrolet,regular cab,fl,32,8192.96875,262175.0
+chevrolet,regular cab,ga,20,10060.0,201200.0
+chevrolet,regular cab,il,3,6700.0,20100.0
+chevrolet,regular cab,in,3,4600.0,13800.0
+chevrolet,regular cab,la,1,7000.0,7000.0
+chevrolet,regular cab,ma,3,10566.666666666666,31700.0
+chevrolet,regular cab,md,2,7675.0,15350.0
+chevrolet,regular cab,mi,7,7728.571428571428,54100.0
+chevrolet,regular cab,mn,1,4500.0,4500.0
+chevrolet,regular cab,mo,6,10200.0,61200.0
+chevrolet,regular cab,ms,2,11500.0,23000.0
+chevrolet,regular cab,nc,7,6807.142857142857,47650.0
+chevrolet,regular cab,ne,3,16933.333333333332,50800.0
+chevrolet,regular cab,nj,3,10550.0,31650.0
+chevrolet,regular cab,nv,5,5650.0,28250.0
+chevrolet,regular cab,ny,1,8950.0,8950.0
+chevrolet,regular cab,oh,4,8500.0,34000.0
+chevrolet,regular cab,or,2,12600.0,25200.0
+chevrolet,regular cab,pa,8,10800.0,86400.0
+chevrolet,regular cab,sc,3,6433.333333333333,19300.0
+chevrolet,regular cab,tn,11,12481.818181818182,137300.0
+chevrolet,regular cab,tx,20,8097.5,161950.0
+chevrolet,regular cab,va,12,8183.333333333333,98200.0
+chevrolet,regular cab,wa,3,13966.666666666666,41900.0
+chevrolet,regular cab,wi,5,6050.0,30250.0
+chevrolet,sedan,ab,2,7350.0,14700.0
+chevrolet,sedan,az,121,8735.123966942148,1056950.0
+chevrolet,sedan,ca,403,8238.83622828784,3320251.0
+chevrolet,sedan,co,83,11750.614457831325,975301.0
+chevrolet,sedan,fl,632,10822.927215189873,6840090.0
+chevrolet,sedan,ga,248,7695.370967741936,1908452.0
+chevrolet,sedan,hi,8,8668.75,69350.0
+chevrolet,sedan,il,357,12492.857142857143,4459950.0
+chevrolet,sedan,in,72,7250.347222222223,522025.0
+chevrolet,sedan,la,31,8377.41935483871,259700.0
+chevrolet,sedan,ma,48,6487.5,311400.0
+chevrolet,sedan,md,112,6316.071428571428,707400.0
+chevrolet,sedan,mi,251,9804.804780876493,2461006.0
+chevrolet,sedan,mn,85,8958.835294117647,761501.0
+chevrolet,sedan,mo,145,8611.724137931034,1248700.0
+chevrolet,sedan,ms,25,9714.0,242850.0
+chevrolet,sedan,nc,258,6812.387596899225,1757596.0
+chevrolet,sedan,ne,74,10602.702702702703,784600.0
+chevrolet,sedan,nj,136,7991.007352941177,1086777.0
+chevrolet,sedan,nm,2,11100.0,22200.0
+chevrolet,sedan,nv,87,9832.758620689656,855450.0
+chevrolet,sedan,ny,27,4968.518518518518,134150.0
+chevrolet,sedan,oh,180,6683.611111111111,1203050.0
+chevrolet,sedan,ok,1,12300.0,12300.0
+chevrolet,sedan,on,12,8716.666666666666,104600.0
+chevrolet,sedan,or,18,10272.222222222223,184900.0
+chevrolet,sedan,pa,433,10295.66974595843,4458025.0
+chevrolet,sedan,pr,4,7375.0,29500.0
+chevrolet,sedan,qc,11,7122.727272727273,78350.0
+chevrolet,sedan,sc,48,9645.916666666666,463004.0
+chevrolet,sedan,tn,109,8096.788990825688,882550.0
+chevrolet,sedan,tx,421,7989.192399049881,3363450.0
+chevrolet,sedan,ut,17,7211.764705882353,122600.0
+chevrolet,sedan,va,114,6635.526315789473,756450.0
+chevrolet,sedan,wa,44,9630.113636363636,423725.0
+chevrolet,sedan,wi,129,8685.658914728681,1120450.0
+chevrolet,suv,ab,2,3750.0,7500.0
+chevrolet,suv,az,54,14354.62962962963,775150.0
+chevrolet,suv,ca,287,13081.547038327526,3754404.0
+chevrolet,suv,co,42,14528.57142857143,610200.0
+chevrolet,suv,fl,272,14121.514705882353,3841052.0
+chevrolet,suv,ga,140,10571.442857142858,1480002.0
+chevrolet,suv,hi,5,11690.0,58450.0
+chevrolet,suv,il,106,16217.009433962265,1719003.0
+chevrolet,suv,in,18,8898.611111111111,160175.0
+chevrolet,suv,la,19,17421.105263157893,331001.0
+chevrolet,suv,ma,41,11207.317073170732,459500.0
+chevrolet,suv,md,46,9096.739130434782,418450.0
+chevrolet,suv,mi,99,12837.373737373737,1270900.0
+chevrolet,suv,mn,51,13840.196078431372,705850.0
+chevrolet,suv,mo,65,14539.23076923077,945050.0
+chevrolet,suv,ms,8,6862.5,54900.0
+chevrolet,suv,nc,148,10514.527027027027,1556150.0
+chevrolet,suv,ne,48,11529.1875,553401.0
+chevrolet,suv,nj,84,11047.630952380952,928001.0
+chevrolet,suv,nm,2,27250.0,54500.0
+chevrolet,suv,ns,1,7400.0,7400.0
+chevrolet,suv,nv,70,13204.285714285714,924300.0
+chevrolet,suv,ny,19,6092.105263157895,115750.0
+chevrolet,suv,oh,102,11943.137254901962,1218200.0
+chevrolet,suv,on,1,3100.0,3100.0
+chevrolet,suv,or,7,13128.57142857143,91900.0
+chevrolet,suv,pa,248,14984.274193548386,3716100.0
+chevrolet,suv,pr,5,11980.0,59900.0
+chevrolet,suv,qc,3,9066.666666666666,27200.0
+chevrolet,suv,sc,39,11900.0,464100.0
+chevrolet,suv,tn,76,14526.973684210527,1104050.0
+chevrolet,suv,tx,284,11779.94014084507,3345503.0
+chevrolet,suv,ut,19,12755.263157894737,242350.0
+chevrolet,suv,va,84,9473.214285714286,795750.0
+chevrolet,suv,wa,38,11105.263157894737,422000.0
+chevrolet,suv,wi,76,11653.28947368421,885650.0
+chevrolet,van,az,5,17020.0,85100.0
+chevrolet,van,ca,22,11693.181818181818,257250.0
+chevrolet,van,co,3,8000.0,24000.0
+chevrolet,van,fl,38,9438.157894736842,358650.0
+chevrolet,van,ga,9,10488.888888888889,94400.0
+chevrolet,van,hi,1,3100.0,3100.0
+chevrolet,van,il,14,19357.14285714286,271000.0
+chevrolet,van,in,5,8260.0,41300.0
+chevrolet,van,la,6,8050.0,48300.0
+chevrolet,van,ma,4,8800.0,35200.0
+chevrolet,van,md,4,14300.0,57200.0
+chevrolet,van,mi,6,8666.666666666666,52000.0
+chevrolet,van,mn,2,8400.0,16800.0
+chevrolet,van,mo,5,8300.0,41500.0
+chevrolet,van,ms,1,11500.0,11500.0
+chevrolet,van,nc,21,8709.52380952381,182900.0
+chevrolet,van,ne,2,18250.0,36500.0
+chevrolet,van,nj,7,9885.714285714286,69200.0
+chevrolet,van,ny,2,2650.0,5300.0
+chevrolet,van,oh,9,8588.888888888889,77300.0
+chevrolet,van,or,2,4000.0,8000.0
+chevrolet,van,pa,20,14537.5,290750.0
+chevrolet,van,pr,3,3500.0,10500.0
+chevrolet,van,sc,2,19450.0,38900.0
+chevrolet,van,tn,2,14800.0,29600.0
+chevrolet,van,tx,22,12822.772727272728,282101.0
+chevrolet,van,ut,2,9050.0,18100.0
+chevrolet,van,va,6,6000.0,36000.0
+chevrolet,van,wa,4,8500.0,34000.0
+chevrolet,van,wi,7,8571.42857142857,60000.0
+chevrolet,wagon,al,1,1600.0,1600.0
+chevrolet,wagon,az,2,3700.0,7400.0
+chevrolet,wagon,ca,14,5082.142857142857,71150.0
+chevrolet,wagon,co,2,7100.0,14200.0
+chevrolet,wagon,fl,30,5033.333333333333,151000.0
+chevrolet,wagon,ga,8,4575.0,36600.0
+chevrolet,wagon,il,8,5687.5,45500.0
+chevrolet,wagon,in,4,5325.0,21300.0
+chevrolet,wagon,la,3,5233.333333333333,15700.0
+chevrolet,wagon,ma,1,4800.0,4800.0
+chevrolet,wagon,md,2,2800.0,5600.0
+chevrolet,wagon,mi,5,3540.0,17700.0
+chevrolet,wagon,mn,4,7850.0,31400.0
+chevrolet,wagon,mo,8,4750.0,38000.0
+chevrolet,wagon,ms,2,3100.0,6200.0
+chevrolet,wagon,nc,16,4750.0,76000.0
+chevrolet,wagon,nj,6,3166.6666666666665,19000.0
+chevrolet,wagon,nv,5,5620.0,28100.0
+chevrolet,wagon,ny,2,4100.0,8200.0
+chevrolet,wagon,oh,12,5487.5,65850.0
+chevrolet,wagon,or,1,2600.0,2600.0
+chevrolet,wagon,pa,10,6535.0,65350.0
+chevrolet,wagon,sc,4,7025.0,28100.0
+chevrolet,wagon,tn,4,6800.0,27200.0
+chevrolet,wagon,tx,26,4934.615384615385,128300.0
+chevrolet,wagon,va,8,4287.5,34300.0
+chevrolet,wagon,wa,1,2600.0,2600.0
+chevrolet,wagon,wi,3,4466.666666666667,13400.0
+chrysler,convertible,az,5,3470.0,17350.0
+chrysler,convertible,ca,12,2754.1666666666665,33050.0
+chrysler,convertible,co,1,16400.0,16400.0
+chrysler,convertible,fl,22,4609.090909090909,101400.0
+chrysler,convertible,ga,8,3512.5,28100.0
+chrysler,convertible,il,3,4100.0,12300.0
+chrysler,convertible,ma,2,2625.0,5250.0
+chrysler,convertible,mi,2,7550.0,15100.0
+chrysler,convertible,mn,3,7833.333333333333,23500.0
+chrysler,convertible,nc,7,3785.714285714286,26500.0
+chrysler,convertible,ne,3,2766.6666666666665,8300.0
+chrysler,convertible,nj,5,1790.0,8950.0
+chrysler,convertible,nv,2,5900.0,11800.0
+chrysler,convertible,ny,1,10500.0,10500.0
+chrysler,convertible,oh,5,3480.0,17400.0
+chrysler,convertible,pa,5,6380.0,31900.0
+chrysler,convertible,sc,4,2225.0,8900.0
+chrysler,convertible,tn,1,800.0,800.0
+chrysler,convertible,tx,7,5342.857142857143,37400.0
+chrysler,convertible,va,1,1000.0,1000.0
+chrysler,convertible,wa,2,9500.0,19000.0
+chrysler,convertible,wi,3,6400.0,19200.0
+chrysler,coupe,az,1,650.0,650.0
+chrysler,coupe,ca,1,1400.0,1400.0
+chrysler,coupe,co,1,2400.0,2400.0
+chrysler,coupe,fl,2,1000.0,2000.0
+chrysler,coupe,mi,1,600.0,600.0
+chrysler,coupe,nj,1,3600.0,3600.0
+chrysler,coupe,ut,1,700.0,700.0
+chrysler,coupe,va,1,2500.0,2500.0
+chrysler,hatchback,ca,2,6075.0,12150.0
+chrysler,hatchback,fl,1,3700.0,3700.0
+chrysler,hatchback,ga,1,3300.0,3300.0
+chrysler,hatchback,nv,1,5500.0,5500.0
+chrysler,hatchback,pa,1,6400.0,6400.0
+chrysler,minivan,ab,3,25966.666666666668,77900.0
+chrysler,minivan,az,27,13818.518518518518,373100.0
+chrysler,minivan,ca,81,12562.345679012345,1017550.0
+chrysler,minivan,co,9,13122.222222222223,118100.0
+chrysler,minivan,fl,175,15172.57142857143,2655200.0
+chrysler,minivan,ga,31,9754.838709677419,302400.0
+chrysler,minivan,il,75,17302.666666666668,1297700.0
+chrysler,minivan,in,18,14016.666666666666,252300.0
+chrysler,minivan,ma,3,5783.333333333333,17350.0
+chrysler,minivan,md,20,9287.5,185750.0
+chrysler,minivan,mi,67,15837.313432835821,1061100.0
+chrysler,minivan,mn,40,15235.0,609400.0
+chrysler,minivan,mo,25,13102.0,327550.0
+chrysler,minivan,ms,2,8150.0,16300.0
+chrysler,minivan,nc,40,6967.5,278700.0
+chrysler,minivan,ne,11,11286.363636363636,124150.0
+chrysler,minivan,nj,35,13575.714285714286,475150.0
+chrysler,minivan,nv,18,13566.666666666666,244200.0
+chrysler,minivan,ny,21,13364.285714285714,280650.0
+chrysler,minivan,oh,45,13878.888888888889,624550.0
+chrysler,minivan,on,34,25363.235294117647,862350.0
+chrysler,minivan,or,1,15300.0,15300.0
+chrysler,minivan,pa,135,16210.74074074074,2188450.0
+chrysler,minivan,pr,3,4266.666666666667,12800.0
+chrysler,minivan,qc,2,25150.0,50300.0
+chrysler,minivan,sc,13,7923.076923076923,103000.0
+chrysler,minivan,tn,25,12168.0,304200.0
+chrysler,minivan,tx,48,11279.166666666666,541400.0
+chrysler,minivan,ut,1,7500.0,7500.0
+chrysler,minivan,va,86,16310.46511627907,1402700.0
+chrysler,minivan,wa,5,15340.0,76700.0
+chrysler,minivan,wi,11,11363.636363636364,125000.0
+chrysler,sedan,ab,8,20593.75,164750.0
+chrysler,sedan,az,22,10745.454545454546,236400.0
+chrysler,sedan,ca,147,9035.714285714286,1328250.0
+chrysler,sedan,co,22,9050.0,199100.0
+chrysler,sedan,fl,215,11251.67441860465,2419110.0
+chrysler,sedan,ga,105,10155.714285714286,1066350.0
+chrysler,sedan,hi,3,9083.333333333334,27250.0
+chrysler,sedan,il,69,11215.95652173913,773901.0
+chrysler,sedan,in,44,10531.818181818182,463400.0
+chrysler,sedan,la,7,10257.142857142857,71800.0
+chrysler,sedan,ma,10,6050.0,60500.0
+chrysler,sedan,md,53,7670.754716981132,406550.0
+chrysler,sedan,mi,102,11619.607843137255,1185200.0
+chrysler,sedan,mn,51,14134.313725490196,720850.0
+chrysler,sedan,mo,28,9025.035714285714,252701.0
+chrysler,sedan,ms,10,11940.0,119400.0
+chrysler,sedan,nc,77,7198.064935064935,554251.0
+chrysler,sedan,ne,12,9087.5,109050.0
+chrysler,sedan,nj,51,8815.686274509804,449600.0
+chrysler,sedan,nv,13,10842.307692307691,140950.0
+chrysler,sedan,ny,12,7966.666666666667,95600.0
+chrysler,sedan,oh,60,9368.333333333334,562100.0
+chrysler,sedan,on,85,22134.117647058825,1881400.0
+chrysler,sedan,or,5,10860.0,54300.0
+chrysler,sedan,pa,102,12803.43137254902,1305950.0
+chrysler,sedan,pr,2,3300.0,6600.0
+chrysler,sedan,qc,11,18590.909090909092,204500.0
+chrysler,sedan,sc,21,9166.666666666666,192500.0
+chrysler,sedan,tn,54,12005.555555555555,648300.0
+chrysler,sedan,tx,164,11307.621951219513,1854450.0
+chrysler,sedan,ut,3,9633.333333333334,28900.0
+chrysler,sedan,va,59,12000.847457627118,708050.0
+chrysler,sedan,wa,8,8475.0,67800.0
+chrysler,sedan,wi,29,8877.586206896553,257450.0
+chrysler,suv,az,1,11400.0,11400.0
+chrysler,suv,ca,5,8690.0,43450.0
+chrysler,suv,fl,7,7985.714285714285,55900.0
+chrysler,suv,ga,2,9350.0,18700.0
+chrysler,suv,il,1,5700.0,5700.0
+chrysler,suv,ma,2,8950.0,17900.0
+chrysler,suv,md,1,7600.0,7600.0
+chrysler,suv,mi,1,10500.0,10500.0
+chrysler,suv,mn,1,11900.0,11900.0
+chrysler,suv,mo,1,7000.0,7000.0
+chrysler,suv,nc,4,10350.0,41400.0
+chrysler,suv,ne,1,7500.0,7500.0
+chrysler,suv,nj,2,10350.0,20700.0
+chrysler,suv,pa,4,12800.0,51200.0
+chrysler,suv,sc,1,5800.0,5800.0
+chrysler,suv,tn,5,8200.0,41000.0
+chrysler,suv,tx,9,7566.666666666667,68100.0
+chrysler,suv,wi,1,8300.0,8300.0
+chrysler,wagon,az,6,2633.3333333333335,15800.0
+chrysler,wagon,ca,33,2121.212121212121,70000.0
+chrysler,wagon,co,4,1900.0,7600.0
+chrysler,wagon,fl,30,2661.6666666666665,79850.0
+chrysler,wagon,ga,12,2241.6666666666665,26900.0
+chrysler,wagon,il,4,2275.0,9100.0
+chrysler,wagon,in,1,1700.0,1700.0
+chrysler,wagon,la,1,3900.0,3900.0
+chrysler,wagon,ma,7,2714.285714285714,19000.0
+chrysler,wagon,md,9,2900.0,26100.0
+chrysler,wagon,mi,8,2650.0,21200.0
+chrysler,wagon,mn,3,4066.6666666666665,12200.0
+chrysler,wagon,mo,5,2170.0,10850.0
+chrysler,wagon,nc,19,2460.5263157894738,46750.0
+chrysler,wagon,nj,6,2200.0,13200.0
+chrysler,wagon,nv,4,1775.0,7100.0
+chrysler,wagon,ny,1,1500.0,1500.0
+chrysler,wagon,oh,11,2927.2727272727275,32200.0
+chrysler,wagon,or,4,2162.5,8650.0
+chrysler,wagon,pa,9,3072.222222222222,27650.0
+chrysler,wagon,pr,1,1600.0,1600.0
+chrysler,wagon,sc,2,5050.0,10100.0
+chrysler,wagon,tn,10,3065.0,30650.0
+chrysler,wagon,tx,22,2670.4545454545455,58750.0
+chrysler,wagon,va,9,2605.5555555555557,23450.0
+chrysler,wagon,wa,4,4725.0,18900.0
+chrysler,wagon,wi,7,1757.142857142857,12300.0
+dodge,club cab,ca,6,5000.0,30000.0
+dodge,club cab,fl,2,4600.0,9200.0
+dodge,club cab,ga,3,4566.666666666667,13700.0
+dodge,club cab,in,2,11500.0,23000.0
+dodge,club cab,md,1,3300.0,3300.0
+dodge,club cab,mi,1,9500.0,9500.0
+dodge,club cab,mn,1,7200.0,7200.0
+dodge,club cab,mo,4,6050.0,24200.0
+dodge,club cab,nc,2,4400.0,8800.0
+dodge,club cab,nj,2,6250.0,12500.0
+dodge,club cab,oh,4,4175.0,16700.0
+dodge,club cab,pa,3,2350.0,7050.0
+dodge,club cab,sc,2,8150.0,16300.0
+dodge,club cab,tn,1,5600.0,5600.0
+dodge,club cab,tx,3,4600.0,13800.0
+dodge,convertible,tx,1,28700.0,28700.0
+dodge,coupe,az,4,13550.0,54200.0
+dodge,coupe,ca,27,18448.14814814815,498100.0
+dodge,coupe,co,3,18500.0,55500.0
+dodge,coupe,fl,32,19693.75,630200.0
+dodge,coupe,ga,20,20130.0,402600.0
+dodge,coupe,il,7,18142.85714285714,127000.0
+dodge,coupe,in,3,17566.666666666668,52700.0
+dodge,coupe,la,2,19300.0,38600.0
+dodge,coupe,ma,2,9625.0,19250.0
+dodge,coupe,md,2,7150.0,14300.0
+dodge,coupe,mi,3,15233.333333333334,45700.0
+dodge,coupe,mn,1,14500.0,14500.0
+dodge,coupe,mo,8,20193.75,161550.0
+dodge,coupe,ms,2,23000.0,46000.0
+dodge,coupe,nc,4,11800.0,47200.0
+dodge,coupe,ne,2,12350.0,24700.0
+dodge,coupe,nj,4,10550.0,42200.0
+dodge,coupe,nv,10,19800.0,198000.0
+dodge,coupe,ny,1,16900.0,16900.0
+dodge,coupe,oh,4,16425.0,65700.0
+dodge,coupe,on,3,28533.333333333332,85600.0
+dodge,coupe,pa,16,22090.625,353450.0
+dodge,coupe,sc,4,12887.5,51550.0
+dodge,coupe,tn,5,19720.0,98600.0
+dodge,coupe,tx,48,19350.0,928800.0
+dodge,coupe,va,6,15116.666666666666,90700.0
+dodge,coupe,wa,3,19366.666666666668,58100.0
+dodge,coupe,wi,1,8000.0,8000.0
+dodge,crew cab,az,1,11200.0,11200.0
+dodge,crew cab,ca,1,11700.0,11700.0
+dodge,crew cab,fl,4,14000.0,56000.0
+dodge,crew cab,ga,1,17000.0,17000.0
+dodge,crew cab,la,1,18100.0,18100.0
+dodge,crew cab,mi,7,20071.428571428572,140500.0
+dodge,crew cab,mn,1,16900.0,16900.0
+dodge,crew cab,mo,1,12400.0,12400.0
+dodge,crew cab,nc,2,16350.0,32700.0
+dodge,crew cab,ne,1,18700.0,18700.0
+dodge,crew cab,nv,1,22800.0,22800.0
+dodge,crew cab,oh,1,21500.0,21500.0
+dodge,crew cab,pa,3,17033.333333333332,51100.0
+dodge,crew cab,pr,1,15000.0,15000.0
+dodge,crew cab,qc,1,2700.0,2700.0
+dodge,crew cab,tn,1,9800.0,9800.0
+dodge,crew cab,tx,6,19183.333333333332,115100.0
+dodge,crew cab,wa,1,14700.0,14700.0
+dodge,crew cab,wi,1,10500.0,10500.0
+dodge,extended cab,ca,3,1100.0,3300.0
+dodge,extended cab,ga,1,2900.0,2900.0
+dodge,extended cab,mi,1,7800.0,7800.0
+dodge,extended cab,nc,1,2700.0,2700.0
+dodge,extended cab,ne,1,1000.0,1000.0
+dodge,extended cab,nj,1,1700.0,1700.0
+dodge,extended cab,tn,1,675.0,675.0
+dodge,extended cab,tx,2,5550.0,11100.0
+dodge,mega cab,az,1,29750.0,29750.0
+dodge,mega cab,ca,1,10700.0,10700.0
+dodge,mega cab,nv,2,18350.0,36700.0
+dodge,mega cab,pa,1,14800.0,14800.0
+dodge,mega cab,tx,6,12450.0,74700.0
+dodge,minivan,ab,6,7283.333333333333,43700.0
+dodge,minivan,az,42,10126.190476190477,425300.0
+dodge,minivan,ca,160,10927.81875,1748451.0
+dodge,minivan,co,22,11313.636363636364,248900.0
+dodge,minivan,fl,295,11931.19661016949,3519703.0
+dodge,minivan,ga,63,7955.158730158731,501175.0
+dodge,minivan,hi,5,9600.0,48000.0
+dodge,minivan,il,80,13194.375,1055550.0
+dodge,minivan,in,24,9916.666666666666,238000.0
+dodge,minivan,la,8,11762.5,94100.0
+dodge,minivan,ma,28,6383.928571428572,178750.0
+dodge,minivan,md,27,8727.777777777777,235650.0
+dodge,minivan,mi,37,8972.972972972973,332000.0
+dodge,minivan,mn,72,14934.722222222223,1075300.0
+dodge,minivan,mo,49,12506.122448979591,612800.0
+dodge,minivan,ms,2,13800.0,27600.0
+dodge,minivan,nc,67,8274.626865671642,554400.0
+dodge,minivan,ne,11,11186.363636363636,123050.0
+dodge,minivan,nj,39,7257.692307692308,283050.0
+dodge,minivan,nv,36,10470.833333333334,376950.0
+dodge,minivan,ny,13,5338.461538461538,69400.0
+dodge,minivan,oh,38,8793.447368421053,334151.0
+dodge,minivan,on,32,18210.9375,582750.0
+dodge,minivan,or,3,10133.333333333334,30400.0
+dodge,minivan,pa,122,14978.688524590163,1827400.0
+dodge,minivan,pr,2,6250.0,12500.0
+dodge,minivan,qc,9,8838.888888888889,79550.0
+dodge,minivan,sc,12,9016.666666666666,108200.0
+dodge,minivan,tn,30,12508.333333333334,375250.0
+dodge,minivan,tx,97,9927.835051546392,963000.0
+dodge,minivan,ut,2,6050.0,12100.0
+dodge,minivan,va,81,13433.333333333334,1088100.0
+dodge,minivan,wa,10,10895.0,108950.0
+dodge,minivan,wi,27,8505.555555555555,229650.0
+dodge,quad cab,ab,4,6050.0,24200.0
+dodge,quad cab,az,13,9011.538461538461,117150.0
+dodge,quad cab,ca,46,10041.304347826086,461900.0
+dodge,quad cab,co,11,12827.272727272728,141100.0
+dodge,quad cab,fl,44,9463.636363636364,416400.0
+dodge,quad cab,ga,36,10911.111111111111,392800.0
+dodge,quad cab,il,2,4950.0,9900.0
+dodge,quad cab,in,3,4966.666666666667,14900.0
+dodge,quad cab,la,2,3050.0,6100.0
+dodge,quad cab,ma,5,7540.0,37700.0
+dodge,quad cab,md,6,12616.666666666666,75700.0
+dodge,quad cab,mi,25,13220.0,330500.0
+dodge,quad cab,mn,10,10830.0,108300.0
+dodge,quad cab,mo,10,10610.0,106100.0
+dodge,quad cab,ms,1,3000.0,3000.0
+dodge,quad cab,nc,31,7641.935483870968,236900.0
+dodge,quad cab,ne,5,14700.0,73500.0
+dodge,quad cab,nj,9,6372.222222222223,57350.0
+dodge,quad cab,nv,11,8154.545454545455,89700.0
+dodge,quad cab,ny,7,9142.857142857143,64000.0
+dodge,quad cab,oh,23,12013.04347826087,276300.0
+dodge,quad cab,on,3,14000.0,42000.0
+dodge,quad cab,or,2,8400.0,16800.0
+dodge,quad cab,pa,27,10972.222222222223,296250.0
+dodge,quad cab,pr,2,4200.0,8400.0
+dodge,quad cab,sc,2,7900.0,15800.0
+dodge,quad cab,tn,20,10647.5,212950.0
+dodge,quad cab,tx,76,8867.763157894737,673950.0
+dodge,quad cab,ut,4,9850.0,39400.0
+dodge,quad cab,va,13,10226.923076923076,132950.0
+dodge,quad cab,wa,6,14558.333333333334,87350.0
+dodge,quad cab,wi,6,9500.0,57000.0
+dodge,ram van,ca,1,1200.0,1200.0
+dodge,regular cab,az,2,4500.0,9000.0
+dodge,regular cab,ca,3,9900.0,29700.0
+dodge,regular cab,fl,8,5837.5,46700.0
+dodge,regular cab,ga,3,3600.0,10800.0
+dodge,regular cab,hi,1,6800.0,6800.0
+dodge,regular cab,in,1,11200.0,11200.0
+dodge,regular cab,la,1,2100.0,2100.0
+dodge,regular cab,md,3,5700.0,17100.0
+dodge,regular cab,mn,1,1500.0,1500.0
+dodge,regular cab,mo,1,1000.0,1000.0
+dodge,regular cab,ms,1,8600.0,8600.0
+dodge,regular cab,nc,2,4750.0,9500.0
+dodge,regular cab,nj,2,9000.0,18000.0
+dodge,regular cab,nv,3,7800.0,23400.0
+dodge,regular cab,ny,2,6150.0,12300.0
+dodge,regular cab,oh,3,6216.666666666667,18650.0
+dodge,regular cab,ok,1,2100.0,2100.0
+dodge,regular cab,pa,1,11200.0,11200.0
+dodge,regular cab,tn,2,7250.0,14500.0
+dodge,regular cab,tx,10,4680.0,46800.0
+dodge,regular cab,va,2,2450.0,4900.0
+dodge,sedan,ab,6,15700.0,94200.0
+dodge,sedan,al,1,9700.0,9700.0
+dodge,sedan,az,42,9054.761904761905,380300.0
+dodge,sedan,ca,164,10014.634146341463,1642400.0
+dodge,sedan,co,22,10968.181818181818,241300.0
+dodge,sedan,fl,241,10851.659751037345,2615250.0
+dodge,sedan,ga,105,10415.257142857143,1093602.0
+dodge,sedan,hi,4,10650.0,42600.0
+dodge,sedan,il,74,10881.094594594595,805201.0
+dodge,sedan,in,34,9880.882352941177,335950.0
+dodge,sedan,la,17,10182.35294117647,173100.0
+dodge,sedan,ma,12,7550.0,90600.0
+dodge,sedan,md,43,8097.674418604651,348200.0
+dodge,sedan,mi,83,11629.518072289156,965250.0
+dodge,sedan,mn,38,9984.21052631579,379400.0
+dodge,sedan,mo,65,10268.076923076924,667425.0
+dodge,sedan,ms,17,10661.764705882353,181250.0
+dodge,sedan,nc,143,9210.13986013986,1317050.0
+dodge,sedan,ne,15,11150.0,167250.0
+dodge,sedan,nj,50,9578.0,478900.0
+dodge,sedan,nm,1,700.0,700.0
+dodge,sedan,nv,38,10793.421052631578,410150.0
+dodge,sedan,ny,21,8645.238095238095,181550.0
+dodge,sedan,oh,61,8953.27868852459,546150.0
+dodge,sedan,on,36,21252.777777777777,765100.0
+dodge,sedan,or,5,9480.0,47400.0
+dodge,sedan,pa,114,12187.719298245614,1389400.0
+dodge,sedan,pr,1,9500.0,9500.0
+dodge,sedan,qc,4,16600.0,66400.0
+dodge,sedan,sc,15,11553.4,173301.0
+dodge,sedan,tn,78,11536.538461538461,899850.0
+dodge,sedan,tx,263,11692.585551330798,3075150.0
+dodge,sedan,ut,2,6800.0,13600.0
+dodge,sedan,va,55,11035.454545454546,606950.0
+dodge,sedan,wa,16,8659.375,138550.0
+dodge,sedan,wi,21,9285.714285714286,195000.0
+dodge,suv,ab,3,12050.0,36150.0
+dodge,suv,az,13,11350.0,147550.0
+dodge,suv,ca,84,12218.452380952382,1026350.0
+dodge,suv,co,13,10692.307692307691,139000.0
+dodge,suv,fl,136,12814.70588235294,1742800.0
+dodge,suv,ga,56,11184.82142857143,626350.0
+dodge,suv,hi,1,16750.0,16750.0
+dodge,suv,il,48,15870.833333333334,761800.0
+dodge,suv,in,23,8328.260869565218,191550.0
+dodge,suv,la,4,14075.0,56300.0
+dodge,suv,ma,7,7442.857142857143,52100.0
+dodge,suv,md,20,9757.5,195150.0
+dodge,suv,mi,55,13532.727272727272,744300.0
+dodge,suv,mn,43,16067.441860465116,690900.0
+dodge,suv,mo,30,12526.666666666666,375800.0
+dodge,suv,ms,6,10416.666666666666,62500.0
+dodge,suv,nc,67,10437.313432835821,699300.0
+dodge,suv,ne,7,10550.0,73850.0
+dodge,suv,nj,26,8282.692307692309,215350.0
+dodge,suv,nm,2,4250.0,8500.0
+dodge,suv,nv,16,12490.625,199850.0
+dodge,suv,ny,10,8220.0,82200.0
+dodge,suv,oh,31,9414.516129032258,291850.0
+dodge,suv,ok,1,11500.0,11500.0
+dodge,suv,on,36,18366.666666666668,661200.0
+dodge,suv,or,6,14350.0,86100.0
+dodge,suv,pa,80,18516.875,1481350.0
+dodge,suv,qc,12,9341.666666666666,112100.0
+dodge,suv,sc,11,9036.363636363636,99400.0
+dodge,suv,tn,31,13367.741935483871,414400.0
+dodge,suv,tx,118,12222.881355932202,1442300.0
+dodge,suv,ut,6,8425.0,50550.0
+dodge,suv,va,36,13425.0,483300.0
+dodge,suv,wa,6,11966.666666666666,71800.0
+dodge,suv,wi,13,12753.846153846154,165800.0
+dodge,van,ca,4,8650.0,34600.0
+dodge,van,fl,2,11100.0,22200.0
+dodge,van,ga,1,14600.0,14600.0
+dodge,van,il,2,11700.0,23400.0
+dodge,van,md,2,8300.0,16600.0
+dodge,van,mn,1,5500.0,5500.0
+dodge,van,nc,2,5050.0,10100.0
+dodge,van,nj,2,9400.0,18800.0
+dodge,van,oh,2,8100.0,16200.0
+dodge,van,or,1,11000.0,11000.0
+dodge,van,pa,4,11387.5,45550.0
+dodge,van,va,1,5700.0,5700.0
+dodge,van,wi,1,7000.0,7000.0
+dodge,wagon,ab,2,2450.0,4900.0
+dodge,wagon,az,6,4908.333333333333,29450.0
+dodge,wagon,ca,29,3543.103448275862,102750.0
+dodge,wagon,co,2,3700.0,7400.0
+dodge,wagon,fl,44,4877.272727272727,214600.0
+dodge,wagon,ga,17,3864.705882352941,65700.0
+dodge,wagon,hi,2,4725.0,9450.0
+dodge,wagon,il,7,6100.0,42700.0
+dodge,wagon,in,8,6431.25,51450.0
+dodge,wagon,la,3,2966.6666666666665,8900.0
+dodge,wagon,ma,6,3916.6666666666665,23500.0
+dodge,wagon,md,14,5171.428571428572,72400.0
+dodge,wagon,mi,13,5742.307692307692,74650.0
+dodge,wagon,mn,4,5450.0,21800.0
+dodge,wagon,mo,7,5885.714285714285,41200.0
+dodge,wagon,nc,29,4534.482758620689,131500.0
+dodge,wagon,ne,3,4666.666666666667,14000.0
+dodge,wagon,nj,3,4233.333333333333,12700.0
+dodge,wagon,nv,8,3968.75,31750.0
+dodge,wagon,ny,2,6900.0,13800.0
+dodge,wagon,oh,17,4211.764705882353,71600.0
+dodge,wagon,on,1,4200.0,4200.0
+dodge,wagon,or,1,7500.0,7500.0
+dodge,wagon,pa,13,4903.846153846154,63750.0
+dodge,wagon,qc,1,8100.0,8100.0
+dodge,wagon,sc,1,1200.0,1200.0
+dodge,wagon,tn,12,4991.666666666667,59900.0
+dodge,wagon,tx,34,4382.35294117647,149000.0
+dodge,wagon,ut,1,7100.0,7100.0
+dodge,wagon,va,14,3835.714285714286,53700.0
+dodge,wagon,wa,5,4120.0,20600.0
+dodge,wagon,wi,10,4680.0,46800.0
+fiat,convertible,fl,3,10833.333333333334,32500.0
+fiat,convertible,il,1,8500.0,8500.0
+fiat,convertible,mo,1,11200.0,11200.0
+fiat,convertible,on,2,14650.0,29300.0
+fiat,convertible,tn,1,11000.0,11000.0
+fiat,convertible,tx,2,7650.0,15300.0
+fiat,hatchback,az,6,7550.0,45300.0
+fiat,hatchback,ca,18,8811.111111111111,158600.0
+fiat,hatchback,co,2,7250.0,14500.0
+fiat,hatchback,fl,21,9290.47619047619,195100.0
+fiat,hatchback,ga,2,8450.0,16900.0
+fiat,hatchback,hi,1,3000.0,3000.0
+fiat,hatchback,il,3,9583.333333333334,28750.0
+fiat,hatchback,ma,1,6500.0,6500.0
+fiat,hatchback,md,3,6966.666666666667,20900.0
+fiat,hatchback,mi,6,10450.0,62700.0
+fiat,hatchback,mo,2,10350.0,20700.0
+fiat,hatchback,nc,4,8575.0,34300.0
+fiat,hatchback,nj,5,8010.0,40050.0
+fiat,hatchback,nv,3,9000.0,27000.0
+fiat,hatchback,on,1,8800.0,8800.0
+fiat,hatchback,or,1,9800.0,9800.0
+fiat,hatchback,pa,8,8975.0,71800.0
+fiat,hatchback,qc,5,10360.0,51800.0
+fiat,hatchback,tn,3,8633.333333333334,25900.0
+fiat,hatchback,tx,11,8243.181818181818,90675.0
+fiat,hatchback,wa,3,9066.666666666666,27200.0
+fiat,hatchback,wi,2,8650.0,17300.0
+fiat,wagon,ca,10,12680.0,126800.0
+fiat,wagon,fl,14,11835.714285714286,165700.0
+fiat,wagon,ga,1,11700.0,11700.0
+fiat,wagon,il,5,11830.0,59150.0
+fiat,wagon,mn,1,11300.0,11300.0
+fiat,wagon,mo,1,8700.0,8700.0
+fiat,wagon,ms,1,11100.0,11100.0
+fiat,wagon,nc,1,12800.0,12800.0
+fiat,wagon,nj,2,11300.0,22600.0
+fiat,wagon,nv,1,12500.0,12500.0
+fiat,wagon,on,7,17871.428571428572,125100.0
+fiat,wagon,pa,3,11966.666666666666,35900.0
+fiat,wagon,qc,1,19900.0,19900.0
+fiat,wagon,tx,1,13200.0,13200.0
+fiat,wagon,va,4,11525.0,46100.0
+ford,convertible,az,15,13380.0,200700.0
+ford,convertible,ca,82,11114.024390243903,911350.0
+ford,convertible,co,4,11700.0,46800.0
+ford,convertible,fl,102,14693.137254901962,1498700.0
+ford,convertible,ga,14,13942.857142857143,195200.0
+ford,convertible,il,12,16983.333333333332,203800.0
+ford,convertible,in,1,4600.0,4600.0
+ford,convertible,la,1,15500.0,15500.0
+ford,convertible,ma,4,7837.5,31350.0
+ford,convertible,md,2,17850.0,35700.0
+ford,convertible,mi,1,23700.0,23700.0
+ford,convertible,mn,2,14100.0,28200.0
+ford,convertible,mo,26,13342.307692307691,346900.0
+ford,convertible,nc,9,8911.111111111111,80200.0
+ford,convertible,nj,9,11136.111111111111,100225.0
+ford,convertible,nv,43,14307.0,615201.0
+ford,convertible,ny,1,13500.0,13500.0
+ford,convertible,oh,4,11062.5,44250.0
+ford,convertible,on,1,29400.0,29400.0
+ford,convertible,or,1,11800.0,11800.0
+ford,convertible,pa,23,15586.95652173913,358500.0
+ford,convertible,qc,10,29470.0,294700.0
+ford,convertible,sc,1,13300.0,13300.0
+ford,convertible,tn,13,16500.0,214500.0
+ford,convertible,tx,21,10261.904761904761,215500.0
+ford,convertible,ut,1,14900.0,14900.0
+ford,convertible,va,1,700.0,700.0
+ford,convertible,wi,3,3700.0,11100.0
+ford,coupe,az,16,12343.75,197500.0
+ford,coupe,ca,68,9969.85294117647,677950.0
+ford,coupe,co,3,9933.333333333334,29800.0
+ford,coupe,fl,106,14069.811320754718,1491400.0
+ford,coupe,ga,42,12957.142857142857,544200.0
+ford,coupe,hi,2,20750.0,41500.0
+ford,coupe,il,15,14913.333333333334,223700.0
+ford,coupe,in,2,12900.0,25800.0
+ford,coupe,ma,4,8125.0,32500.0
+ford,coupe,md,6,14266.666666666666,85600.0
+ford,coupe,mi,6,8583.333333333334,51500.0
+ford,coupe,mn,4,13100.0,52400.0
+ford,coupe,mo,32,13973.4375,447150.0
+ford,coupe,ms,4,12150.0,48600.0
+ford,coupe,nc,27,9055.555555555555,244500.0
+ford,coupe,ne,3,11566.666666666666,34700.0
+ford,coupe,nj,8,5837.5,46700.0
+ford,coupe,nv,21,15047.619047619048,316000.0
+ford,coupe,ny,10,16570.0,165700.0
+ford,coupe,oh,9,14011.111111111111,126100.0
+ford,coupe,pa,28,13251.785714285714,371050.0
+ford,coupe,sc,5,9520.0,47600.0
+ford,coupe,tn,26,18523.076923076922,481600.0
+ford,coupe,tx,99,14300.505050505051,1415750.0
+ford,coupe,ut,1,1400.0,1400.0
+ford,coupe,va,14,9453.57142857143,132350.0
+ford,coupe,wa,9,13772.888888888889,123956.0
+ford,coupe,wi,7,6671.428571428572,46700.0
+ford,crew cab,az,10,15270.0,152700.0
+ford,crew cab,ca,51,16406.86274509804,836750.0
+ford,crew cab,co,12,17158.333333333332,205900.0
+ford,crew cab,fl,51,12701.960784313726,647800.0
+ford,crew cab,ga,29,18793.103448275862,545000.0
+ford,crew cab,hi,1,28000.0,28000.0
+ford,crew cab,il,17,19123.529411764706,325100.0
+ford,crew cab,la,4,19900.0,79600.0
+ford,crew cab,ma,1,27500.0,27500.0
+ford,crew cab,md,2,5550.0,11100.0
+ford,crew cab,mi,28,20166.071428571428,564650.0
+ford,crew cab,mn,10,15810.0,158100.0
+ford,crew cab,mo,13,23200.0,301600.0
+ford,crew cab,ms,9,11838.888888888889,106550.0
+ford,crew cab,nc,23,12391.304347826086,285000.0
+ford,crew cab,ne,5,10460.0,52300.0
+ford,crew cab,nj,4,18850.0,75400.0
+ford,crew cab,nv,15,19226.666666666668,288400.0
+ford,crew cab,ny,3,13600.0,40800.0
+ford,crew cab,oh,14,17032.14285714286,238450.0
+ford,crew cab,or,1,15000.0,15000.0
+ford,crew cab,pa,29,21075.862068965518,611200.0
+ford,crew cab,sc,7,16528.571428571428,115700.0
+ford,crew cab,tn,9,22822.222222222223,205400.0
+ford,crew cab,tx,117,17994.871794871793,2105400.0
+ford,crew cab,ut,25,22548.0,563700.0
+ford,crew cab,va,5,10000.0,50000.0
+ford,crew cab,wa,9,18450.0,166050.0
+ford,crew cab,wi,6,14133.333333333334,84800.0
+ford,e-series van,az,2,16600.0,33200.0
+ford,e-series van,ca,33,18854.545454545456,622200.0
+ford,e-series van,co,8,19637.5,157100.0
+ford,e-series van,fl,37,19572.972972972973,724200.0
+ford,e-series van,ga,23,20600.0,473800.0
+ford,e-series van,hi,3,19916.666666666668,59750.0
+ford,e-series van,il,20,20485.0,409700.0
+ford,e-series van,in,3,17833.333333333332,53500.0
+ford,e-series van,la,3,12550.0,37650.0
+ford,e-series van,ma,1,20100.0,20100.0
+ford,e-series van,md,12,19008.333333333332,228100.0
+ford,e-series van,mi,24,20737.5,497700.0
+ford,e-series van,mn,8,18850.0,150800.0
+ford,e-series van,mo,12,17833.333333333332,214000.0
+ford,e-series van,nc,9,13700.0,123300.0
+ford,e-series van,ne,1,19500.0,19500.0
+ford,e-series van,nj,26,19542.30769230769,508100.0
+ford,e-series van,nv,5,18950.0,94750.0
+ford,e-series van,ny,3,19800.0,59400.0
+ford,e-series van,oh,2,16050.0,32100.0
+ford,e-series van,or,2,18850.0,37700.0
+ford,e-series van,pa,50,20436.0,1021800.0
+ford,e-series van,pr,1,19500.0,19500.0
+ford,e-series van,sc,3,19300.0,57900.0
+ford,e-series van,tn,5,19020.0,95100.0
+ford,e-series van,tx,28,17592.85714285714,492600.0
+ford,e-series van,ut,2,18900.0,37800.0
+ford,e-series van,va,6,18066.666666666668,108400.0
+ford,e-series van,wa,13,21084.615384615383,274100.0
+ford,e-series van,wi,10,17050.0,170500.0
+ford,extended cab,ca,2,3450.0,6900.0
+ford,extended cab,fl,5,1220.0,6100.0
+ford,extended cab,ga,4,1825.0,7300.0
+ford,extended cab,il,1,1400.0,1400.0
+ford,extended cab,md,1,5600.0,5600.0
+ford,extended cab,mi,1,8300.0,8300.0
+ford,extended cab,nc,6,1958.3333333333333,11750.0
+ford,extended cab,nj,2,2475.0,4950.0
+ford,extended cab,nv,2,2200.0,4400.0
+ford,extended cab,or,1,500.0,500.0
+ford,extended cab,pa,1,2100.0,2100.0
+ford,extended cab,pr,1,500.0,500.0
+ford,extended cab,tn,1,600.0,600.0
+ford,extended cab,tx,3,1833.3333333333333,5500.0
+ford,extended cab,ut,1,1250.0,1250.0
+ford,extended cab,va,1,1000.0,1000.0
+ford,extended cab,wi,3,1116.6666666666667,3350.0
+ford,hatchback,ab,1,8000.0,8000.0
+ford,hatchback,az,11,9700.0,106700.0
+ford,hatchback,ca,85,10317.058823529413,876950.0
+ford,hatchback,co,16,11343.75,181500.0
+ford,hatchback,fl,127,10448.44094488189,1326952.0
+ford,hatchback,ga,48,10158.333333333334,487600.0
+ford,hatchback,hi,4,8937.5,35750.0
+ford,hatchback,il,75,11385.333333333334,853900.0
+ford,hatchback,in,3,9366.666666666666,28100.0
+ford,hatchback,la,3,10066.666666666666,30200.0
+ford,hatchback,ma,6,4029.1666666666665,24175.0
+ford,hatchback,md,13,9300.0,120900.0
+ford,hatchback,mi,31,10193.548387096775,316000.0
+ford,hatchback,mn,21,10547.619047619048,221500.0
+ford,hatchback,mo,75,11177.346666666666,838301.0
+ford,hatchback,ms,2,7400.0,14800.0
+ford,hatchback,nc,12,7150.0,85800.0
+ford,hatchback,ne,1,14400.0,14400.0
+ford,hatchback,nj,23,8560.91304347826,196901.0
+ford,hatchback,nm,1,10900.0,10900.0
+ford,hatchback,nv,12,10783.333333333334,129400.0
+ford,hatchback,ny,14,10414.285714285714,145800.0
+ford,hatchback,oh,26,8738.461538461539,227200.0
+ford,hatchback,on,5,13720.0,68600.0
+ford,hatchback,or,3,10966.666666666666,32900.0
+ford,hatchback,pa,54,10277.777777777777,555000.0
+ford,hatchback,pr,4,4950.0,19800.0
+ford,hatchback,qc,4,15250.0,61000.0
+ford,hatchback,sc,2,7400.0,14800.0
+ford,hatchback,tn,57,11235.982456140351,640451.0
+ford,hatchback,tx,71,11381.69014084507,808100.0
+ford,hatchback,va,6,5783.333333333333,34700.0
+ford,hatchback,wa,13,10838.461538461539,140900.0
+ford,hatchback,wi,4,12150.0,48600.0
+ford,minivan,az,9,6288.888888888889,56600.0
+ford,minivan,ca,25,8568.0,214200.0
+ford,minivan,co,2,12300.0,24600.0
+ford,minivan,fl,35,9978.57142857143,349250.0
+ford,minivan,ga,9,4888.888888888889,44000.0
+ford,minivan,hi,1,15250.0,15250.0
+ford,minivan,il,6,16416.666666666668,98500.0
+ford,minivan,in,7,8242.857142857143,57700.0
+ford,minivan,ma,5,4880.0,24400.0
+ford,minivan,md,8,5637.5,45100.0
+ford,minivan,mi,5,3970.0,19850.0
+ford,minivan,mn,1,8900.0,8900.0
+ford,minivan,mo,3,9316.666666666666,27950.0
+ford,minivan,ms,2,6950.0,13900.0
+ford,minivan,nc,16,4712.5,75400.0
+ford,minivan,ne,1,500.0,500.0
+ford,minivan,nj,8,6156.25,49250.0
+ford,minivan,nm,1,7000.0,7000.0
+ford,minivan,nv,5,4770.0,23850.0
+ford,minivan,ny,5,8600.0,43000.0
+ford,minivan,oh,9,2216.6666666666665,19950.0
+ford,minivan,on,1,4000.0,4000.0
+ford,minivan,or,1,800.0,800.0
+ford,minivan,pa,11,9568.181818181818,105250.0
+ford,minivan,pr,1,10300.0,10300.0
+ford,minivan,sc,1,15000.0,15000.0
+ford,minivan,tn,9,17588.88888888889,158300.0
+ford,minivan,tx,13,8511.538461538461,110650.0
+ford,minivan,ut,2,10400.0,20800.0
+ford,minivan,va,7,6471.428571428572,45300.0
+ford,minivan,wa,3,7266.666666666667,21800.0
+ford,minivan,wi,5,6630.0,33150.0
+ford,regular cab,az,8,12912.5,103300.0
+ford,regular cab,ca,50,10091.0,504550.0
+ford,regular cab,co,8,12400.0,99200.0
+ford,regular cab,fl,67,10198.507462686568,683300.0
+ford,regular cab,ga,27,11390.74074074074,307550.0
+ford,regular cab,hi,5,11940.0,59700.0
+ford,regular cab,il,10,7445.0,74450.0
+ford,regular cab,in,11,10477.272727272728,115250.0
+ford,regular cab,la,7,7671.428571428572,53700.0
+ford,regular cab,ma,3,5333.333333333333,16000.0
+ford,regular cab,md,11,7345.454545454545,80800.0
+ford,regular cab,mi,14,15178.57142857143,212500.0
+ford,regular cab,mn,9,12616.666666666666,113550.0
+ford,regular cab,mo,22,13163.636363636364,289600.0
+ford,regular cab,ms,2,16900.0,33800.0
+ford,regular cab,nc,16,7775.0,124400.0
+ford,regular cab,ne,6,2641.6666666666665,15850.0
+ford,regular cab,nj,18,9172.222222222223,165100.0
+ford,regular cab,nv,4,15275.0,61100.0
+ford,regular cab,ny,1,4500.0,4500.0
+ford,regular cab,oh,16,7151.5625,114425.0
+ford,regular cab,or,8,15400.0,123200.0
+ford,regular cab,pa,35,12905.714285714286,451700.0
+ford,regular cab,pr,5,4680.0,23400.0
+ford,regular cab,sc,11,9181.818181818182,101000.0
+ford,regular cab,tn,23,11568.478260869566,266075.0
+ford,regular cab,tx,61,9594.262295081968,585250.0
+ford,regular cab,ut,1,17500.0,17500.0
+ford,regular cab,va,13,5730.7692307692305,74500.0
+ford,regular cab,wa,14,14535.714285714286,203500.0
+ford,regular cab,wi,4,7825.0,31300.0
+ford,sedan,ab,4,10250.0,41000.0
+ford,sedan,az,56,8730.357142857143,488900.0
+ford,sedan,ca,428,10255.257009345794,4389250.0
+ford,sedan,co,75,11672.026666666667,875402.0
+ford,sedan,fl,639,11738.18779342723,7500702.0
+ford,sedan,ga,260,11737.696153846155,3051801.0
+ford,sedan,hi,10,10830.0,108300.0
+ford,sedan,il,426,13582.105633802817,5785977.0
+ford,sedan,in,42,8797.619047619048,369500.0
+ford,sedan,la,24,8595.833333333334,206300.0
+ford,sedan,ma,39,6953.846153846154,271200.0
+ford,sedan,md,104,9265.384615384615,963600.0
+ford,sedan,mi,299,12402.173913043478,3708250.0
+ford,sedan,mn,140,11757.864285714286,1646101.0
+ford,sedan,mo,346,13537.283236994219,4683900.0
+ford,sedan,ms,15,8630.0,129450.0
+ford,sedan,nc,169,7585.502958579882,1281950.0
+ford,sedan,ne,36,9404.166666666666,338550.0
+ford,sedan,nj,224,11160.669642857143,2499990.0
+ford,sedan,nm,2,13300.0,26600.0
+ford,sedan,ns,1,5800.0,5800.0
+ford,sedan,nv,58,9999.137931034482,579950.0
+ford,sedan,ny,125,12211.6,1526450.0
+ford,sedan,oh,197,10229.187817258884,2015150.0
+ford,sedan,on,8,10025.0,80200.0
+ford,sedan,or,10,10070.0,100700.0
+ford,sedan,pa,335,11015.970149253732,3690350.0
+ford,sedan,pr,19,7836.8421052631575,148900.0
+ford,sedan,qc,19,17613.157894736843,334650.0
+ford,sedan,sc,40,9348.75,373950.0
+ford,sedan,tn,238,13294.327731092437,3164050.0
+ford,sedan,tx,463,10344.38444924406,4789450.0
+ford,sedan,ut,10,6425.0,64250.0
+ford,sedan,va,75,7784.0,583800.0
+ford,sedan,wa,36,9816.666666666666,353400.0
+ford,sedan,wi,74,8726.364864864865,645751.0
+ford,supercab,ab,5,9750.0,48750.0
+ford,supercab,az,14,6721.428571428572,94100.0
+ford,supercab,ca,82,8256.707317073171,677050.0
+ford,supercab,co,21,16430.95238095238,345050.0
+ford,supercab,fl,76,9420.394736842105,715950.0
+ford,supercab,ga,38,10394.736842105263,395000.0
+ford,supercab,hi,1,1000.0,1000.0
+ford,supercab,il,34,18019.117647058825,612650.0
+ford,supercab,in,3,8900.0,26700.0
+ford,supercab,la,6,5883.333333333333,35300.0
+ford,supercab,ma,17,7088.235294117647,120500.0
+ford,supercab,md,12,11208.333333333334,134500.0
+ford,supercab,mi,93,16561.827956989247,1540250.0
+ford,supercab,mn,22,16640.909090909092,366100.0
+ford,supercab,mo,41,15012.19512195122,615500.0
+ford,supercab,ms,12,8450.0,101400.0
+ford,supercab,nc,59,8996.610169491525,530800.0
+ford,supercab,ne,11,8736.363636363636,96100.0
+ford,supercab,nj,17,12088.235294117647,205500.0
+ford,supercab,nv,11,10622.727272727272,116850.0
+ford,supercab,ny,19,13500.0,256500.0
+ford,supercab,oh,73,15777.397260273972,1151750.0
+ford,supercab,ok,1,10000.0,10000.0
+ford,supercab,on,2,18900.0,37800.0
+ford,supercab,pa,70,15723.57142857143,1100650.0
+ford,supercab,pr,11,10900.0,119900.0
+ford,supercab,qc,3,12900.0,38700.0
+ford,supercab,sc,6,7066.666666666667,42400.0
+ford,supercab,tn,49,15375.510204081633,753400.0
+ford,supercab,tx,115,10763.04347826087,1237750.0
+ford,supercab,ut,8,10283.125,82265.0
+ford,supercab,va,17,11952.941176470587,203200.0
+ford,supercab,wa,18,13927.777777777777,250700.0
+ford,supercab,wi,9,13461.111111111111,121150.0
+ford,supercrew,ab,29,17632.758620689656,511350.0
+ford,supercrew,az,11,15681.818181818182,172500.0
+ford,supercrew,ca,96,17224.479166666668,1653550.0
+ford,supercrew,co,37,23037.837837837837,852400.0
+ford,supercrew,fl,109,19867.981651376147,2165610.0
+ford,supercrew,ga,87,22709.19540229885,1975700.0
+ford,supercrew,hi,1,28750.0,28750.0
+ford,supercrew,il,50,26671.0,1333550.0
+ford,supercrew,in,5,21840.0,109200.0
+ford,supercrew,la,12,13766.666666666666,165200.0
+ford,supercrew,ma,4,10850.0,43400.0
+ford,supercrew,md,16,20093.75,321500.0
+ford,supercrew,mi,202,21570.29702970297,4357200.0
+ford,supercrew,mn,52,22117.30769230769,1150100.0
+ford,supercrew,mo,61,24617.213114754097,1501650.0
+ford,supercrew,ms,19,24528.947368421053,466050.0
+ford,supercrew,nc,43,13069.767441860466,562000.0
+ford,supercrew,ne,14,16457.14285714286,230400.0
+ford,supercrew,nj,35,20398.571428571428,713950.0
+ford,supercrew,nv,17,17170.58823529412,291900.0
+ford,supercrew,ny,21,24740.47619047619,519550.0
+ford,supercrew,oh,64,23556.25,1507600.0
+ford,supercrew,ok,3,5933.333333333333,17800.0
+ford,supercrew,on,14,23800.0,333200.0
+ford,supercrew,or,2,9300.0,18600.0
+ford,supercrew,pa,105,24444.761904761905,2566700.0
+ford,supercrew,pr,2,8100.0,16200.0
+ford,supercrew,qc,9,21594.444444444445,194350.0
+ford,supercrew,sc,8,15887.5,127100.0
+ford,supercrew,tn,94,24974.468085106382,2347600.0
+ford,supercrew,tx,236,18832.415254237287,4444450.0
+ford,supercrew,ut,28,19087.5,534450.0
+ford,supercrew,va,12,22558.333333333332,270700.0
+ford,supercrew,wa,26,21269.23076923077,553000.0
+ford,supercrew,wi,20,19830.0,396600.0
+ford,suv,ab,14,8192.857142857143,114700.0
+ford,suv,az,46,11390.217391304348,523950.0
+ford,suv,ca,478,14405.13179916318,6885653.0
+ford,suv,co,90,22196.11111111111,1997650.0
+ford,suv,fl,541,14497.756007393715,7843286.0
+ford,suv,ga,306,15754.254901960785,4820802.0
+ford,suv,hi,9,14666.666666666666,132000.0
+ford,suv,il,417,19547.841726618706,8151450.0
+ford,suv,in,29,9062.068965517241,262800.0
+ford,suv,la,14,11971.5,167601.0
+ford,suv,ma,46,9007.065217391304,414325.0
+ford,suv,md,101,11611.386138613861,1172750.0
+ford,suv,mi,280,17838.039285714287,4994651.0
+ford,suv,mn,145,17063.455172413793,2474201.0
+ford,suv,mo,335,19652.692537313433,6583652.0
+ford,suv,ms,18,16483.333333333332,296700.0
+ford,suv,nc,166,8818.981927710844,1463951.0
+ford,suv,ne,47,14662.765957446809,689150.0
+ford,suv,nj,376,16609.08510638298,6245016.0
+ford,suv,ns,1,2900.0,2900.0
+ford,suv,nv,68,12636.029411764706,859250.0
+ford,suv,ny,157,18237.579617834395,2863300.0
+ford,suv,oh,205,12936.102439024391,2651901.0
+ford,suv,ok,2,4925.0,9850.0
+ford,suv,on,27,18877.777777777777,509700.0
+ford,suv,or,12,10895.833333333334,130750.0
+ford,suv,pa,386,17012.82383419689,6566950.0
+ford,suv,pr,23,11900.0,273700.0
+ford,suv,qc,29,19470.689655172413,564650.0
+ford,suv,sc,33,12018.181818181818,396600.0
+ford,suv,tn,321,20779.595015576324,6670250.0
+ford,suv,tx,419,15400.835322195704,6452950.0
+ford,suv,ut,8,12443.75,99550.0
+ford,suv,va,88,8254.545454545454,726400.0
+ford,suv,wa,45,15102.222222222223,679600.0
+ford,suv,wi,66,12527.272727272728,826800.0
+ford,transit van,fl,1,22700.0,22700.0
+ford,transit van,nj,1,19500.0,19500.0
+ford,transit van,tn,1,24900.0,24900.0
+ford,transit van,va,1,24900.0,24900.0
+ford,van,az,2,17450.0,34900.0
+ford,van,ca,30,14490.0,434700.0
+ford,van,co,3,13333.333333333334,40000.0
+ford,van,fl,70,14835.714285714286,1038500.0
+ford,van,ga,20,16000.0,320000.0
+ford,van,il,21,16980.95238095238,356600.0
+ford,van,in,4,9750.0,39000.0
+ford,van,la,3,10566.666666666666,31700.0
+ford,van,ma,7,5964.285714285715,41750.0
+ford,van,md,10,5570.0,55700.0
+ford,van,mi,9,8744.444444444445,78700.0
+ford,van,mn,9,7700.0,69300.0
+ford,van,mo,24,18450.0,442800.0
+ford,van,ms,1,7700.0,7700.0
+ford,van,nc,16,4331.25,69300.0
+ford,van,ne,3,2300.0,6900.0
+ford,van,nj,12,13550.0,162600.0
+ford,van,nv,6,17250.0,103500.0
+ford,van,ny,13,17253.846153846152,224300.0
+ford,van,oh,3,3533.3333333333335,10600.0
+ford,van,on,1,1000.0,1000.0
+ford,van,pa,29,16274.137931034482,471950.0
+ford,van,pr,6,1883.3333333333333,11300.0
+ford,van,qc,1,7400.0,7400.0
+ford,van,sc,7,19428.571428571428,136000.0
+ford,van,tn,14,19842.85714285714,277800.0
+ford,van,tx,37,13021.621621621622,481800.0
+ford,van,va,12,5891.666666666667,70700.0
+ford,van,wa,12,12675.0,152100.0
+ford,van,wi,1,9500.0,9500.0
+ford,wagon,az,7,12900.0,90300.0
+ford,wagon,ca,50,16125.0,806250.0
+ford,wagon,co,2,11250.0,22500.0
+ford,wagon,fl,39,13678.205128205129,533450.0
+ford,wagon,ga,25,14220.0,355500.0
+ford,wagon,hi,2,18875.0,37750.0
+ford,wagon,il,21,19095.238095238095,401000.0
+ford,wagon,in,3,4050.0,12150.0
+ford,wagon,la,1,12000.0,12000.0
+ford,wagon,ma,5,10860.0,54300.0
+ford,wagon,md,13,10992.307692307691,142900.0
+ford,wagon,mi,29,13379.310344827587,388000.0
+ford,wagon,mn,13,13592.307692307691,176700.0
+ford,wagon,mo,25,19688.0,492200.0
+ford,wagon,nc,22,8490.90909090909,186800.0
+ford,wagon,ne,4,10250.0,41000.0
+ford,wagon,nj,15,13553.333333333334,203300.0
+ford,wagon,nv,2,14575.0,29150.0
+ford,wagon,ny,14,15407.142857142857,215700.0
+ford,wagon,oh,10,14605.0,146050.0
+ford,wagon,on,6,23708.333333333332,142250.0
+ford,wagon,or,4,7400.0,29600.0
+ford,wagon,pa,18,12905.555555555555,232300.0
+ford,wagon,qc,2,13325.0,26650.0
+ford,wagon,sc,1,3300.0,3300.0
+ford,wagon,tn,22,20009.090909090908,440200.0
+ford,wagon,tx,27,11040.74074074074,298100.0
+ford,wagon,va,10,7720.0,77200.0
+ford,wagon,wa,1,2500.0,2500.0
+ford,wagon,wi,9,14288.888888888889,128600.0
+gmc,crew cab,az,1,22400.0,22400.0
+gmc,crew cab,ca,31,17877.41935483871,554200.0
+gmc,crew cab,co,9,23466.666666666668,211200.0
+gmc,crew cab,fl,20,23545.0,470900.0
+gmc,crew cab,ga,24,17525.0,420600.0
+gmc,crew cab,la,1,17800.0,17800.0
+gmc,crew cab,ma,1,10500.0,10500.0
+gmc,crew cab,mi,35,21182.85714285714,741400.0
+gmc,crew cab,mn,6,16425.0,98550.0
+gmc,crew cab,mo,18,19455.555555555555,350200.0
+gmc,crew cab,ms,2,13300.0,26600.0
+gmc,crew cab,nc,13,21569.23076923077,280400.0
+gmc,crew cab,ne,5,17000.0,85000.0
+gmc,crew cab,nj,3,19833.333333333332,59500.0
+gmc,crew cab,nv,6,24200.0,145200.0
+gmc,crew cab,ny,2,2200.0,4400.0
+gmc,crew cab,oh,18,20491.666666666668,368850.0
+gmc,crew cab,on,6,27533.333333333332,165200.0
+gmc,crew cab,or,1,27250.0,27250.0
+gmc,crew cab,pa,17,22617.647058823528,384500.0
+gmc,crew cab,tn,18,22900.0,412200.0
+gmc,crew cab,tx,61,20469.67213114754,1248650.0
+gmc,crew cab,ut,20,21530.0,430600.0
+gmc,crew cab,va,5,18680.0,93400.0
+gmc,crew cab,wa,9,21311.11111111111,191800.0
+gmc,crew cab,wi,3,23066.666666666668,69200.0
+gmc,double cab,az,2,21750.0,43500.0
+gmc,double cab,fl,3,25133.333333333332,75400.0
+gmc,double cab,ga,2,26800.0,53600.0
+gmc,double cab,mi,2,26850.0,53700.0
+gmc,double cab,mn,1,27400.0,27400.0
+gmc,double cab,pa,1,31000.0,31000.0
+gmc,double cab,tx,2,25850.0,51700.0
+gmc,extended cab,ab,4,14950.0,59800.0
+gmc,extended cab,az,4,6100.0,24400.0
+gmc,extended cab,ca,15,9433.333333333334,141500.0
+gmc,extended cab,co,1,11000.0,11000.0
+gmc,extended cab,fl,9,14577.777777777777,131200.0
+gmc,extended cab,ga,13,16484.615384615383,214300.0
+gmc,extended cab,hi,1,6750.0,6750.0
+gmc,extended cab,il,2,15350.0,30700.0
+gmc,extended cab,ma,1,900.0,900.0
+gmc,extended cab,md,1,10500.0,10500.0
+gmc,extended cab,mi,29,16606.896551724138,481600.0
+gmc,extended cab,mn,3,13033.333333333334,39100.0
+gmc,extended cab,mo,6,13100.0,78600.0
+gmc,extended cab,nc,6,7800.0,46800.0
+gmc,extended cab,ne,3,16466.666666666668,49400.0
+gmc,extended cab,nj,4,6925.0,27700.0
+gmc,extended cab,nv,1,16500.0,16500.0
+gmc,extended cab,ny,6,8433.333333333334,50600.0
+gmc,extended cab,oh,9,14555.555555555555,131000.0
+gmc,extended cab,or,1,10600.0,10600.0
+gmc,extended cab,pa,13,18457.69230769231,239950.0
+gmc,extended cab,sc,1,20500.0,20500.0
+gmc,extended cab,tn,12,15883.333333333334,190600.0
+gmc,extended cab,tx,13,13369.23076923077,173800.0
+gmc,extended cab,ut,3,9333.333333333334,28000.0
+gmc,extended cab,va,3,6733.333333333333,20200.0
+gmc,extended cab,wa,1,11700.0,11700.0
+gmc,extended cab,wi,2,11700.0,23400.0
+gmc,minivan,ca,1,1550.0,1550.0
+gmc,minivan,mn,1,2000.0,2000.0
+gmc,regular cab,az,2,15725.0,31450.0
+gmc,regular cab,ca,3,9766.666666666666,29300.0
+gmc,regular cab,fl,5,3520.0,17600.0
+gmc,regular cab,ga,1,12700.0,12700.0
+gmc,regular cab,il,3,5933.333333333333,17800.0
+gmc,regular cab,in,1,2700.0,2700.0
+gmc,regular cab,mi,1,11500.0,11500.0
+gmc,regular cab,nj,1,1400.0,1400.0
+gmc,regular cab,nv,1,21250.0,21250.0
+gmc,regular cab,oh,1,1600.0,1600.0
+gmc,regular cab,pa,2,9700.0,19400.0
+gmc,regular cab,sc,1,4700.0,4700.0
+gmc,regular cab,tn,2,17950.0,35900.0
+gmc,regular cab,tx,3,3633.3333333333335,10900.0
+gmc,regular cab,va,3,7900.0,23700.0
+gmc,suv,ab,1,8800.0,8800.0
+gmc,suv,az,17,15076.470588235294,256300.0
+gmc,suv,ca,134,12014.55223880597,1609950.0
+gmc,suv,co,15,15440.0,231600.0
+gmc,suv,fl,106,16963.67924528302,1798150.0
+gmc,suv,ga,63,12473.809523809523,785850.0
+gmc,suv,hi,4,21187.5,84750.0
+gmc,suv,il,31,13367.741935483871,414400.0
+gmc,suv,in,5,11500.0,57500.0
+gmc,suv,la,7,11357.142857142857,79500.0
+gmc,suv,ma,11,6165.909090909091,67825.0
+gmc,suv,md,25,8870.0,221750.0
+gmc,suv,mi,71,15528.87323943662,1102550.0
+gmc,suv,mn,32,17270.3125,552650.0
+gmc,suv,mo,30,13905.0,417150.0
+gmc,suv,ms,4,11696.25,46785.0
+gmc,suv,nc,62,12012.09677419355,744750.0
+gmc,suv,ne,26,20576.96153846154,535001.0
+gmc,suv,nj,47,13814.91489361702,649301.0
+gmc,suv,nm,1,2900.0,2900.0
+gmc,suv,nv,28,16235.714285714286,454600.0
+gmc,suv,ny,11,10972.727272727272,120700.0
+gmc,suv,oh,51,14615.686274509804,745400.0
+gmc,suv,or,2,17500.0,35000.0
+gmc,suv,pa,137,17960.58394160584,2460600.0
+gmc,suv,sc,20,14480.0,289600.0
+gmc,suv,tn,55,17733.636363636364,975350.0
+gmc,suv,tx,111,14610.81081081081,1621800.0
+gmc,suv,ut,6,13458.333333333334,80750.0
+gmc,suv,va,27,7455.555555555556,201300.0
+gmc,suv,wa,5,6820.0,34100.0
+gmc,suv,wi,25,17666.0,441650.0
+gmc,van,az,1,21800.0,21800.0
+gmc,van,ca,3,22300.0,66900.0
+gmc,van,co,2,15750.0,31500.0
+gmc,van,fl,18,18905.555555555555,340300.0
+gmc,van,ga,5,18640.0,93200.0
+gmc,van,hi,2,21375.0,42750.0
+gmc,van,il,1,20300.0,20300.0
+gmc,van,in,2,18900.0,37800.0
+gmc,van,md,4,16750.0,67000.0
+gmc,van,mi,10,20830.0,208300.0
+gmc,van,mn,6,21700.0,130200.0
+gmc,van,mo,10,22120.0,221200.0
+gmc,van,nc,2,19800.0,39600.0
+gmc,van,nj,5,18380.0,91900.0
+gmc,van,nv,1,20400.0,20400.0
+gmc,van,ny,2,20650.0,41300.0
+gmc,van,or,1,18800.0,18800.0
+gmc,van,pa,20,19360.0,387200.0
+gmc,van,pr,1,6000.0,6000.0
+gmc,van,tn,2,20650.0,41300.0
+gmc,van,tx,4,20050.0,80200.0
+gmc,van,ut,2,21500.0,43000.0
+gmc,van,va,2,21300.0,42600.0
+gmc,van,wa,6,20883.333333333332,125300.0
+gmc,van,wi,3,19366.666666666668,58100.0
+honda,convertible,ca,3,11383.333333333334,34150.0
+honda,convertible,fl,1,15700.0,15700.0
+honda,convertible,ga,1,9300.0,9300.0
+honda,convertible,nc,3,8766.666666666666,26300.0
+honda,convertible,pa,1,15200.0,15200.0
+honda,convertible,tx,1,13000.0,13000.0
+honda,coupe,az,5,6090.0,30450.0
+honda,coupe,ca,81,7422.222222222223,601200.0
+honda,coupe,co,1,9100.0,9100.0
+honda,coupe,fl,79,6737.974683544304,532300.0
+honda,coupe,ga,50,9266.0,463300.0
+honda,coupe,hi,2,4850.0,9700.0
+honda,coupe,il,20,8920.0,178400.0
+honda,coupe,in,5,10870.0,54350.0
+honda,coupe,la,1,6500.0,6500.0
+honda,coupe,ma,10,3000.0,30000.0
+honda,coupe,md,25,4896.0,122400.0
+honda,coupe,mi,5,3600.0,18000.0
+honda,coupe,mn,3,7033.333333333333,21100.0
+honda,coupe,mo,8,9468.75,75750.0
+honda,coupe,ms,2,9500.0,19000.0
+honda,coupe,nc,33,4753.030303030303,156850.0
+honda,coupe,ne,1,12500.0,12500.0
+honda,coupe,nj,41,8052.4390243902435,330150.0
+honda,coupe,nv,13,9796.153846153846,127350.0
+honda,coupe,ny,4,3350.0,13400.0
+honda,coupe,oh,7,7085.714285714285,49600.0
+honda,coupe,on,2,2725.0,5450.0
+honda,coupe,or,1,11000.0,11000.0
+honda,coupe,pa,85,12262.941176470587,1042350.0
+honda,coupe,pr,2,6950.0,13900.0
+honda,coupe,sc,4,4750.0,19000.0
+honda,coupe,tn,15,9701.666666666666,145525.0
+honda,coupe,tx,25,7322.0,183050.0
+honda,coupe,ut,1,9200.0,9200.0
+honda,coupe,va,23,4663.04347826087,107250.0
+honda,coupe,wa,7,4757.142857142857,33300.0
+honda,crew cab,az,1,10200.0,10200.0
+honda,crew cab,ca,3,16733.333333333332,50200.0
+honda,crew cab,co,1,16500.0,16500.0
+honda,crew cab,fl,6,17850.0,107100.0
+honda,crew cab,ga,3,17900.0,53700.0
+honda,crew cab,il,1,24250.0,24250.0
+honda,crew cab,in,1,21750.0,21750.0
+honda,crew cab,md,1,18500.0,18500.0
+honda,crew cab,mi,1,15400.0,15400.0
+honda,crew cab,mn,1,18300.0,18300.0
+honda,crew cab,nc,2,18900.0,37800.0
+honda,crew cab,nj,1,22800.0,22800.0
+honda,crew cab,ny,1,16500.0,16500.0
+honda,crew cab,pa,2,24400.0,48800.0
+honda,crew cab,pr,1,22900.0,22900.0
+honda,crew cab,tx,3,17166.666666666668,51500.0
+honda,crew cab,va,1,13800.0,13800.0
+honda,crew cab,wa,1,13100.0,13100.0
+honda,crew cab,wi,3,15066.666666666666,45200.0
+honda,hatchback,az,3,11233.333333333334,33700.0
+honda,hatchback,ca,52,11315.384615384615,588400.0
+honda,hatchback,co,2,14850.0,29700.0
+honda,hatchback,fl,18,9380.555555555555,168850.0
+honda,hatchback,ga,20,13180.0,263600.0
+honda,hatchback,hi,4,14337.5,57350.0
+honda,hatchback,il,15,15350.0,230250.0
+honda,hatchback,in,2,20625.0,41250.0
+honda,hatchback,ma,2,15450.0,30900.0
+honda,hatchback,md,2,9750.0,19500.0
+honda,hatchback,mi,2,10600.0,21200.0
+honda,hatchback,mn,4,7200.0,28800.0
+honda,hatchback,mo,6,9750.0,58500.0
+honda,hatchback,nc,3,6400.0,19200.0
+honda,hatchback,nj,17,13882.35294117647,236000.0
+honda,hatchback,nv,9,13333.333333333334,120000.0
+honda,hatchback,ny,3,11000.0,33000.0
+honda,hatchback,oh,3,6466.666666666667,19400.0
+honda,hatchback,on,1,1450.0,1450.0
+honda,hatchback,or,3,11700.0,35100.0
+honda,hatchback,pa,32,13926.5625,445650.0
+honda,hatchback,qc,1,4400.0,4400.0
+honda,hatchback,tn,3,13033.333333333334,39100.0
+honda,hatchback,tx,13,10884.615384615385,141500.0
+honda,hatchback,va,2,6500.0,13000.0
+honda,hatchback,wa,3,10333.333333333334,31000.0
+honda,hatchback,wi,2,15350.0,30700.0
+honda,minivan,az,4,7675.0,30700.0
+honda,minivan,ca,72,13350.0,961200.0
+honda,minivan,co,2,27000.0,54000.0
+honda,minivan,fl,94,11728.45744680851,1102475.0
+honda,minivan,ga,51,9817.64705882353,500700.0
+honda,minivan,hi,2,13575.0,27150.0
+honda,minivan,il,13,14330.76923076923,186300.0
+honda,minivan,in,12,22575.0,270900.0
+honda,minivan,la,1,19500.0,19500.0
+honda,minivan,ma,17,5705.882352941177,97000.0
+honda,minivan,md,14,5878.571428571428,82300.0
+honda,minivan,mi,7,5814.285714285715,40700.0
+honda,minivan,mn,6,8675.0,52050.0
+honda,minivan,mo,2,4925.0,9850.0
+honda,minivan,nc,37,6014.864864864865,222550.0
+honda,minivan,ne,2,10450.0,20900.0
+honda,minivan,nj,44,12669.886363636364,557475.0
+honda,minivan,nv,13,17565.384615384617,228350.0
+honda,minivan,ny,6,8900.0,53400.0
+honda,minivan,oh,14,8610.714285714286,120550.0
+honda,minivan,on,1,2350.0,2350.0
+honda,minivan,pa,153,17547.058823529413,2684700.0
+honda,minivan,pr,2,12850.0,25700.0
+honda,minivan,qc,1,7000.0,7000.0
+honda,minivan,sc,6,13050.0,78300.0
+honda,minivan,tn,16,18506.25,296100.0
+honda,minivan,tx,22,11350.0,249700.0
+honda,minivan,ut,1,1500.0,1500.0
+honda,minivan,va,22,5511.363636363636,121250.0
+honda,minivan,wa,7,5528.571428571428,38700.0
+honda,minivan,wi,3,8650.0,25950.0
+honda,sedan,ab,3,4200.0,12600.0
+honda,sedan,az,26,8461.538461538461,220000.0
+honda,sedan,ca,348,10599.137931034482,3688500.0
+honda,sedan,co,2,12900.0,25800.0
+honda,sedan,fl,252,7319.543650793651,1844525.0
+honda,sedan,ga,203,9568.71921182266,1942450.0
+honda,sedan,hi,6,13166.666666666666,79000.0
+honda,sedan,il,196,12107.908163265307,2373150.0
+honda,sedan,in,35,14938.57142857143,522850.0
+honda,sedan,la,3,4833.333333333333,14500.0
+honda,sedan,ma,44,3285.2272727272725,144550.0
+honda,sedan,md,70,4820.0,337400.0
+honda,sedan,mi,13,7723.076923076923,100400.0
+honda,sedan,mn,11,6122.727272727273,67350.0
+honda,sedan,mo,13,7653.846153846154,99500.0
+honda,sedan,ms,3,8933.333333333334,26800.0
+honda,sedan,nc,115,6162.608695652174,708700.0
+honda,sedan,ne,7,8414.285714285714,58900.0
+honda,sedan,nj,240,10906.666666666666,2617600.0
+honda,sedan,nm,2,3400.0,6800.0
+honda,sedan,nv,61,11207.377049180328,683650.0
+honda,sedan,ny,28,6283.928571428572,175950.0
+honda,sedan,oh,30,6890.0,206700.0
+honda,sedan,on,2,3250.0,6500.0
+honda,sedan,or,2,12375.0,24750.0
+honda,sedan,pa,542,12014.71402214022,6511975.0
+honda,sedan,pr,5,9580.0,47900.0
+honda,sedan,qc,2,4450.0,8900.0
+honda,sedan,sc,25,7352.0,183800.0
+honda,sedan,tn,49,11403.061224489797,558750.0
+honda,sedan,tx,81,9018.518518518518,730500.0
+honda,sedan,ut,2,2825.0,5650.0
+honda,sedan,va,58,5219.827586206897,302750.0
+honda,sedan,wa,18,7766.666666666667,139800.0
+honda,sedan,wi,15,8541.666666666666,128125.0
+honda,suv,az,12,9433.333333333334,113200.0
+honda,suv,ca,116,13451.293103448275,1560350.0
+honda,suv,co,7,15914.285714285714,111400.0
+honda,suv,fl,143,13451.398601398601,1923550.0
+honda,suv,ga,71,12669.014084507042,899500.0
+honda,suv,hi,4,12475.0,49900.0
+honda,suv,il,29,16451.724137931036,477100.0
+honda,suv,in,22,22354.545454545456,491800.0
+honda,suv,la,2,9400.0,18800.0
+honda,suv,ma,16,8400.0,134400.0
+honda,suv,md,20,6440.0,128800.0
+honda,suv,mi,9,12261.111111111111,110350.0
+honda,suv,mn,8,16925.0,135400.0
+honda,suv,mo,10,14260.0,142600.0
+honda,suv,nc,40,10302.5,412100.0
+honda,suv,ne,4,15525.0,62100.0
+honda,suv,nj,98,15066.326530612245,1476500.0
+honda,suv,nv,24,17514.583333333332,420350.0
+honda,suv,ny,10,13680.0,136800.0
+honda,suv,oh,23,13784.782608695652,317050.0
+honda,suv,on,3,6633.333333333333,19900.0
+honda,suv,or,1,4500.0,4500.0
+honda,suv,pa,236,18748.093220338982,4424550.0
+honda,suv,pr,2,18450.0,36900.0
+honda,suv,sc,11,9972.727272727272,109700.0
+honda,suv,tn,21,19690.47619047619,413500.0
+honda,suv,tx,53,14193.396226415094,752250.0
+honda,suv,va,34,8839.70588235294,300550.0
+honda,suv,wa,5,7020.0,35100.0
+honda,suv,wi,4,9400.0,37600.0
+hummer,crew cab,ca,2,21000.0,42000.0
+hummer,crew cab,fl,1,18200.0,18200.0
+hummer,crew cab,ga,1,15500.0,15500.0
+hummer,crew cab,mn,1,20000.0,20000.0
+hummer,crew cab,nc,1,16200.0,16200.0
+hummer,crew cab,oh,2,21850.0,43700.0
+hummer,crew cab,pa,1,24250.0,24250.0
+hummer,crew cab,tn,1,25500.0,25500.0
+hummer,suv,ab,1,18500.0,18500.0
+hummer,suv,az,2,14450.0,28900.0
+hummer,suv,ca,18,18250.0,328500.0
+hummer,suv,co,2,12150.0,24300.0
+hummer,suv,fl,17,12370.588235294117,210300.0
+hummer,suv,ga,10,11140.0,111400.0
+hummer,suv,il,5,11260.0,56300.0
+hummer,suv,in,2,7600.0,15200.0
+hummer,suv,ma,1,6900.0,6900.0
+hummer,suv,md,2,12225.0,24450.0
+hummer,suv,mi,6,15600.0,93600.0
+hummer,suv,mn,3,12666.666666666666,38000.0
+hummer,suv,mo,2,12650.0,25300.0
+hummer,suv,nc,2,8950.0,17900.0
+hummer,suv,nj,7,12028.57142857143,84200.0
+hummer,suv,nv,3,16500.0,49500.0
+hummer,suv,oh,2,10975.0,21950.0
+hummer,suv,or,1,9800.0,9800.0
+hummer,suv,pa,12,16604.166666666668,199250.0
+hummer,suv,sc,1,13400.0,13400.0
+hummer,suv,tn,5,13360.0,66800.0
+hummer,suv,tx,16,15043.75,240700.0
+hummer,suv,va,1,8900.0,8900.0
+hummer,suv,wa,2,11650.0,23300.0
+hummer,suv,wi,3,10666.666666666666,32000.0
+hyundai,elantra coupe,ca,2,12300.0,24600.0
+hyundai,elantra coupe,fl,4,10950.0,43800.0
+hyundai,elantra coupe,il,1,13900.0,13900.0
+hyundai,elantra coupe,mn,2,11050.0,22100.0
+hyundai,elantra coupe,nc,1,11700.0,11700.0
+hyundai,elantra coupe,nj,1,9400.0,9400.0
+hyundai,elantra coupe,oh,2,12050.0,24100.0
+hyundai,elantra coupe,pa,1,11600.0,11600.0
+hyundai,elantra coupe,tn,1,12400.0,12400.0
+hyundai,elantra coupe,tx,1,9900.0,9900.0
+hyundai,genesis coupe,az,1,18300.0,18300.0
+hyundai,genesis coupe,ca,6,17141.666666666668,102850.0
+hyundai,genesis coupe,fl,10,15490.0,154900.0
+hyundai,genesis coupe,ga,3,15733.333333333334,47200.0
+hyundai,genesis coupe,nc,2,11200.0,22400.0
+hyundai,genesis coupe,ne,1,16100.0,16100.0
+hyundai,genesis coupe,nj,4,11300.0,45200.0
+hyundai,genesis coupe,nv,3,13100.0,39300.0
+hyundai,genesis coupe,oh,1,13400.0,13400.0
+hyundai,genesis coupe,on,1,10800.0,10800.0
+hyundai,genesis coupe,pa,7,14628.57142857143,102400.0
+hyundai,genesis coupe,tn,2,15050.0,30100.0
+hyundai,genesis coupe,tx,3,18500.0,55500.0
+hyundai,genesis coupe,va,1,12000.0,12000.0
+hyundai,hatchback,az,6,7366.666666666667,44200.0
+hyundai,hatchback,ca,40,11585.0,463400.0
+hyundai,hatchback,co,1,5300.0,5300.0
+hyundai,hatchback,fl,79,9527.531645569621,752675.0
+hyundai,hatchback,ga,15,9816.666666666666,147250.0
+hyundai,hatchback,il,10,8570.0,85700.0
+hyundai,hatchback,in,1,500.0,500.0
+hyundai,hatchback,la,1,16600.0,16600.0
+hyundai,hatchback,ma,5,3600.0,18000.0
+hyundai,hatchback,md,2,1050.0,2100.0
+hyundai,hatchback,mi,2,3300.0,6600.0
+hyundai,hatchback,mn,5,11740.0,58700.0
+hyundai,hatchback,mo,3,9700.0,29100.0
+hyundai,hatchback,nc,7,6528.571428571428,45700.0
+hyundai,hatchback,ne,1,10300.0,10300.0
+hyundai,hatchback,nj,12,6233.333333333333,74800.0
+hyundai,hatchback,nv,8,9700.0,77600.0
+hyundai,hatchback,ny,3,8200.0,24600.0
+hyundai,hatchback,oh,10,9670.0,96700.0
+hyundai,hatchback,on,2,8700.0,17400.0
+hyundai,hatchback,or,1,4900.0,4900.0
+hyundai,hatchback,pa,31,8969.354838709678,278050.0
+hyundai,hatchback,pr,10,8190.0,81900.0
+hyundai,hatchback,qc,4,6625.0,26500.0
+hyundai,hatchback,sc,3,8600.0,25800.0
+hyundai,hatchback,tn,3,12866.666666666666,38600.0
+hyundai,hatchback,tx,32,9131.25,292200.0
+hyundai,hatchback,va,12,6516.666666666667,78200.0
+hyundai,hatchback,wa,6,12583.333333333334,75500.0
+hyundai,hatchback,wi,6,8400.0,50400.0
+hyundai,minivan,az,1,1150.0,1150.0
+hyundai,minivan,fl,4,4375.0,17500.0
+hyundai,minivan,ga,1,5100.0,5100.0
+hyundai,minivan,mo,2,4350.0,8700.0
+hyundai,minivan,nv,1,2400.0,2400.0
+hyundai,minivan,or,1,2600.0,2600.0
+hyundai,minivan,tx,1,1900.0,1900.0
+hyundai,minivan,ut,1,4100.0,4100.0
+hyundai,minivan,va,1,6000.0,6000.0
+hyundai,minivan,wa,1,5200.0,5200.0
+hyundai,sedan,ab,2,4700.0,9400.0
+hyundai,sedan,az,46,9359.782608695652,430550.0
+hyundai,sedan,ca,427,11929.861826697892,5094051.0
+hyundai,sedan,co,27,10803.703703703704,291700.0
+hyundai,sedan,fl,622,11417.123794212219,7101451.0
+hyundai,sedan,ga,200,11157.75,2231550.0
+hyundai,sedan,hi,7,9935.714285714286,69550.0
+hyundai,sedan,il,83,12442.168674698794,1032700.0
+hyundai,sedan,in,20,7615.0,152300.0
+hyundai,sedan,la,11,10181.818181818182,112000.0
+hyundai,sedan,ma,42,6320.238095238095,265450.0
+hyundai,sedan,md,40,7395.0,295800.0
+hyundai,sedan,mi,9,7700.0,69300.0
+hyundai,sedan,mn,97,11267.01030927835,1092900.0
+hyundai,sedan,mo,45,10445.555555555555,470050.0
+hyundai,sedan,ms,9,6005.555555555556,54050.0
+hyundai,sedan,nc,76,7909.868421052632,601150.0
+hyundai,sedan,ne,20,10950.0,219000.0
+hyundai,sedan,nj,125,8940.4,1117550.0
+hyundai,sedan,nm,1,12300.0,12300.0
+hyundai,sedan,ns,1,8700.0,8700.0
+hyundai,sedan,nv,59,11004.237288135593,649250.0
+hyundai,sedan,ny,4,3462.5,13850.0
+hyundai,sedan,oh,210,11218.809523809523,2355950.0
+hyundai,sedan,on,22,12036.363636363636,264800.0
+hyundai,sedan,or,7,8557.142857142857,59900.0
+hyundai,sedan,pa,404,11724.752475247526,4736800.0
+hyundai,sedan,pr,10,9940.0,99400.0
+hyundai,sedan,qc,10,9250.0,92500.0
+hyundai,sedan,sc,27,10325.925925925925,278800.0
+hyundai,sedan,tn,93,10988.172043010753,1021900.0
+hyundai,sedan,tx,211,11155.924170616114,2353900.0
+hyundai,sedan,ut,6,7033.333333333333,42200.0
+hyundai,sedan,va,47,6864.893617021276,322650.0
+hyundai,sedan,wa,39,12100.0,471900.0
+hyundai,sedan,wi,14,7689.285714285715,107650.0
+hyundai,suv,ab,2,3650.0,7300.0
+hyundai,suv,az,9,9177.777777777777,82600.0
+hyundai,suv,ca,61,14354.098360655738,875600.0
+hyundai,suv,co,7,17742.85714285714,124200.0
+hyundai,suv,fl,105,11509.057142857142,1208451.0
+hyundai,suv,ga,40,12222.5,488900.0
+hyundai,suv,hi,3,15583.333333333334,46750.0
+hyundai,suv,il,15,11733.333333333334,176000.0
+hyundai,suv,in,2,6800.0,13600.0
+hyundai,suv,la,2,7700.0,15400.0
+hyundai,suv,ma,9,5022.222222222223,45200.0
+hyundai,suv,md,10,9305.0,93050.0
+hyundai,suv,mi,1,14800.0,14800.0
+hyundai,suv,mn,6,14491.666666666666,86950.0
+hyundai,suv,mo,17,9338.235294117647,158750.0
+hyundai,suv,nc,12,9183.333333333334,110200.0
+hyundai,suv,ne,7,13114.285714285714,91800.0
+hyundai,suv,nj,36,7752.777777777777,279100.0
+hyundai,suv,nv,14,10850.0,151900.0
+hyundai,suv,ny,6,8000.0,48000.0
+hyundai,suv,oh,21,10554.761904761905,221650.0
+hyundai,suv,on,1,12500.0,12500.0
+hyundai,suv,pa,36,14075.0,506700.0
+hyundai,suv,pr,6,15850.0,95100.0
+hyundai,suv,qc,4,9050.0,36200.0
+hyundai,suv,sc,2,7600.0,15200.0
+hyundai,suv,tn,10,12500.0,125000.0
+hyundai,suv,tx,52,12611.538461538461,655800.0
+hyundai,suv,ut,1,10000.0,10000.0
+hyundai,suv,va,14,7878.571428571428,110300.0
+hyundai,suv,wa,6,8275.0,49650.0
+hyundai,suv,wi,5,9750.0,48750.0
+infiniti,convertible,fl,2,21250.0,42500.0
+infiniti,convertible,pa,1,20700.0,20700.0
+infiniti,convertible,tx,1,14900.0,14900.0
+infiniti,coupe,ca,32,9984.375,319500.0
+infiniti,coupe,fl,12,7516.666666666667,90200.0
+infiniti,coupe,ga,8,11350.0,90800.0
+infiniti,coupe,il,2,11850.0,23700.0
+infiniti,coupe,ma,2,6500.0,13000.0
+infiniti,coupe,md,1,6700.0,6700.0
+infiniti,coupe,mi,1,9000.0,9000.0
+infiniti,coupe,mo,2,7450.0,14900.0
+infiniti,coupe,nc,2,5550.0,11100.0
+infiniti,coupe,ne,1,16300.0,16300.0
+infiniti,coupe,nj,10,11522.5,115225.0
+infiniti,coupe,nv,3,13266.666666666666,39800.0
+infiniti,coupe,ny,1,10500.0,10500.0
+infiniti,coupe,oh,2,9750.0,19500.0
+infiniti,coupe,pa,4,10950.0,43800.0
+infiniti,coupe,tn,1,8300.0,8300.0
+infiniti,coupe,tx,5,4520.0,22600.0
+infiniti,coupe,va,2,5800.0,11600.0
+infiniti,coupe,wa,3,10266.666666666666,30800.0
+infiniti,g convertible,ca,25,26320.0,658000.0
+infiniti,g convertible,fl,13,25584.615384615383,332600.0
+infiniti,g convertible,ga,4,26050.0,104200.0
+infiniti,g convertible,hi,1,22250.0,22250.0
+infiniti,g convertible,il,2,25100.0,50200.0
+infiniti,g convertible,mo,1,23800.0,23800.0
+infiniti,g convertible,nj,2,26175.0,52350.0
+infiniti,g convertible,oh,2,25200.0,50400.0
+infiniti,g convertible,pa,3,23600.0,70800.0
+infiniti,g convertible,tn,9,25611.11111111111,230500.0
+infiniti,g convertible,tx,3,24066.666666666668,72200.0
+infiniti,g convertible,wi,1,23800.0,23800.0
+infiniti,g coupe,ca,96,23205.729166666668,2227750.0
+infiniti,g coupe,co,5,22430.0,112150.0
+infiniti,g coupe,fl,58,21891.379310344826,1269700.0
+infiniti,g coupe,ga,15,23133.333333333332,347000.0
+infiniti,g coupe,hi,2,25000.0,50000.0
+infiniti,g coupe,il,15,22013.333333333332,330200.0
+infiniti,g coupe,mo,8,22037.5,176300.0
+infiniti,g coupe,ms,1,10250.0,10250.0
+infiniti,g coupe,nj,22,22256.81818181818,489650.0
+infiniti,g coupe,oh,6,22333.333333333332,134000.0
+infiniti,g coupe,pa,10,21080.0,210800.0
+infiniti,g coupe,tn,29,22010.344827586207,638300.0
+infiniti,g coupe,tx,17,21576.470588235294,366800.0
+infiniti,g coupe,wa,10,25370.0,253700.0
+infiniti,g sedan,az,2,18850.0,37700.0
+infiniti,g sedan,ca,333,20286.48948948949,6755401.0
+infiniti,g sedan,co,50,20187.0,1009350.0
+infiniti,g sedan,fl,221,19253.846153846152,4255100.0
+infiniti,g sedan,ga,79,20155.696202531646,1592300.0
+infiniti,g sedan,hi,2,19375.0,38750.0
+infiniti,g sedan,il,104,19628.846153846152,2041400.0
+infiniti,g sedan,la,1,19700.0,19700.0
+infiniti,g sedan,mo,59,19997.966101694914,1179880.0
+infiniti,g sedan,nc,2,20250.0,40500.0
+infiniti,g sedan,ne,1,20500.0,20500.0
+infiniti,g sedan,nj,156,20267.94871794872,3161800.0
+infiniti,g sedan,nv,2,21875.0,43750.0
+infiniti,g sedan,oh,26,19719.23076923077,512700.0
+infiniti,g sedan,pa,53,19492.45283018868,1033100.0
+infiniti,g sedan,sc,1,20000.0,20000.0
+infiniti,g sedan,tn,170,20052.647058823528,3408950.0
+infiniti,g sedan,tx,76,19454.605263157893,1478550.0
+infiniti,g sedan,wa,42,21825.0,916650.0
+infiniti,g sedan,wi,5,18740.0,93700.0
+infiniti,g37 convertible,ca,1,24750.0,24750.0
+infiniti,g37 convertible,fl,1,18000.0,18000.0
+infiniti,g37 convertible,il,1,20600.0,20600.0
+infiniti,g37 convertible,nj,1,19000.0,19000.0
+infiniti,g37 coupe,ca,1,17250.0,17250.0
+infiniti,g37 coupe,ny,1,14000.0,14000.0
+infiniti,g37 coupe,oh,1,18300.0,18300.0
+infiniti,g37 coupe,pa,1,17300.0,17300.0
+infiniti,q60 convertible,ca,1,31500.0,31500.0
+infiniti,q60 convertible,tn,2,33500.0,67000.0
+infiniti,q60 coupe,fl,1,29600.0,29600.0
+infiniti,q60 coupe,il,2,26300.0,52600.0
+infiniti,q60 coupe,tn,1,28600.0,28600.0
+infiniti,sedan,ab,1,4600.0,4600.0
+infiniti,sedan,az,12,6900.0,82800.0
+infiniti,sedan,ca,128,18742.578125,2399050.0
+infiniti,sedan,co,6,24366.666666666668,146200.0
+infiniti,sedan,fl,88,14842.045454545454,1306100.0
+infiniti,sedan,ga,31,14732.258064516129,456700.0
+infiniti,sedan,hi,1,5800.0,5800.0
+infiniti,sedan,il,33,21206.060606060608,699800.0
+infiniti,sedan,in,1,5800.0,5800.0
+infiniti,sedan,la,2,4250.0,8500.0
+infiniti,sedan,ma,8,5275.0,42200.0
+infiniti,sedan,md,9,4288.888888888889,38600.0
+infiniti,sedan,mn,1,7200.0,7200.0
+infiniti,sedan,mo,16,16775.0,268400.0
+infiniti,sedan,ms,2,16100.0,32200.0
+infiniti,sedan,nc,8,6062.5,48500.0
+infiniti,sedan,ne,2,25950.0,51900.0
+infiniti,sedan,nj,33,13889.39393939394,458350.0
+infiniti,sedan,nv,5,13610.0,68050.0
+infiniti,sedan,ny,2,11250.0,22500.0
+infiniti,sedan,oh,13,19926.923076923078,259050.0
+infiniti,sedan,or,1,8500.0,8500.0
+infiniti,sedan,pa,26,16834.615384615383,437700.0
+infiniti,sedan,pr,3,6233.333333333333,18700.0
+infiniti,sedan,sc,6,8716.666666666666,52300.0
+infiniti,sedan,tn,45,25013.333333333332,1125600.0
+infiniti,sedan,tx,38,15778.947368421053,599600.0
+infiniti,sedan,va,4,6775.0,27100.0
+infiniti,sedan,wa,11,21368.18181818182,235050.0
+infiniti,sedan,wi,3,9466.666666666666,28400.0
+infiniti,suv,ab,1,7250.0,7250.0
+infiniti,suv,az,7,25150.0,176050.0
+infiniti,suv,ca,63,19652.380952380954,1238100.0
+infiniti,suv,co,4,30175.0,120700.0
+infiniti,suv,fl,53,23205.67924528302,1229901.0
+infiniti,suv,ga,25,20992.0,524800.0
+infiniti,suv,il,22,23695.454545454544,521300.0
+infiniti,suv,la,3,20967.0,62901.0
+infiniti,suv,ma,3,19666.666666666668,59000.0
+infiniti,suv,md,8,13325.0,106600.0
+infiniti,suv,mi,3,14900.0,44700.0
+infiniti,suv,mo,10,21160.0,211600.0
+infiniti,suv,nc,9,11488.888888888889,103400.0
+infiniti,suv,ne,1,13300.0,13300.0
+infiniti,suv,nj,24,23062.5,553500.0
+infiniti,suv,nv,9,19005.555555555555,171050.0
+infiniti,suv,oh,4,21775.25,87101.0
+infiniti,suv,pa,39,20215.384615384617,788400.0
+infiniti,suv,pr,1,14500.0,14500.0
+infiniti,suv,sc,4,17275.0,69100.0
+infiniti,suv,tn,31,27654.83870967742,857300.0
+infiniti,suv,tx,34,21677.970588235294,737051.0
+infiniti,suv,ut,1,27500.0,27500.0
+infiniti,suv,va,2,11250.0,22500.0
+infiniti,suv,wa,5,24000.0,120000.0
+infiniti,suv,wi,3,24233.333333333332,72700.0
+isuzu,suv,fl,6,1700.0,10200.0
+isuzu,suv,ga,3,1450.0,4350.0
+isuzu,suv,md,2,2300.0,4600.0
+isuzu,suv,mo,1,1300.0,1300.0
+isuzu,suv,nc,2,2300.0,4600.0
+isuzu,suv,nj,1,850.0,850.0
+isuzu,suv,nv,1,3800.0,3800.0
+isuzu,suv,oh,2,1050.0,2100.0
+isuzu,suv,sc,2,550.0,1100.0
+isuzu,suv,tx,4,2350.0,9400.0
+isuzu,suv,ut,1,1500.0,1500.0
+isuzu,suv,va,3,1583.3333333333333,4750.0
+jaguar,convertible,ca,3,13933.333333333334,41800.0
+jaguar,convertible,fl,3,22366.666666666668,67100.0
+jaguar,convertible,ga,1,18600.0,18600.0
+jaguar,convertible,sc,1,15100.0,15100.0
+jaguar,convertible,tx,3,12433.333333333334,37300.0
+jaguar,convertible,ut,1,4700.0,4700.0
+jaguar,coupe,ca,1,23250.0,23250.0
+jaguar,coupe,tn,1,34000.0,34000.0
+jaguar,sedan,az,3,8416.666666666666,25250.0
+jaguar,sedan,ca,54,13810.185185185184,745750.0
+jaguar,sedan,co,2,2250.0,4500.0
+jaguar,sedan,fl,34,12423.529411764706,422400.0
+jaguar,sedan,ga,18,8944.444444444445,161000.0
+jaguar,sedan,hi,1,800.0,800.0
+jaguar,sedan,il,5,9660.0,48300.0
+jaguar,sedan,in,1,2200.0,2200.0
+jaguar,sedan,ma,1,9600.0,9600.0
+jaguar,sedan,md,2,1450.0,2900.0
+jaguar,sedan,mi,2,2375.0,4750.0
+jaguar,sedan,mn,1,7300.0,7300.0
+jaguar,sedan,mo,4,11350.0,45400.0
+jaguar,sedan,nc,9,6694.444444444444,60250.0
+jaguar,sedan,ne,1,4800.0,4800.0
+jaguar,sedan,nj,6,18925.0,113550.0
+jaguar,sedan,nv,6,10325.0,61950.0
+jaguar,sedan,oh,5,11930.0,59650.0
+jaguar,sedan,pa,13,16434.615384615383,213650.0
+jaguar,sedan,pr,1,2100.0,2100.0
+jaguar,sedan,sc,2,16750.0,33500.0
+jaguar,sedan,tn,4,19300.0,77200.0
+jaguar,sedan,tx,13,12169.23076923077,158200.0
+jaguar,sedan,va,4,3125.0,12500.0
+jaguar,sedan,wi,4,9850.0,39400.0
+jeep,suv,ab,9,11300.0,101700.0
+jeep,suv,az,40,12468.75,498750.0
+jeep,suv,ca,226,13829.646017699115,3125500.0
+jeep,suv,co,54,18700.0,1009800.0
+jeep,suv,fl,362,14468.342541436465,5237540.0
+jeep,suv,ga,130,12226.153846153846,1589400.0
+jeep,suv,hi,4,16062.5,64250.0
+jeep,suv,il,92,14667.391304347826,1349400.0
+jeep,suv,in,27,10207.407407407407,275600.0
+jeep,suv,la,10,14350.0,143500.0
+jeep,suv,ma,46,6381.521739130435,293550.0
+jeep,suv,md,52,7211.538461538462,375000.0
+jeep,suv,mi,156,18398.076923076922,2870100.0
+jeep,suv,mn,70,15994.285714285714,1119600.0
+jeep,suv,mo,82,15852.439024390244,1299900.0
+jeep,suv,ms,5,13840.0,69200.0
+jeep,suv,nc,120,10940.0,1312800.0
+jeep,suv,ne,24,16714.583333333332,401150.0
+jeep,suv,nj,106,11210.377358490567,1188300.0
+jeep,suv,nm,1,7000.0,7000.0
+jeep,suv,nv,46,14554.347826086956,669500.0
+jeep,suv,ny,35,10440.0,365400.0
+jeep,suv,oh,101,15014.128712871287,1516427.0
+jeep,suv,on,27,22579.62962962963,609650.0
+jeep,suv,or,7,24550.0,171850.0
+jeep,suv,pa,376,17888.563829787236,6726100.0
+jeep,suv,pr,12,17758.333333333332,213100.0
+jeep,suv,qc,9,17644.444444444445,158800.0
+jeep,suv,sc,22,14409.09090909091,317000.0
+jeep,suv,tn,108,18245.37037037037,1970500.0
+jeep,suv,tx,200,13327.25,2665450.0
+jeep,suv,ut,12,10975.0,131700.0
+jeep,suv,va,85,11578.823529411764,984200.0
+jeep,suv,wa,27,16735.185185185186,451850.0
+jeep,suv,wi,47,13744.148936170213,645975.0
+kia,hatchback,ca,9,9005.555555555555,81050.0
+kia,hatchback,fl,9,9333.333333333334,84000.0
+kia,hatchback,ga,2,11300.0,22600.0
+kia,hatchback,hi,1,6750.0,6750.0
+kia,hatchback,il,2,5800.0,11600.0
+kia,hatchback,in,1,9100.0,9100.0
+kia,hatchback,mn,2,4500.0,9000.0
+kia,hatchback,mo,3,7900.0,23700.0
+kia,hatchback,nc,2,10050.0,20100.0
+kia,hatchback,nj,1,12700.0,12700.0
+kia,hatchback,nv,2,4875.0,9750.0
+kia,hatchback,oh,3,9466.666666666666,28400.0
+kia,hatchback,on,1,9200.0,9200.0
+kia,hatchback,pa,4,8800.0,35200.0
+kia,hatchback,pr,1,9900.0,9900.0
+kia,hatchback,tn,3,8766.666666666666,26300.0
+kia,hatchback,tx,5,7920.0,39600.0
+kia,hatchback,va,1,5400.0,5400.0
+kia,koup,ca,2,12200.0,24400.0
+kia,koup,fl,7,9657.142857142857,67600.0
+kia,koup,ga,1,12800.0,12800.0
+kia,koup,in,1,8300.0,8300.0
+kia,koup,ma,1,6500.0,6500.0
+kia,koup,md,1,7000.0,7000.0
+kia,koup,mo,1,10500.0,10500.0
+kia,koup,nc,2,8950.0,17900.0
+kia,koup,nj,1,11200.0,11200.0
+kia,koup,ny,1,7900.0,7900.0
+kia,koup,oh,3,7000.0,21000.0
+kia,koup,pa,5,8660.0,43300.0
+kia,koup,tn,3,9700.0,29100.0
+kia,koup,tx,7,8957.142857142857,62700.0
+kia,minivan,az,2,4700.0,9400.0
+kia,minivan,ca,13,7373.153846153846,95851.0
+kia,minivan,co,2,11100.0,22200.0
+kia,minivan,fl,35,8911.42857142857,311900.0
+kia,minivan,ga,13,9811.538461538461,127550.0
+kia,minivan,il,3,10966.666666666666,32900.0
+kia,minivan,in,4,5700.0,22800.0
+kia,minivan,la,2,10800.0,21600.0
+kia,minivan,ma,1,6300.0,6300.0
+kia,minivan,md,2,2950.0,5900.0
+kia,minivan,mi,4,6850.0,27400.0
+kia,minivan,mn,2,14000.0,28000.0
+kia,minivan,mo,6,6316.666666666667,37900.0
+kia,minivan,nc,15,4293.333333333333,64400.0
+kia,minivan,nj,3,2050.0,6150.0
+kia,minivan,nv,16,10746.875,171950.0
+kia,minivan,oh,8,5925.0,47400.0
+kia,minivan,pa,8,3150.0,25200.0
+kia,minivan,pr,1,5900.0,5900.0
+kia,minivan,sc,2,1650.0,3300.0
+kia,minivan,tn,5,5630.0,28150.0
+kia,minivan,tx,7,5342.857142857143,37400.0
+kia,minivan,va,2,3050.0,6100.0
+kia,minivan,wa,8,10281.25,82250.0
+kia,minivan,wi,4,9700.0,38800.0
+kia,sedan,ab,1,2100.0,2100.0
+kia,sedan,az,19,7731.578947368421,146900.0
+kia,sedan,ca,170,11795.882352941177,2005300.0
+kia,sedan,co,44,12393.181818181818,545300.0
+kia,sedan,fl,276,11761.41304347826,3246150.0
+kia,sedan,ga,189,12275.132275132275,2320000.0
+kia,sedan,hi,2,4625.0,9250.0
+kia,sedan,il,18,9461.111111111111,170300.0
+kia,sedan,in,13,6838.461538461538,88900.0
+kia,sedan,la,4,8625.0,34500.0
+kia,sedan,ma,10,5540.0,55400.0
+kia,sedan,md,19,7194.736842105263,136700.0
+kia,sedan,mi,14,8571.42857142857,120000.0
+kia,sedan,mn,29,11796.551724137931,342100.0
+kia,sedan,mo,54,10986.111111111111,593250.0
+kia,sedan,ms,6,8166.666666666667,49000.0
+kia,sedan,nc,49,9274.489795918367,454450.0
+kia,sedan,ne,12,8887.5,106650.0
+kia,sedan,nj,57,10772.807017543859,614050.0
+kia,sedan,nv,85,15208.235294117647,1292700.0
+kia,sedan,ny,11,4359.090909090909,47950.0
+kia,sedan,oh,104,12191.836538461539,1267951.0
+kia,sedan,on,2,10650.0,21300.0
+kia,sedan,or,4,9275.0,37100.0
+kia,sedan,pa,95,12767.368421052632,1212900.0
+kia,sedan,pr,22,6750.0,148500.0
+kia,sedan,qc,2,7050.0,14100.0
+kia,sedan,sc,8,7037.5,56300.0
+kia,sedan,tn,49,10761.224489795919,527300.0
+kia,sedan,tx,172,11987.790697674418,2061900.0
+kia,sedan,ut,2,8100.0,16200.0
+kia,sedan,va,13,10423.076923076924,135500.0
+kia,sedan,wa,55,12351.818181818182,679350.0
+kia,sedan,wi,77,13099.35064935065,1008650.0
+kia,suv,ab,2,9550.0,19100.0
+kia,suv,az,12,11120.833333333334,133450.0
+kia,suv,ca,78,14185.897435897436,1106500.0
+kia,suv,co,37,17654.08108108108,653201.0
+kia,suv,fl,144,14149.652777777777,2037550.0
+kia,suv,ga,95,15578.947368421053,1480000.0
+kia,suv,hi,1,1800.0,1800.0
+kia,suv,il,7,15171.42857142857,106200.0
+kia,suv,in,4,11700.0,46800.0
+kia,suv,la,1,14000.0,14000.0
+kia,suv,ma,7,5314.285714285715,37200.0
+kia,suv,md,10,7940.0,79400.0
+kia,suv,mi,4,11025.0,44100.0
+kia,suv,mn,15,17800.0,267000.0
+kia,suv,mo,17,13914.70588235294,236550.0
+kia,suv,ms,3,11500.0,34500.0
+kia,suv,nc,24,9179.166666666666,220300.0
+kia,suv,ne,5,15220.0,76100.0
+kia,suv,nj,41,12532.926829268292,513850.0
+kia,suv,nv,34,16294.14705882353,554001.0
+kia,suv,ny,9,9188.888888888889,82700.0
+kia,suv,oh,53,16896.22641509434,895500.0
+kia,suv,pa,48,14578.125,699750.0
+kia,suv,pr,2,10700.0,21400.0
+kia,suv,qc,1,11600.0,11600.0
+kia,suv,sc,4,5650.0,22600.0
+kia,suv,tn,14,13314.285714285714,186400.0
+kia,suv,tx,100,12593.0,1259300.0
+kia,suv,ut,1,12000.0,12000.0
+kia,suv,va,16,11143.75,178300.0
+kia,suv,wa,13,17546.153846153848,228100.0
+kia,suv,wi,33,18709.090909090908,617400.0
+kia,wagon,az,1,9300.0,9300.0
+kia,wagon,ca,52,10811.538461538461,562200.0
+kia,wagon,co,8,10375.0,83000.0
+kia,wagon,fl,80,10785.9375,862875.0
+kia,wagon,ga,53,11213.207547169812,594300.0
+kia,wagon,il,9,9150.0,82350.0
+kia,wagon,in,7,7671.428571428572,53700.0
+kia,wagon,la,1,8400.0,8400.0
+kia,wagon,ma,4,8100.0,32400.0
+kia,wagon,md,7,9528.57142857143,66700.0
+kia,wagon,mi,9,7733.333333333333,69600.0
+kia,wagon,mn,21,10528.619047619048,221101.0
+kia,wagon,mo,15,11493.333333333334,172400.0
+kia,wagon,ms,2,6650.0,13300.0
+kia,wagon,nc,9,7522.222222222223,67700.0
+kia,wagon,ne,5,9940.0,49700.0
+kia,wagon,nj,21,12314.333333333334,258601.0
+kia,wagon,nv,30,14116.666666666666,423500.0
+kia,wagon,ny,2,7050.0,14100.0
+kia,wagon,oh,34,10017.64705882353,340600.0
+kia,wagon,on,2,15600.0,31200.0
+kia,wagon,pa,39,11366.666666666666,443300.0
+kia,wagon,pr,7,11671.42857142857,81700.0
+kia,wagon,qc,1,3150.0,3150.0
+kia,wagon,sc,3,9900.0,29700.0
+kia,wagon,tn,21,10454.761904761905,219550.0
+kia,wagon,tx,59,9879.661016949152,582900.0
+kia,wagon,ut,1,6100.0,6100.0
+kia,wagon,va,12,9366.666666666666,112400.0
+kia,wagon,wa,19,12884.21052631579,244800.0
+kia,wagon,wi,29,11755.172413793103,340900.0
+land rover,suv,az,3,17200.0,51600.0
+land rover,suv,ca,41,21732.926829268294,891050.0
+land rover,suv,co,1,2500.0,2500.0
+land rover,suv,fl,22,22554.545454545456,496200.0
+land rover,suv,ga,8,28375.0,227000.0
+land rover,suv,il,3,9616.666666666666,28850.0
+land rover,suv,ma,1,13800.0,13800.0
+land rover,suv,mi,4,23975.0,95900.0
+land rover,suv,mo,3,26850.0,80550.0
+land rover,suv,nc,9,19144.444444444445,172300.0
+land rover,suv,nj,4,21862.5,87450.0
+land rover,suv,nv,5,26230.0,131150.0
+land rover,suv,ny,4,15825.0,63300.0
+land rover,suv,oh,5,22780.0,113900.0
+land rover,suv,or,1,12500.0,12500.0
+land rover,suv,pa,33,22253.030303030304,734350.0
+land rover,suv,pr,1,4000.0,4000.0
+land rover,suv,sc,2,22900.0,45800.0
+land rover,suv,tn,4,23012.5,92050.0
+land rover,suv,tx,11,15250.0,167750.0
+land rover,suv,ut,1,2000.0,2000.0
+land rover,suv,va,3,12500.0,37500.0
+land rover,suv,wa,1,600.0,600.0
+land rover,suv,wi,3,19033.333333333332,57100.0
+lexus,convertible,az,1,8900.0,8900.0
+lexus,convertible,ca,9,18400.0,165600.0
+lexus,convertible,fl,16,22831.25,365300.0
+lexus,convertible,ga,7,22150.0,155050.0
+lexus,convertible,md,1,10100.0,10100.0
+lexus,convertible,mo,2,19450.0,38900.0
+lexus,convertible,nj,1,13600.0,13600.0
+lexus,convertible,nv,1,34000.0,34000.0
+lexus,convertible,pa,1,27250.0,27250.0
+lexus,convertible,sc,1,8200.0,8200.0
+lexus,convertible,tn,3,23400.0,70200.0
+lexus,convertible,tx,2,18700.0,37400.0
+lexus,coupe,fl,1,1600.0,1600.0
+lexus,coupe,ma,1,1450.0,1450.0
+lexus,coupe,tx,1,2100.0,2100.0
+lexus,coupe,wi,2,2700.0,5400.0
+lexus,hatchback,ca,11,21636.363636363636,238000.0
+lexus,hatchback,fl,39,20548.71794871795,801400.0
+lexus,hatchback,ga,6,18783.333333333332,112700.0
+lexus,hatchback,mo,1,22100.0,22100.0
+lexus,hatchback,nc,1,26500.0,26500.0
+lexus,hatchback,nj,4,19750.0,79000.0
+lexus,hatchback,oh,1,19900.0,19900.0
+lexus,hatchback,pa,11,19922.727272727272,219150.0
+lexus,hatchback,tn,3,19166.666666666668,57500.0
+lexus,hatchback,tx,2,20475.0,40950.0
+lexus,hatchback,wa,1,22500.0,22500.0
+lexus,hatchback,wi,2,19600.0,39200.0
+lexus,sedan,az,15,15666.666666666666,235000.0
+lexus,sedan,ca,173,16107.658959537572,2786625.0
+lexus,sedan,co,2,18425.0,36850.0
+lexus,sedan,fl,464,21905.495689655174,10164150.0
+lexus,sedan,ga,102,14404.411764705883,1469250.0
+lexus,sedan,il,15,14896.666666666666,223450.0
+lexus,sedan,in,3,17400.0,52200.0
+lexus,sedan,la,2,5550.0,11100.0
+lexus,sedan,ma,10,9780.0,97800.0
+lexus,sedan,md,28,9278.57142857143,259800.0
+lexus,sedan,mi,5,12120.0,60600.0
+lexus,sedan,mn,5,12000.0,60000.0
+lexus,sedan,mo,16,19031.25,304500.0
+lexus,sedan,ms,1,4800.0,4800.0
+lexus,sedan,nc,37,11385.135135135135,421250.0
+lexus,sedan,ne,4,17400.0,69600.0
+lexus,sedan,nj,50,14415.5,720775.0
+lexus,sedan,nv,17,14435.29411764706,245400.0
+lexus,sedan,ny,3,9266.666666666666,27800.0
+lexus,sedan,oh,39,21689.74358974359,845900.0
+lexus,sedan,ok,1,19400.0,19400.0
+lexus,sedan,pa,106,16486.79245283019,1747600.0
+lexus,sedan,sc,5,11250.0,56250.0
+lexus,sedan,tn,40,21508.75,860350.0
+lexus,sedan,tx,51,12905.392156862745,658175.0
+lexus,sedan,ut,1,2100.0,2100.0
+lexus,sedan,va,11,10500.0,115500.0
+lexus,sedan,wa,13,11507.692307692309,149600.0
+lexus,sedan,wi,44,20306.81818181818,893500.0
+lexus,suv,az,6,14050.0,84300.0
+lexus,suv,ca,81,16747.53086419753,1356550.0
+lexus,suv,co,4,26350.0,105400.0
+lexus,suv,fl,183,25060.928961748636,4586150.0
+lexus,suv,ga,49,15818.367346938776,775100.0
+lexus,suv,il,9,13966.666666666666,125700.0
+lexus,suv,in,1,10400.0,10400.0
+lexus,suv,la,1,30500.0,30500.0
+lexus,suv,ma,4,8400.0,33600.0
+lexus,suv,md,10,7920.0,79200.0
+lexus,suv,mi,2,28300.0,56600.0
+lexus,suv,mn,4,21475.0,85900.0
+lexus,suv,mo,13,19246.153846153848,250200.0
+lexus,suv,nc,20,12290.0,245800.0
+lexus,suv,ne,2,20150.0,40300.0
+lexus,suv,nj,41,20639.024390243903,846200.0
+lexus,suv,nv,7,14871.42857142857,104100.0
+lexus,suv,ny,1,7400.0,7400.0
+lexus,suv,oh,48,25927.083333333332,1244500.0
+lexus,suv,or,1,9600.0,9600.0
+lexus,suv,pa,92,23858.695652173912,2195000.0
+lexus,suv,pr,1,14500.0,14500.0
+lexus,suv,qc,1,21400.0,21400.0
+lexus,suv,sc,2,7550.0,15100.0
+lexus,suv,tn,17,26376.470588235294,448400.0
+lexus,suv,tx,29,12812.068965517241,371550.0
+lexus,suv,ut,1,1600.0,1600.0
+lexus,suv,va,13,14323.076923076924,186200.0
+lexus,suv,wa,16,17931.25,286900.0
+lexus,suv,wi,30,28401.666666666668,852050.0
+lexus,wagon,ca,2,3700.0,7400.0
+lincoln,coupe,fl,1,700.0,700.0
+lincoln,coupe,ga,1,900.0,900.0
+lincoln,crew cab,ca,2,12350.0,24700.0
+lincoln,crew cab,fl,2,12350.0,24700.0
+lincoln,crew cab,ga,1,15800.0,15800.0
+lincoln,crew cab,ma,1,17400.0,17400.0
+lincoln,crew cab,mi,2,13050.0,26100.0
+lincoln,crew cab,mo,1,15600.0,15600.0
+lincoln,crew cab,nc,1,6000.0,6000.0
+lincoln,crew cab,nj,1,6750.0,6750.0
+lincoln,crew cab,ny,1,15900.0,15900.0
+lincoln,crew cab,oh,1,12500.0,12500.0
+lincoln,crew cab,pa,1,4400.0,4400.0
+lincoln,crew cab,tx,2,13400.0,26800.0
+lincoln,crew cab,va,1,8000.0,8000.0
+lincoln,sedan,az,1,12000.0,12000.0
+lincoln,sedan,ca,26,8105.7692307692305,210750.0
+lincoln,sedan,co,4,16375.0,65500.0
+lincoln,sedan,fl,97,15206.701030927836,1475050.0
+lincoln,sedan,ga,44,11937.5,525250.0
+lincoln,sedan,il,62,20096.774193548386,1246000.0
+lincoln,sedan,in,4,8812.5,35250.0
+lincoln,sedan,ma,3,5700.0,17100.0
+lincoln,sedan,md,21,9902.380952380952,207950.0
+lincoln,sedan,mi,42,20022.619047619046,840950.0
+lincoln,sedan,mn,9,12711.111111111111,114400.0
+lincoln,sedan,mo,27,19459.25925925926,525400.0
+lincoln,sedan,ms,2,9750.0,19500.0
+lincoln,sedan,nc,11,6631.818181818182,72950.0
+lincoln,sedan,ne,1,15500.0,15500.0
+lincoln,sedan,nj,25,15912.0,397800.0
+lincoln,sedan,nv,9,11933.333333333334,107400.0
+lincoln,sedan,ny,15,18400.0,276000.0
+lincoln,sedan,oh,11,14081.818181818182,154900.0
+lincoln,sedan,pa,60,15095.833333333334,905750.0
+lincoln,sedan,sc,1,13800.0,13800.0
+lincoln,sedan,tn,66,21839.39393939394,1441400.0
+lincoln,sedan,tx,45,13863.933333333332,623877.0
+lincoln,sedan,va,4,5425.0,21700.0
+lincoln,sedan,wi,3,2600.0,7800.0
+lincoln,suv,az,4,9275.0,37100.0
+lincoln,suv,ca,36,11151.388888888889,401450.0
+lincoln,suv,co,3,3600.0,10800.0
+lincoln,suv,fl,49,17761.224489795917,870300.0
+lincoln,suv,ga,18,15902.777777777777,286250.0
+lincoln,suv,il,30,25413.333333333332,762400.0
+lincoln,suv,in,1,2000.0,2000.0
+lincoln,suv,ma,1,800.0,800.0
+lincoln,suv,md,17,8264.70588235294,140500.0
+lincoln,suv,mi,28,21353.571428571428,597900.0
+lincoln,suv,mn,6,19600.0,117600.0
+lincoln,suv,mo,9,17100.0,153900.0
+lincoln,suv,ms,2,3750.0,7500.0
+lincoln,suv,nc,9,11755.555555555555,105800.0
+lincoln,suv,nj,20,17142.5,342850.0
+lincoln,suv,nv,10,13375.0,133750.0
+lincoln,suv,ny,12,19220.833333333332,230650.0
+lincoln,suv,oh,8,16075.0,128600.0
+lincoln,suv,on,3,20400.0,61200.0
+lincoln,suv,pa,38,18623.684210526317,707700.0
+lincoln,suv,pr,2,13600.0,27200.0
+lincoln,suv,qc,1,21100.0,21100.0
+lincoln,suv,sc,1,12800.0,12800.0
+lincoln,suv,tn,28,25412.5,711550.0
+lincoln,suv,tx,30,17636.666666666668,529100.0
+lincoln,suv,va,6,4816.666666666667,28900.0
+lincoln,suv,wa,4,7725.0,30900.0
+lincoln,suv,wi,6,13283.333333333334,79700.0
+lincoln,wagon,ca,1,22500.0,22500.0
+lincoln,wagon,co,1,22600.0,22600.0
+lincoln,wagon,fl,4,19500.0,78000.0
+lincoln,wagon,ga,1,29500.0,29500.0
+lincoln,wagon,il,4,20725.0,82900.0
+lincoln,wagon,la,1,14700.0,14700.0
+lincoln,wagon,md,1,17900.0,17900.0
+lincoln,wagon,mi,1,33500.0,33500.0
+lincoln,wagon,mo,1,24400.0,24400.0
+lincoln,wagon,ny,2,19800.0,39600.0
+lincoln,wagon,oh,1,26500.0,26500.0
+lincoln,wagon,pa,1,22800.0,22800.0
+lincoln,wagon,tn,3,26566.666666666668,79700.0
+lincoln,wagon,tx,3,21266.666666666668,63800.0
+lincoln,wagon,va,1,18300.0,18300.0
+maserati,coupe,pa,1,33750.0,33750.0
+maserati,sedan,ca,4,27562.5,110250.0
+maserati,sedan,ga,1,16400.0,16400.0
+mazda,cab plus,fl,1,1300.0,1300.0
+mazda,cab plus,ga,1,4100.0,4100.0
+mazda,cab plus 4,mi,1,10600.0,10600.0
+mazda,convertible,az,1,2000.0,2000.0
+mazda,convertible,ca,4,15100.0,60400.0
+mazda,convertible,fl,9,9644.444444444445,86800.0
+mazda,convertible,ga,4,13500.0,54000.0
+mazda,convertible,md,1,8400.0,8400.0
+mazda,convertible,mi,2,23550.0,47100.0
+mazda,convertible,nc,3,4900.0,14700.0
+mazda,convertible,ne,1,18200.0,18200.0
+mazda,convertible,nj,2,18950.0,37900.0
+mazda,convertible,nv,1,20000.0,20000.0
+mazda,convertible,oh,1,7000.0,7000.0
+mazda,convertible,pa,2,15600.0,31200.0
+mazda,convertible,tn,1,6200.0,6200.0
+mazda,convertible,tx,6,5800.0,34800.0
+mazda,convertible,va,1,17900.0,17900.0
+mazda,convertible,wa,3,7600.0,22800.0
+mazda,coupe,ca,1,8300.0,8300.0
+mazda,coupe,nc,1,10800.0,10800.0
+mazda,coupe,nv,1,12300.0,12300.0
+mazda,hatchback,az,2,6500.0,13000.0
+mazda,hatchback,ca,34,8502.941176470587,289100.0
+mazda,hatchback,co,2,10950.0,21900.0
+mazda,hatchback,fl,22,9836.363636363636,216400.0
+mazda,hatchback,ga,12,11033.333333333334,132400.0
+mazda,hatchback,hi,2,11875.0,23750.0
+mazda,hatchback,il,4,6600.25,26401.0
+mazda,hatchback,in,3,8466.666666666666,25400.0
+mazda,hatchback,la,2,8150.0,16300.0
+mazda,hatchback,ma,2,3900.0,7800.0
+mazda,hatchback,md,6,5766.666666666667,34600.0
+mazda,hatchback,mi,7,11842.857142857143,82900.0
+mazda,hatchback,mn,4,8825.25,35301.0
+mazda,hatchback,mo,3,8533.333333333334,25600.0
+mazda,hatchback,ms,1,9900.0,9900.0
+mazda,hatchback,nc,5,10180.0,50900.0
+mazda,hatchback,ne,3,7766.666666666667,23300.0
+mazda,hatchback,nj,8,13712.5,109700.0
+mazda,hatchback,ns,1,8900.0,8900.0
+mazda,hatchback,nv,1,5800.0,5800.0
+mazda,hatchback,oh,3,8600.0,25800.0
+mazda,hatchback,on,4,8250.0,33000.0
+mazda,hatchback,pa,23,10352.173913043478,238100.0
+mazda,hatchback,pr,6,7200.0,43200.0
+mazda,hatchback,qc,2,10400.0,20800.0
+mazda,hatchback,tn,9,10266.666666666666,92400.0
+mazda,hatchback,tx,19,8984.21052631579,170700.0
+mazda,hatchback,va,6,10000.0,60000.0
+mazda,hatchback,wa,3,15500.0,46500.0
+mazda,hatchback,wi,4,12625.0,50500.0
+mazda,minivan,az,6,9950.0,59700.0
+mazda,minivan,ca,12,8641.666666666666,103700.0
+mazda,minivan,co,2,11200.0,22400.0
+mazda,minivan,fl,23,8443.478260869566,194200.0
+mazda,minivan,ga,10,6490.0,64900.0
+mazda,minivan,il,1,2100.0,2100.0
+mazda,minivan,in,1,13000.0,13000.0
+mazda,minivan,la,1,6500.0,6500.0
+mazda,minivan,ma,4,5287.5,21150.0
+mazda,minivan,md,5,6840.0,34200.0
+mazda,minivan,mi,3,9816.666666666666,29450.0
+mazda,minivan,mn,2,2800.0,5600.0
+mazda,minivan,mo,2,4050.0,8100.0
+mazda,minivan,nc,8,5637.5,45100.0
+mazda,minivan,ne,4,6600.0,26400.0
+mazda,minivan,nj,7,8828.57142857143,61800.0
+mazda,minivan,oh,4,7500.25,30001.0
+mazda,minivan,or,1,13700.0,13700.0
+mazda,minivan,pa,16,8875.0,142000.0
+mazda,minivan,pr,2,5050.0,10100.0
+mazda,minivan,qc,2,6750.0,13500.0
+mazda,minivan,tn,6,11616.666666666666,69700.0
+mazda,minivan,tx,22,8054.545454545455,177200.0
+mazda,minivan,ut,1,13000.0,13000.0
+mazda,minivan,va,7,6200.0,43400.0
+mazda,minivan,wa,2,8400.0,16800.0
+mazda,minivan,wi,4,10625.0,42500.0
+mazda,regular cab,nc,1,1000.0,1000.0
+mazda,sedan,ab,1,800.0,800.0
+mazda,sedan,az,15,8046.666666666667,120700.0
+mazda,sedan,ca,88,12200.568181818182,1073650.0
+mazda,sedan,co,5,8400.0,42000.0
+mazda,sedan,fl,83,8692.77108433735,721500.0
+mazda,sedan,ga,33,8628.787878787878,284750.0
+mazda,sedan,hi,3,7066.666666666667,21200.0
+mazda,sedan,il,12,6312.5,75750.0
+mazda,sedan,in,6,6200.0,37200.0
+mazda,sedan,la,8,9125.0,73000.0
+mazda,sedan,ma,14,4467.857142857143,62550.0
+mazda,sedan,md,22,4779.545454545455,105150.0
+mazda,sedan,mi,18,9305.555555555555,167500.0
+mazda,sedan,mn,10,8370.0,83700.0
+mazda,sedan,mo,17,9205.882352941177,156500.0
+mazda,sedan,ms,2,9550.0,19100.0
+mazda,sedan,nc,37,6537.8378378378375,241900.0
+mazda,sedan,ne,10,7275.0,72750.0
+mazda,sedan,nj,50,9835.0,491750.0
+mazda,sedan,nm,1,1600.0,1600.0
+mazda,sedan,nv,10,11540.0,115400.0
+mazda,sedan,ny,10,7540.0,75400.0
+mazda,sedan,oh,14,8107.142857142857,113500.0
+mazda,sedan,on,5,5220.0,26100.0
+mazda,sedan,pa,87,9869.540229885057,858650.0
+mazda,sedan,pr,17,5564.705882352941,94600.0
+mazda,sedan,qc,4,6200.0,24800.0
+mazda,sedan,sc,4,9425.25,37701.0
+mazda,sedan,tn,18,9575.0,172350.0
+mazda,sedan,tx,51,8334.333333333334,425051.0
+mazda,sedan,ut,4,8237.5,32950.0
+mazda,sedan,va,27,7507.407407407408,202700.0
+mazda,sedan,wa,5,5200.0,26000.0
+mazda,sedan,wi,12,11200.0,134400.0
+mazda,suv,ab,1,4500.0,4500.0
+mazda,suv,az,11,15209.09090909091,167300.0
+mazda,suv,ca,35,19321.428571428572,676250.0
+mazda,suv,co,5,20500.0,102500.0
+mazda,suv,fl,64,11605.46875,742750.0
+mazda,suv,ga,20,10935.0,218700.0
+mazda,suv,hi,3,16333.333333333334,49000.0
+mazda,suv,il,5,16940.0,84700.0
+mazda,suv,la,1,18500.0,18500.0
+mazda,suv,ma,3,5333.333333333333,16000.0
+mazda,suv,md,2,3050.0,6100.0
+mazda,suv,mi,5,16320.0,81600.0
+mazda,suv,mn,3,11266.666666666666,33800.0
+mazda,suv,mo,3,21300.0,63900.0
+mazda,suv,nc,13,6069.2307692307695,78900.0
+mazda,suv,ne,5,10020.0,50100.0
+mazda,suv,nj,28,16442.85714285714,460400.0
+mazda,suv,nv,7,13057.142857142857,91400.0
+mazda,suv,ny,3,8050.0,24150.0
+mazda,suv,oh,3,16866.666666666668,50600.0
+mazda,suv,or,2,9600.0,19200.0
+mazda,suv,pa,61,15730.327868852459,959550.0
+mazda,suv,pr,2,13000.0,26000.0
+mazda,suv,sc,5,13820.0,69100.0
+mazda,suv,tn,14,17264.285714285714,241700.0
+mazda,suv,tx,46,13671.739130434782,628900.0
+mazda,suv,ut,2,6800.0,13600.0
+mazda,suv,va,4,11462.5,45850.0
+mazda,suv,wa,4,20725.0,82900.0
+mazda,suv,wi,7,14142.857142857143,99000.0
+mazda,wagon,ca,1,1800.0,1800.0
+mazda,wagon,fl,1,2700.0,2700.0
+mazda,wagon,il,1,2700.0,2700.0
+mazda,wagon,tx,1,1600.0,1600.0
+mazda,wagon,va,1,1300.0,1300.0
+mercedes-benz,convertible,ca,58,16037.086206896553,930151.0
+mercedes-benz,convertible,fl,51,14509.803921568628,740000.0
+mercedes-benz,convertible,ga,12,11483.333333333334,137800.0
+mercedes-benz,convertible,md,1,2500.0,2500.0
+mercedes-benz,convertible,mi,1,20500.0,20500.0
+mercedes-benz,convertible,mo,2,13725.0,27450.0
+mercedes-benz,convertible,nc,4,8025.0,32100.0
+mercedes-benz,convertible,nj,10,10075.0,100750.0
+mercedes-benz,convertible,nv,8,14800.0,118400.0
+mercedes-benz,convertible,oh,2,16625.0,33250.0
+mercedes-benz,convertible,pa,20,18272.5,365450.0
+mercedes-benz,convertible,sc,1,6500.0,6500.0
+mercedes-benz,convertible,tn,3,8700.0,26100.0
+mercedes-benz,convertible,tx,9,17316.666666666668,155850.0
+mercedes-benz,convertible,ut,1,2400.0,2400.0
+mercedes-benz,convertible,va,2,14150.0,28300.0
+mercedes-benz,convertible,wa,1,29750.0,29750.0
+mercedes-benz,coupe,ca,62,20247.58064516129,1255350.0
+mercedes-benz,coupe,co,1,29000.0,29000.0
+mercedes-benz,coupe,fl,33,19316.666666666668,637450.0
+mercedes-benz,coupe,ga,18,17500.0,315000.0
+mercedes-benz,coupe,md,2,4400.0,8800.0
+mercedes-benz,coupe,nc,3,10700.0,32100.0
+mercedes-benz,coupe,nj,5,16470.0,82350.0
+mercedes-benz,coupe,nv,16,22287.5,356600.0
+mercedes-benz,coupe,ny,1,11300.0,11300.0
+mercedes-benz,coupe,oh,3,23233.333333333332,69700.0
+mercedes-benz,coupe,pa,23,19384.782608695652,445850.0
+mercedes-benz,coupe,tn,3,16416.666666666668,49250.0
+mercedes-benz,coupe,tx,22,24527.272727272728,539600.0
+mercedes-benz,coupe,va,2,4150.0,8300.0
+mercedes-benz,coupe,wi,3,21916.666666666668,65750.0
+mercedes-benz,hatchback,ab,1,3000.0,3000.0
+mercedes-benz,hatchback,az,1,2400.0,2400.0
+mercedes-benz,hatchback,ca,2,1850.0,3700.0
+mercedes-benz,hatchback,fl,3,2783.3333333333335,8350.0
+mercedes-benz,hatchback,md,1,3100.0,3100.0
+mercedes-benz,hatchback,pa,1,7800.0,7800.0
+mercedes-benz,hatchback,tx,1,2600.0,2600.0
+mercedes-benz,sedan,ab,1,10250.0,10250.0
+mercedes-benz,sedan,az,9,13400.0,120600.0
+mercedes-benz,sedan,ca,410,17898.170731707316,7338250.0
+mercedes-benz,sedan,co,2,16875.0,33750.0
+mercedes-benz,sedan,fl,295,16337.627118644068,4819600.0
+mercedes-benz,sedan,ga,173,16962.433526011562,2934501.0
+mercedes-benz,sedan,hi,4,21062.5,84250.0
+mercedes-benz,sedan,il,17,14920.588235294117,253650.0
+mercedes-benz,sedan,la,2,4450.0,8900.0
+mercedes-benz,sedan,ma,8,11800.0,94400.0
+mercedes-benz,sedan,md,22,7165.909090909091,157650.0
+mercedes-benz,sedan,mi,3,9066.666666666666,27200.0
+mercedes-benz,sedan,mn,3,6666.666666666667,20000.0
+mercedes-benz,sedan,mo,14,13778.57142857143,192900.0
+mercedes-benz,sedan,nc,29,10458.620689655172,303300.0
+mercedes-benz,sedan,ne,1,21800.0,21800.0
+mercedes-benz,sedan,nj,82,16798.170731707316,1377450.0
+mercedes-benz,sedan,nv,72,18384.722222222223,1323700.0
+mercedes-benz,sedan,ny,7,9560.714285714286,66925.0
+mercedes-benz,sedan,oh,71,21774.661971830985,1546001.0
+mercedes-benz,sedan,on,11,10663.636363636364,117300.0
+mercedes-benz,sedan,or,1,7900.0,7900.0
+mercedes-benz,sedan,pa,219,19018.721461187215,4165100.0
+mercedes-benz,sedan,pr,7,18100.0,126700.0
+mercedes-benz,sedan,sc,6,18266.833333333332,109601.0
+mercedes-benz,sedan,tn,64,22013.28125,1408850.0
+mercedes-benz,sedan,tx,112,18093.973214285714,2026525.0
+mercedes-benz,sedan,ut,1,2900.0,2900.0
+mercedes-benz,sedan,va,26,8821.153846153846,229350.0
+mercedes-benz,sedan,wa,4,9862.5,39450.0
+mercedes-benz,sedan,wi,84,23135.119047619046,1943350.0
+mercedes-benz,suv,ab,1,12100.0,12100.0
+mercedes-benz,suv,az,4,13975.0,55900.0
+mercedes-benz,suv,ca,139,19983.093525179855,2777650.0
+mercedes-benz,suv,co,1,26200.0,26200.0
+mercedes-benz,suv,fl,71,20615.50704225352,1463701.0
+mercedes-benz,suv,ga,53,18822.64150943396,997600.0
+mercedes-benz,suv,il,4,17500.0,70000.0
+mercedes-benz,suv,la,2,27750.0,55500.0
+mercedes-benz,suv,ma,3,18966.666666666668,56900.0
+mercedes-benz,suv,md,8,11331.25,90650.0
+mercedes-benz,suv,mi,2,12100.0,24200.0
+mercedes-benz,suv,mn,2,16500.0,33000.0
+mercedes-benz,suv,mo,10,14250.0,142500.0
+mercedes-benz,suv,nc,9,12233.333333333334,110100.0
+mercedes-benz,suv,ne,2,13800.0,27600.0
+mercedes-benz,suv,nj,36,17366.666666666668,625200.0
+mercedes-benz,suv,nv,24,24364.583333333332,584750.0
+mercedes-benz,suv,ny,2,26000.0,52000.0
+mercedes-benz,suv,oh,25,23504.0,587600.0
+mercedes-benz,suv,on,7,13357.142857142857,93500.0
+mercedes-benz,suv,or,1,11000.0,11000.0
+mercedes-benz,suv,pa,107,20883.17757009346,2234500.0
+mercedes-benz,suv,pr,2,32750.0,65500.0
+mercedes-benz,suv,sc,2,18150.0,36300.0
+mercedes-benz,suv,tn,13,23619.23076923077,307050.0
+mercedes-benz,suv,tx,32,19948.4375,638350.0
+mercedes-benz,suv,va,9,9744.444444444445,87700.0
+mercedes-benz,suv,wa,7,7978.571428571428,55850.0
+mercedes-benz,suv,wi,25,23188.0,579700.0
+mercedes-benz,van,ca,4,26062.5,104250.0
+mercedes-benz,van,fl,2,27950.0,55900.0
+mercedes-benz,van,il,3,21833.333333333332,65500.0
+mercedes-benz,van,pa,2,21100.0,42200.0
+mercedes-benz,van,tx,1,13000.0,13000.0
+mercedes-benz,van,ut,1,28000.0,28000.0
+mercedes-benz,wagon,ca,13,7900.0,102700.0
+mercedes-benz,wagon,fl,8,9206.25,73650.0
+mercedes-benz,wagon,ga,12,12070.833333333334,144850.0
+mercedes-benz,wagon,hi,1,31000.0,31000.0
+mercedes-benz,wagon,il,4,9675.0,38700.0
+mercedes-benz,wagon,ma,1,10800.0,10800.0
+mercedes-benz,wagon,md,2,4225.0,8450.0
+mercedes-benz,wagon,mo,1,4300.0,4300.0
+mercedes-benz,wagon,ms,1,4000.0,4000.0
+mercedes-benz,wagon,nc,1,12300.0,12300.0
+mercedes-benz,wagon,nj,8,10425.0,83400.0
+mercedes-benz,wagon,nv,3,9733.333333333334,29200.0
+mercedes-benz,wagon,pa,18,13486.111111111111,242750.0
+mercedes-benz,wagon,tn,2,7100.0,14200.0
+mercedes-benz,wagon,tx,6,9383.333333333334,56300.0
+mercury,hatchback,fl,1,1400.0,1400.0
+mercury,hatchback,nc,1,800.0,800.0
+mercury,hatchback,nj,2,950.0,1900.0
+mercury,hatchback,pa,2,725.0,1450.0
+mercury,hatchback,tx,1,1400.0,1400.0
+mercury,minivan,ca,1,1900.0,1900.0
+mercury,minivan,fl,1,4100.0,4100.0
+mercury,minivan,ga,1,5750.0,5750.0
+mercury,minivan,md,1,2700.0,2700.0
+mercury,minivan,mo,1,3500.0,3500.0
+mercury,minivan,nc,1,1100.0,1100.0
+mercury,minivan,nv,1,3400.0,3400.0
+mercury,minivan,oh,1,3700.0,3700.0
+mercury,minivan,wi,1,3500.0,3500.0
+mercury,sedan,az,5,2400.0,12000.0
+mercury,sedan,ca,10,4650.0,46500.0
+mercury,sedan,co,1,700.0,700.0
+mercury,sedan,fl,34,2950.0,100300.0
+mercury,sedan,ga,15,3136.6666666666665,47050.0
+mercury,sedan,il,4,3100.0,12400.0
+mercury,sedan,in,3,3966.6666666666665,11900.0
+mercury,sedan,la,2,4400.0,8800.0
+mercury,sedan,ma,8,1256.25,10050.0
+mercury,sedan,md,9,2722.222222222222,24500.0
+mercury,sedan,mi,4,4437.5,17750.0
+mercury,sedan,mn,1,4200.0,4200.0
+mercury,sedan,mo,4,6050.0,24200.0
+mercury,sedan,ms,2,1525.0,3050.0
+mercury,sedan,nc,10,3725.0,37250.0
+mercury,sedan,nj,14,2885.714285714286,40400.0
+mercury,sedan,nv,4,1912.5,7650.0
+mercury,sedan,ny,5,4090.0,20450.0
+mercury,sedan,oh,11,2986.3636363636365,32850.0
+mercury,sedan,pa,4,3437.5,13750.0
+mercury,sedan,sc,3,4700.0,14100.0
+mercury,sedan,tn,7,5285.714285714285,37000.0
+mercury,sedan,tx,15,3890.0,58350.0
+mercury,sedan,ut,1,3700.0,3700.0
+mercury,sedan,va,9,3716.6666666666665,33450.0
+mercury,sedan,wi,3,2450.0,7350.0
+mercury,suv,az,2,7050.0,14100.0
+mercury,suv,ca,13,4515.384615384615,58700.0
+mercury,suv,co,1,4600.0,4600.0
+mercury,suv,fl,12,4733.333333333333,56800.0
+mercury,suv,ga,16,4862.5,77800.0
+mercury,suv,il,5,5490.0,27450.0
+mercury,suv,ma,6,7383.333333333333,44300.0
+mercury,suv,md,7,4357.142857142857,30500.0
+mercury,suv,mi,5,5330.0,26650.0
+mercury,suv,mn,6,7916.666666666667,47500.0
+mercury,suv,mo,5,5380.0,26900.0
+mercury,suv,ms,1,4300.0,4300.0
+mercury,suv,nc,12,5816.666666666667,69800.0
+mercury,suv,ne,2,5275.0,10550.0
+mercury,suv,nj,8,3968.75,31750.0
+mercury,suv,nv,1,750.0,750.0
+mercury,suv,ny,6,6183.333333333333,37100.0
+mercury,suv,oh,7,5685.714285714285,39800.0
+mercury,suv,pa,14,3835.714285714286,53700.0
+mercury,suv,sc,1,5200.0,5200.0
+mercury,suv,tn,1,11600.0,11600.0
+mercury,suv,tx,8,6068.75,48550.0
+mercury,suv,va,6,4541.666666666667,27250.0
+mercury,suv,wi,6,4200.0,25200.0
+mercury,wagon,ca,1,1000.0,1000.0
+mercury,wagon,fl,1,700.0,700.0
+mini,convertible,ca,11,9213.636363636364,101350.0
+mini,convertible,fl,6,11600.0,69600.0
+mini,convertible,ga,1,13000.0,13000.0
+mini,convertible,il,1,3700.0,3700.0
+mini,convertible,ma,1,8200.0,8200.0
+mini,convertible,md,2,9650.0,19300.0
+mini,convertible,nc,2,3350.0,6700.0
+mini,convertible,nj,3,16650.0,49950.0
+mini,convertible,nv,6,16216.666666666666,97300.0
+mini,convertible,oh,5,22500.0,112500.0
+mini,convertible,pa,2,12750.0,25500.0
+mini,convertible,sc,1,5700.0,5700.0
+mini,convertible,tn,2,13200.0,26400.0
+mini,convertible,tx,2,7950.0,15900.0
+mini,convertible,wi,1,16000.0,16000.0
+mini,hatchback,az,6,9133.333333333334,54800.0
+mini,hatchback,ca,151,11424.834437086092,1725150.0
+mini,hatchback,co,1,3700.0,3700.0
+mini,hatchback,fl,59,10169.49152542373,600000.0
+mini,hatchback,ga,14,8685.714285714286,121600.0
+mini,hatchback,hi,2,14500.0,29000.0
+mini,hatchback,il,2,3375.0,6750.0
+mini,hatchback,la,1,11000.0,11000.0
+mini,hatchback,ma,2,10450.0,20900.0
+mini,hatchback,md,4,4225.0,16900.0
+mini,hatchback,mi,2,13600.0,27200.0
+mini,hatchback,mn,1,12400.0,12400.0
+mini,hatchback,mo,5,8460.0,42300.0
+mini,hatchback,nc,19,7642.105263157895,145200.0
+mini,hatchback,nj,19,15157.894736842105,288000.0
+mini,hatchback,nv,38,12151.315789473685,461750.0
+mini,hatchback,ny,1,1700.0,1700.0
+mini,hatchback,oh,28,17278.571428571428,483800.0
+mini,hatchback,on,4,13500.0,54000.0
+mini,hatchback,pa,35,9975.714285714286,349150.0
+mini,hatchback,qc,2,6550.0,13100.0
+mini,hatchback,sc,2,3900.0,7800.0
+mini,hatchback,tn,8,8571.875,68575.0
+mini,hatchback,tx,20,10335.0,206700.0
+mini,hatchback,va,3,3966.6666666666665,11900.0
+mini,hatchback,wa,11,11395.454545454546,125350.0
+mini,hatchback,wi,12,9591.666666666666,115100.0
+mini,wagon,az,2,13150.0,26300.0
+mini,wagon,ca,23,18202.17391304348,418650.0
+mini,wagon,co,1,17200.0,17200.0
+mini,wagon,fl,11,18081.81818181818,198900.0
+mini,wagon,ga,5,17700.0,88500.0
+mini,wagon,in,1,14200.0,14200.0
+mini,wagon,la,1,19900.0,19900.0
+mini,wagon,ma,1,15600.0,15600.0
+mini,wagon,md,1,15600.0,15600.0
+mini,wagon,mo,3,21333.333333333332,64000.0
+mini,wagon,nc,1,13500.0,13500.0
+mini,wagon,ne,1,14400.0,14400.0
+mini,wagon,nj,8,21562.5,172500.0
+mini,wagon,nv,1,13300.0,13300.0
+mini,wagon,ny,1,14000.0,14000.0
+mini,wagon,oh,10,22600.0,226000.0
+mini,wagon,on,2,23100.0,46200.0
+mini,wagon,pa,11,17145.454545454544,188600.0
+mini,wagon,pr,2,26600.0,53200.0
+mini,wagon,tn,5,17760.0,88800.0
+mini,wagon,tx,2,18500.0,37000.0
+mini,wagon,va,1,16900.0,16900.0
+mini,wagon,wa,1,22500.0,22500.0
+mini,wagon,wi,1,16500.0,16500.0
+mitsubishi,convertible,az,1,4900.0,4900.0
+mitsubishi,convertible,ca,4,4762.5,19050.0
+mitsubishi,convertible,fl,7,5242.857142857143,36700.0
+mitsubishi,convertible,ga,2,8000.0,16000.0
+mitsubishi,convertible,ma,1,2700.0,2700.0
+mitsubishi,convertible,md,1,500.0,500.0
+mitsubishi,convertible,nc,3,1633.3333333333333,4900.0
+mitsubishi,convertible,nj,1,4900.0,4900.0
+mitsubishi,convertible,nv,1,2400.0,2400.0
+mitsubishi,convertible,pa,1,5700.0,5700.0
+mitsubishi,convertible,tx,4,4025.0,16100.0
+mitsubishi,convertible,wa,3,2666.6666666666665,8000.0
+mitsubishi,convertible,wi,1,1800.0,1800.0
+mitsubishi,double cab,az,1,6200.0,6200.0
+mitsubishi,double cab,ca,1,5200.0,5200.0
+mitsubishi,double cab,pr,1,2600.0,2600.0
+mitsubishi,extended cab,fl,1,8500.0,8500.0
+mitsubishi,hatchback,az,1,1000.0,1000.0
+mitsubishi,hatchback,ca,14,5978.571428571428,83700.0
+mitsubishi,hatchback,co,1,5000.0,5000.0
+mitsubishi,hatchback,fl,22,4334.090909090909,95350.0
+mitsubishi,hatchback,ga,4,3200.0,12800.0
+mitsubishi,hatchback,il,2,6550.0,13100.0
+mitsubishi,hatchback,in,1,2700.0,2700.0
+mitsubishi,hatchback,ma,1,2700.0,2700.0
+mitsubishi,hatchback,md,2,4900.0,9800.0
+mitsubishi,hatchback,mn,4,8300.0,33200.0
+mitsubishi,hatchback,mo,3,4900.0,14700.0
+mitsubishi,hatchback,ms,1,500.0,500.0
+mitsubishi,hatchback,nc,5,4190.0,20950.0
+mitsubishi,hatchback,nj,1,4800.0,4800.0
+mitsubishi,hatchback,nv,2,5950.0,11900.0
+mitsubishi,hatchback,ny,1,6600.0,6600.0
+mitsubishi,hatchback,oh,2,6350.0,12700.0
+mitsubishi,hatchback,or,1,3800.0,3800.0
+mitsubishi,hatchback,pa,7,7457.142857142857,52200.0
+mitsubishi,hatchback,pr,7,10700.0,74900.0
+mitsubishi,hatchback,tn,2,7500.0,15000.0
+mitsubishi,hatchback,tx,20,6555.0,131100.0
+mitsubishi,hatchback,va,3,6733.333333333333,20200.0
+mitsubishi,hatchback,wa,1,5500.0,5500.0
+mitsubishi,hatchback,wi,1,4300.0,4300.0
+mitsubishi,sedan,ab,2,3750.0,7500.0
+mitsubishi,sedan,az,7,8900.0,62300.0
+mitsubishi,sedan,ca,29,9282.758620689656,269200.0
+mitsubishi,sedan,co,4,9475.0,37900.0
+mitsubishi,sedan,fl,37,7100.0,262700.0
+mitsubishi,sedan,ga,15,4726.666666666667,70900.0
+mitsubishi,sedan,il,8,11543.75,92350.0
+mitsubishi,sedan,in,4,4850.0,19400.0
+mitsubishi,sedan,ma,6,2316.6666666666665,13900.0
+mitsubishi,sedan,md,7,6428.571428571428,45000.0
+mitsubishi,sedan,mi,3,4450.0,13350.0
+mitsubishi,sedan,mn,4,6350.0,25400.0
+mitsubishi,sedan,mo,4,5400.0,21600.0
+mitsubishi,sedan,ms,1,8500.0,8500.0
+mitsubishi,sedan,nc,12,5025.0,60300.0
+mitsubishi,sedan,ne,2,3600.0,7200.0
+mitsubishi,sedan,nj,13,7038.461538461538,91500.0
+mitsubishi,sedan,nv,12,15345.833333333334,184150.0
+mitsubishi,sedan,ny,1,650.0,650.0
+mitsubishi,sedan,oh,10,4140.0,41400.0
+mitsubishi,sedan,on,1,11000.0,11000.0
+mitsubishi,sedan,pa,41,13182.926829268292,540500.0
+mitsubishi,sedan,pr,38,7018.421052631579,266700.0
+mitsubishi,sedan,sc,1,8800.0,8800.0
+mitsubishi,sedan,tn,13,8746.153846153846,113700.0
+mitsubishi,sedan,tx,41,7453.658536585366,305600.0
+mitsubishi,sedan,ut,1,4800.0,4800.0
+mitsubishi,sedan,va,10,7440.0,74400.0
+mitsubishi,sedan,wa,3,11833.333333333334,35500.0
+mitsubishi,sedan,wi,7,4392.857142857143,30750.0
+mitsubishi,suv,az,12,11095.833333333334,133150.0
+mitsubishi,suv,ca,30,8008.333333333333,240250.0
+mitsubishi,suv,fl,42,9495.238095238095,398800.0
+mitsubishi,suv,ga,13,8076.923076923077,105000.0
+mitsubishi,suv,il,6,8900.0,53400.0
+mitsubishi,suv,in,1,13500.0,13500.0
+mitsubishi,suv,la,2,5350.0,10700.0
+mitsubishi,suv,ma,6,5766.666666666667,34600.0
+mitsubishi,suv,md,4,1312.5,5250.0
+mitsubishi,suv,mn,14,19535.714285714286,273500.0
+mitsubishi,suv,mo,11,12659.09090909091,139250.0
+mitsubishi,suv,nc,9,6000.0,54000.0
+mitsubishi,suv,ne,1,15200.0,15200.0
+mitsubishi,suv,nj,7,6414.285714285715,44900.0
+mitsubishi,suv,nv,11,16400.0,180400.0
+mitsubishi,suv,ny,1,560.0,560.0
+mitsubishi,suv,oh,5,5350.0,26750.0
+mitsubishi,suv,pa,40,13081.25,523250.0
+mitsubishi,suv,pr,12,10616.666666666666,127400.0
+mitsubishi,suv,tn,3,14966.666666666666,44900.0
+mitsubishi,suv,tx,27,8629.62962962963,233000.0
+mitsubishi,suv,va,6,6158.333333333333,36950.0
+mitsubishi,suv,wa,1,12400.0,12400.0
+mitsubishi,suv,wi,2,1162.5,2325.0
+nissan,convertible,az,1,5900.0,5900.0
+nissan,convertible,ca,7,11878.57142857143,83150.0
+nissan,convertible,fl,1,18000.0,18000.0
+nissan,convertible,ga,2,8750.0,17500.0
+nissan,convertible,md,1,7300.0,7300.0
+nissan,convertible,nj,1,7300.0,7300.0
+nissan,convertible,tx,3,9400.0,28200.0
+nissan,coupe,az,8,11193.75,89550.0
+nissan,coupe,ca,46,13604.347826086956,625800.0
+nissan,coupe,co,4,14500.0,58000.0
+nissan,coupe,fl,48,13947.916666666666,669500.0
+nissan,coupe,ga,15,11793.333333333334,176900.0
+nissan,coupe,il,10,12730.0,127300.0
+nissan,coupe,la,3,10366.666666666666,31100.0
+nissan,coupe,ma,4,10175.0,40700.0
+nissan,coupe,md,4,6700.0,26800.0
+nissan,coupe,mn,2,11200.0,22400.0
+nissan,coupe,mo,3,13633.333333333334,40900.0
+nissan,coupe,ms,1,10000.0,10000.0
+nissan,coupe,nc,8,10187.5,81500.0
+nissan,coupe,nj,18,12083.333333333334,217500.0
+nissan,coupe,nm,1,11800.0,11800.0
+nissan,coupe,nv,5,21510.0,107550.0
+nissan,coupe,oh,3,12100.0,36300.0
+nissan,coupe,pa,31,13417.741935483871,415950.0
+nissan,coupe,sc,2,16350.0,32700.0
+nissan,coupe,tn,11,13336.363636363636,146700.0
+nissan,coupe,tx,26,13392.307692307691,348200.0
+nissan,coupe,va,1,8100.0,8100.0
+nissan,coupe,wa,2,14600.0,29200.0
+nissan,coupe,wi,2,10700.0,21400.0
+nissan,crew cab,az,13,11492.307692307691,149400.0
+nissan,crew cab,ca,49,13092.857142857143,641550.0
+nissan,crew cab,co,5,22720.0,113600.0
+nissan,crew cab,fl,35,14880.0,520800.0
+nissan,crew cab,ga,24,13600.0,326400.0
+nissan,crew cab,hi,2,8750.0,17500.0
+nissan,crew cab,il,5,19560.0,97800.0
+nissan,crew cab,in,1,6000.0,6000.0
+nissan,crew cab,la,1,9000.0,9000.0
+nissan,crew cab,ma,5,8260.0,41300.0
+nissan,crew cab,md,1,13200.0,13200.0
+nissan,crew cab,mi,4,19825.0,79300.0
+nissan,crew cab,mn,2,15900.0,31800.0
+nissan,crew cab,mo,3,14433.333333333334,43300.0
+nissan,crew cab,ms,2,18600.0,37200.0
+nissan,crew cab,nc,14,11107.142857142857,155500.0
+nissan,crew cab,ne,1,19000.0,19000.0
+nissan,crew cab,nj,8,16643.75,133150.0
+nissan,crew cab,nv,10,13915.0,139150.0
+nissan,crew cab,ny,2,8950.0,17900.0
+nissan,crew cab,oh,5,18280.2,91401.0
+nissan,crew cab,pa,22,17118.18181818182,376600.0
+nissan,crew cab,sc,1,10400.0,10400.0
+nissan,crew cab,tn,13,17257.69230769231,224350.0
+nissan,crew cab,tx,47,16281.936170212766,765251.0
+nissan,crew cab,ut,2,15350.0,30700.0
+nissan,crew cab,va,6,11216.666666666666,67300.0
+nissan,crew cab,wa,6,14350.0,86100.0
+nissan,extended cab,fl,2,2425.0,4850.0
+nissan,hatchback,az,10,8400.0,84000.0
+nissan,hatchback,ca,169,10213.313609467456,1726050.0
+nissan,hatchback,co,11,11409.09090909091,125500.0
+nissan,hatchback,fl,76,9465.78947368421,719400.0
+nissan,hatchback,ga,55,9709.09090909091,534000.0
+nissan,hatchback,hi,5,11500.0,57500.0
+nissan,hatchback,il,48,10029.166666666666,481400.0
+nissan,hatchback,in,1,10200.0,10200.0
+nissan,hatchback,la,1,9000.0,9000.0
+nissan,hatchback,ma,8,5987.5,47900.0
+nissan,hatchback,md,7,6871.428571428572,48100.0
+nissan,hatchback,mi,2,8050.0,16100.0
+nissan,hatchback,mn,4,12350.0,49400.0
+nissan,hatchback,mo,13,8476.923076923076,110200.0
+nissan,hatchback,ms,1,18900.0,18900.0
+nissan,hatchback,nc,13,6861.538461538462,89200.0
+nissan,hatchback,nj,24,7425.0,178200.0
+nissan,hatchback,nv,11,11322.727272727272,124550.0
+nissan,hatchback,ny,4,7625.0,30500.0
+nissan,hatchback,oh,8,6575.0,52600.0
+nissan,hatchback,pa,27,11000.0,297000.0
+nissan,hatchback,pr,5,10020.0,50100.0
+nissan,hatchback,qc,1,3300.0,3300.0
+nissan,hatchback,sc,4,7900.0,31600.0
+nissan,hatchback,tn,48,11681.25,560700.0
+nissan,hatchback,tx,51,9319.607843137255,475300.0
+nissan,hatchback,ut,1,5500.0,5500.0
+nissan,hatchback,va,11,4845.454545454545,53300.0
+nissan,hatchback,wa,68,10669.117647058823,725500.0
+nissan,hatchback,wi,12,6250.0,75000.0
+nissan,king cab,az,1,2700.0,2700.0
+nissan,king cab,ca,29,9800.0,284200.0
+nissan,king cab,co,1,10500.0,10500.0
+nissan,king cab,fl,10,9990.0,99900.0
+nissan,king cab,ga,7,11157.142857142857,78100.0
+nissan,king cab,in,1,3900.0,3900.0
+nissan,king cab,la,1,4200.0,4200.0
+nissan,king cab,md,2,7800.0,15600.0
+nissan,king cab,mi,3,10966.666666666666,32900.0
+nissan,king cab,ms,1,13200.0,13200.0
+nissan,king cab,nc,8,7525.0,60200.0
+nissan,king cab,ne,1,18400.0,18400.0
+nissan,king cab,pa,4,9250.0,37000.0
+nissan,king cab,pr,1,16800.0,16800.0
+nissan,king cab,tn,2,11500.0,23000.0
+nissan,king cab,tx,11,9677.272727272728,106450.0
+nissan,king cab,va,2,9950.0,19900.0
+nissan,minivan,az,2,7350.0,14700.0
+nissan,minivan,ca,24,9337.5,224100.0
+nissan,minivan,co,1,15700.0,15700.0
+nissan,minivan,fl,25,11996.0,299900.0
+nissan,minivan,ga,13,8865.384615384615,115250.0
+nissan,minivan,hi,4,6150.0,24600.0
+nissan,minivan,il,11,17190.909090909092,189100.0
+nissan,minivan,in,1,1900.0,1900.0
+nissan,minivan,la,3,7600.0,22800.0
+nissan,minivan,ma,2,2125.0,4250.0
+nissan,minivan,md,6,4608.333333333333,27650.0
+nissan,minivan,mn,2,8450.0,16900.0
+nissan,minivan,mo,2,8700.0,17400.0
+nissan,minivan,nc,5,3500.0,17500.0
+nissan,minivan,ne,1,16300.0,16300.0
+nissan,minivan,nj,11,9281.818181818182,102100.0
+nissan,minivan,nv,2,12150.0,24300.0
+nissan,minivan,ny,1,4000.0,4000.0
+nissan,minivan,oh,3,5733.333333333333,17200.0
+nissan,minivan,or,1,14100.0,14100.0
+nissan,minivan,pa,9,14988.888888888889,134900.0
+nissan,minivan,pr,1,1000.0,1000.0
+nissan,minivan,tn,8,21950.0,175600.0
+nissan,minivan,tx,13,11957.692307692309,155450.0
+nissan,minivan,va,4,4700.0,18800.0
+nissan,minivan,wa,2,3700.0,7400.0
+nissan,minivan,wi,3,5133.333333333333,15400.0
+nissan,regular cab,az,1,500.0,500.0
+nissan,regular cab,fl,1,2200.0,2200.0
+nissan,regular cab,ga,1,1400.0,1400.0
+nissan,regular cab,ne,1,800.0,800.0
+nissan,regular cab,va,1,2500.0,2500.0
+nissan,sedan,ab,2,5700.0,11400.0
+nissan,sedan,az,83,9618.674698795181,798350.0
+nissan,sedan,ca,868,10581.16935483871,9184455.0
+nissan,sedan,co,84,12322.02380952381,1035050.0
+nissan,sedan,fl,1032,11429.048449612403,11794778.0
+nissan,sedan,ga,380,10119.876315789474,3845553.0
+nissan,sedan,hi,15,11983.333333333334,179750.0
+nissan,sedan,il,485,12511.030927835052,6067850.0
+nissan,sedan,in,26,9826.923076923076,255500.0
+nissan,sedan,la,27,8922.222222222223,240900.0
+nissan,sedan,ma,68,7738.970588235294,526250.0
+nissan,sedan,md,118,6693.220338983051,789800.0
+nissan,sedan,mi,37,10263.621621621622,379754.0
+nissan,sedan,mn,28,11035.857142857143,309004.0
+nissan,sedan,mo,176,12247.164772727272,2155501.0
+nissan,sedan,ms,21,10716.666666666666,225050.0
+nissan,sedan,nc,140,7789.285714285715,1090500.0
+nissan,sedan,ne,31,9856.451612903225,305550.0
+nissan,sedan,nj,515,11853.596116504854,6104602.0
+nissan,sedan,nv,62,10657.258064516129,660750.0
+nissan,sedan,ny,29,6582.758620689655,190900.0
+nissan,sedan,oh,134,10680.60447761194,1431201.0
+nissan,sedan,on,6,4016.6666666666665,24100.0
+nissan,sedan,or,6,11458.333333333334,68750.0
+nissan,sedan,pa,628,12607.48407643312,7917500.0
+nissan,sedan,pr,24,7983.333333333333,191600.0
+nissan,sedan,qc,1,7600.0,7600.0
+nissan,sedan,sc,24,8712.583333333334,209102.0
+nissan,sedan,tn,326,13551.38036809816,4417750.0
+nissan,sedan,tx,504,11593.650793650793,5843200.0
+nissan,sedan,ut,6,3833.3333333333335,23000.0
+nissan,sedan,va,89,5957.303370786517,530200.0
+nissan,sedan,wa,51,10629.411764705883,542100.0
+nissan,sedan,wi,39,9784.666666666666,381602.0
+nissan,suv,ab,1,6300.0,6300.0
+nissan,suv,az,41,11502.439024390244,471600.0
+nissan,suv,ca,219,13620.547945205479,2982900.0
+nissan,suv,co,58,15468.103448275862,897150.0
+nissan,suv,fl,298,12508.728187919463,3727601.0
+nissan,suv,ga,145,12753.793103448275,1849300.0
+nissan,suv,hi,4,12700.0,50800.0
+nissan,suv,il,168,16614.880952380954,2791300.0
+nissan,suv,in,9,10333.333333333334,93000.0
+nissan,suv,la,7,10771.42857142857,75400.0
+nissan,suv,ma,24,8060.416666666667,193450.0
+nissan,suv,md,32,6065.625,194100.0
+nissan,suv,mi,7,16228.714285714286,113601.0
+nissan,suv,mn,13,9946.153846153846,129300.0
+nissan,suv,mo,66,14322.742424242424,945301.0
+nissan,suv,ms,2,9950.0,19900.0
+nissan,suv,nc,51,9561.764705882353,487650.0
+nissan,suv,ne,17,12297.058823529413,209050.0
+nissan,suv,nj,245,14303.469387755102,3504350.0
+nissan,suv,nm,1,11400.0,11400.0
+nissan,suv,nv,36,12652.777777777777,455500.0
+nissan,suv,ny,16,12100.0,193600.0
+nissan,suv,oh,51,13798.058823529413,703701.0
+nissan,suv,on,3,6000.0,18000.0
+nissan,suv,or,2,9100.0,18200.0
+nissan,suv,pa,353,14861.614730878187,5246150.0
+nissan,suv,pr,15,13033.333333333334,195500.0
+nissan,suv,qc,1,3250.0,3250.0
+nissan,suv,sc,18,11561.111111111111,208100.0
+nissan,suv,tn,150,17647.0,2647050.0
+nissan,suv,tx,202,12887.871287128713,2603350.0
+nissan,suv,ut,3,11966.666666666666,35900.0
+nissan,suv,va,45,8520.0,383400.0
+nissan,suv,wa,28,12364.285714285714,346200.0
+nissan,suv,wi,21,10959.52380952381,230150.0
+nissan,van,az,1,11900.0,11900.0
+nissan,van,ca,3,19333.333333333332,58000.0
+nissan,van,fl,2,14050.0,28100.0
+nissan,van,nc,1,12200.0,12200.0
+nissan,van,nj,3,21466.666666666668,64400.0
+nissan,van,oh,2,21700.0,43400.0
+nissan,van,pa,5,20960.0,104800.0
+nissan,van,pr,2,13600.0,27200.0
+nissan,van,tn,2,15850.0,31700.0
+nissan,van,tx,1,20500.0,20500.0
+nissan,wagon,az,2,8350.0,16700.0
+nissan,wagon,ca,9,8305.555555555555,74750.0
+nissan,wagon,co,1,9400.0,9400.0
+nissan,wagon,fl,7,9585.714285714286,67100.0
+nissan,wagon,il,1,12400.0,12400.0
+nissan,wagon,ma,1,3100.0,3100.0
+nissan,wagon,md,2,4550.0,9100.0
+nissan,wagon,mn,2,4950.0,9900.0
+nissan,wagon,mo,1,8600.0,8600.0
+nissan,wagon,nc,6,7183.333333333333,43100.0
+nissan,wagon,ne,1,8500.0,8500.0
+nissan,wagon,nj,2,6950.0,13900.0
+nissan,wagon,pa,3,7066.666666666667,21200.0
+nissan,wagon,tn,2,10250.0,20500.0
+nissan,wagon,tx,1,4100.0,4100.0
+nissan,wagon,ut,1,6700.0,6700.0
+nissan,wagon,va,3,6933.333333333333,20800.0
+nissan,wagon,wa,2,7000.0,14000.0
+oldsmobile,coupe,az,1,900.0,900.0
+oldsmobile,coupe,mo,1,1050.0,1050.0
+oldsmobile,coupe,oh,1,1000.0,1000.0
+oldsmobile,minivan,ca,1,1700.0,1700.0
+oldsmobile,minivan,fl,1,1400.0,1400.0
+oldsmobile,minivan,mn,1,1200.0,1200.0
+oldsmobile,minivan,oh,3,700.0,2100.0
+oldsmobile,sedan,az,2,775.0,1550.0
+oldsmobile,sedan,ca,8,1675.0,13400.0
+oldsmobile,sedan,fl,4,1575.0,6300.0
+oldsmobile,sedan,ga,1,2500.0,2500.0
+oldsmobile,sedan,md,2,650.0,1300.0
+oldsmobile,sedan,mi,3,1433.3333333333333,4300.0
+oldsmobile,sedan,mo,1,550.0,550.0
+oldsmobile,sedan,nc,3,1150.0,3450.0
+oldsmobile,sedan,ne,1,650.0,650.0
+oldsmobile,sedan,nj,3,800.0,2400.0
+oldsmobile,sedan,nv,1,900.0,900.0
+oldsmobile,sedan,oh,2,1000.0,2000.0
+oldsmobile,sedan,or,1,700.0,700.0
+oldsmobile,sedan,pa,1,1200.0,1200.0
+oldsmobile,sedan,tn,1,675.0,675.0
+oldsmobile,sedan,tx,3,1050.0,3150.0
+oldsmobile,suv,fl,1,800.0,800.0
+oldsmobile,suv,ne,1,500.0,500.0
+oldsmobile,suv,oh,2,900.0,1800.0
+oldsmobile,suv,wa,1,600.0,600.0
+plymouth,sedan,ma,1,600.0,600.0
+pontiac,convertible,az,1,1000.0,1000.0
+pontiac,convertible,ca,7,6571.428571428572,46000.0
+pontiac,convertible,fl,8,6875.0,55000.0
+pontiac,convertible,ga,5,6100.0,30500.0
+pontiac,convertible,il,2,6150.0,12300.0
+pontiac,convertible,md,1,8000.0,8000.0
+pontiac,convertible,mi,2,5775.0,11550.0
+pontiac,convertible,mo,4,8000.0,32000.0
+pontiac,convertible,nc,2,6150.0,12300.0
+pontiac,convertible,ne,1,8900.0,8900.0
+pontiac,convertible,nj,3,7466.666666666667,22400.0
+pontiac,convertible,nv,1,9900.0,9900.0
+pontiac,convertible,oh,3,8433.333333333334,25300.0
+pontiac,convertible,pa,3,8933.333333333334,26800.0
+pontiac,convertible,tn,2,8350.0,16700.0
+pontiac,convertible,tx,2,6600.0,13200.0
+pontiac,convertible,va,4,7300.0,29200.0
+pontiac,convertible,wa,1,5000.0,5000.0
+pontiac,convertible,wi,1,5300.0,5300.0
+pontiac,coupe,ab,1,1000.0,1000.0
+pontiac,coupe,az,2,3350.0,6700.0
+pontiac,coupe,ca,10,7315.0,73150.0
+pontiac,coupe,co,3,4100.0,12300.0
+pontiac,coupe,fl,8,4787.5,38300.0
+pontiac,coupe,ga,9,3600.0,32400.0
+pontiac,coupe,il,4,3850.0,15400.0
+pontiac,coupe,in,3,3016.6666666666665,9050.0
+pontiac,coupe,ma,3,4216.666666666667,12650.0
+pontiac,coupe,md,3,3866.6666666666665,11600.0
+pontiac,coupe,mi,1,7000.0,7000.0
+pontiac,coupe,mn,1,5100.0,5100.0
+pontiac,coupe,mo,4,2675.0,10700.0
+pontiac,coupe,nc,5,2610.0,13050.0
+pontiac,coupe,nj,4,4700.0,18800.0
+pontiac,coupe,nv,1,900.0,900.0
+pontiac,coupe,ny,3,1850.0,5550.0
+pontiac,coupe,oh,7,2921.4285714285716,20450.0
+pontiac,coupe,on,1,2100.0,2100.0
+pontiac,coupe,pa,10,4905.0,49050.0
+pontiac,coupe,pr,1,1000.0,1000.0
+pontiac,coupe,sc,3,2166.6666666666665,6500.0
+pontiac,coupe,tn,1,2800.0,2800.0
+pontiac,coupe,tx,3,3733.3333333333335,11200.0
+pontiac,coupe,va,1,2500.0,2500.0
+pontiac,coupe,wi,4,3050.0,12200.0
+pontiac,hatchback,az,1,700.0,700.0
+pontiac,hatchback,ca,2,1950.0,3900.0
+pontiac,hatchback,fl,5,5740.0,28700.0
+pontiac,hatchback,mi,1,6300.0,6300.0
+pontiac,hatchback,mo,3,3600.0,10800.0
+pontiac,hatchback,nc,1,2300.0,2300.0
+pontiac,hatchback,nj,1,7800.0,7800.0
+pontiac,hatchback,nv,1,11300.0,11300.0
+pontiac,hatchback,tx,1,1500.0,1500.0
+pontiac,hatchback,va,1,5200.0,5200.0
+pontiac,hatchback,wi,1,1500.0,1500.0
+pontiac,minivan,ab,1,1400.0,1400.0
+pontiac,minivan,ca,3,1616.6666666666667,4850.0
+pontiac,minivan,in,1,3050.0,3050.0
+pontiac,minivan,mo,1,1250.0,1250.0
+pontiac,minivan,nc,2,3200.0,6400.0
+pontiac,minivan,nv,1,1600.0,1600.0
+pontiac,minivan,ny,2,1000.0,2000.0
+pontiac,minivan,oh,3,1483.3333333333333,4450.0
+pontiac,minivan,on,1,550.0,550.0
+pontiac,minivan,pa,1,3150.0,3150.0
+pontiac,minivan,tn,1,3300.0,3300.0
+pontiac,minivan,va,1,700.0,700.0
+pontiac,minivan,wi,1,3700.0,3700.0
+pontiac,sedan,ab,2,2400.0,4800.0
+pontiac,sedan,az,14,2350.0,32900.0
+pontiac,sedan,ca,36,3306.9444444444443,119050.0
+pontiac,sedan,co,5,2780.0,13900.0
+pontiac,sedan,fl,38,4297.368421052632,163300.0
+pontiac,sedan,ga,38,3621.0526315789475,137600.0
+pontiac,sedan,hi,1,7000.0,7000.0
+pontiac,sedan,il,20,4225.0,84500.0
+pontiac,sedan,in,11,4313.636363636364,47450.0
+pontiac,sedan,la,5,3360.0,16800.0
+pontiac,sedan,ma,10,2435.0,24350.0
+pontiac,sedan,md,14,2946.4285714285716,41250.0
+pontiac,sedan,mi,36,4237.5,152550.0
+pontiac,sedan,mn,14,2653.5714285714284,37150.0
+pontiac,sedan,mo,17,6023.529411764706,102400.0
+pontiac,sedan,ms,1,500.0,500.0
+pontiac,sedan,nc,36,3436.1111111111113,123700.0
+pontiac,sedan,ne,4,3300.0,13200.0
+pontiac,sedan,nj,14,6217.857142857143,87050.0
+pontiac,sedan,nv,12,2970.8333333333335,35650.0
+pontiac,sedan,ny,4,2137.5,8550.0
+pontiac,sedan,oh,41,3071.951219512195,125950.0
+pontiac,sedan,or,2,2300.0,4600.0
+pontiac,sedan,pa,21,3773.809523809524,79250.0
+pontiac,sedan,sc,3,3716.6666666666665,11150.0
+pontiac,sedan,tn,13,4784.615384615385,62200.0
+pontiac,sedan,tx,53,4059.433962264151,215150.0
+pontiac,sedan,ut,2,2900.0,5800.0
+pontiac,sedan,va,19,3826.315789473684,72700.0
+pontiac,sedan,wa,6,4691.666666666667,28150.0
+pontiac,sedan,wi,12,2891.6666666666665,34700.0
+pontiac,suv,ab,1,2900.0,2900.0
+pontiac,suv,ca,5,3460.0,17300.0
+pontiac,suv,ga,1,6700.0,6700.0
+pontiac,suv,il,3,4166.666666666667,12500.0
+pontiac,suv,in,2,3900.0,7800.0
+pontiac,suv,ma,1,3000.0,3000.0
+pontiac,suv,md,1,4800.0,4800.0
+pontiac,suv,mi,5,5090.0,25450.0
+pontiac,suv,mn,1,5300.0,5300.0
+pontiac,suv,mo,3,6400.0,19200.0
+pontiac,suv,nc,3,3800.0,11400.0
+pontiac,suv,ne,1,5100.0,5100.0
+pontiac,suv,nv,2,4750.0,9500.0
+pontiac,suv,ny,1,5500.0,5500.0
+pontiac,suv,oh,5,5280.0,26400.0
+pontiac,suv,on,1,2800.0,2800.0
+pontiac,suv,pa,3,5566.666666666667,16700.0
+pontiac,suv,qc,2,2950.0,5900.0
+pontiac,suv,sc,1,2800.0,2800.0
+pontiac,suv,tn,2,4500.0,9000.0
+pontiac,suv,tx,5,4400.0,22000.0
+pontiac,suv,va,2,5300.0,10600.0
+pontiac,suv,wi,1,2700.0,2700.0
+pontiac,wagon,az,1,1700.0,1700.0
+pontiac,wagon,ca,2,5200.0,10400.0
+pontiac,wagon,fl,6,3016.6666666666665,18100.0
+pontiac,wagon,ga,1,2300.0,2300.0
+pontiac,wagon,in,1,2600.0,2600.0
+pontiac,wagon,la,1,4200.0,4200.0
+pontiac,wagon,mo,1,5100.0,5100.0
+pontiac,wagon,nc,4,3250.0,13000.0
+pontiac,wagon,ne,1,3250.0,3250.0
+pontiac,wagon,nj,3,5033.333333333333,15100.0
+pontiac,wagon,oh,1,1400.0,1400.0
+pontiac,wagon,on,1,2300.0,2300.0
+pontiac,wagon,pa,4,3312.5,13250.0
+pontiac,wagon,tn,1,550.0,550.0
+pontiac,wagon,tx,6,2975.0,17850.0
+pontiac,wagon,va,1,1900.0,1900.0
+pontiac,wagon,wi,3,4333.333333333333,13000.0
+porsche,convertible,ca,12,11954.166666666666,143450.0
+porsche,convertible,fl,7,14442.857142857143,101100.0
+porsche,convertible,ga,3,20700.0,62100.0
+porsche,convertible,ma,1,8200.0,8200.0
+porsche,convertible,mo,1,9000.0,9000.0
+porsche,convertible,nc,1,6700.0,6700.0
+porsche,convertible,ne,1,6600.0,6600.0
+porsche,convertible,nv,2,17625.0,35250.0
+porsche,convertible,ny,1,5700.0,5700.0
+porsche,convertible,oh,1,16900.0,16900.0
+porsche,convertible,pa,4,15975.0,63900.0
+porsche,convertible,sc,1,4500.0,4500.0
+porsche,convertible,tn,1,10100.0,10100.0
+porsche,convertible,tx,2,7600.0,15200.0
+porsche,convertible,va,1,6200.0,6200.0
+porsche,convertible,wa,1,26400.0,26400.0
+porsche,coupe,az,1,26600.0,26600.0
+porsche,coupe,ca,6,26950.0,161700.0
+porsche,coupe,fl,1,20200.0,20200.0
+porsche,coupe,ga,1,18000.0,18000.0
+porsche,coupe,in,1,17000.0,17000.0
+porsche,coupe,nv,1,18500.0,18500.0
+porsche,coupe,pa,2,23000.0,46000.0
+porsche,coupe,tx,4,18750.0,75000.0
+porsche,coupe,wa,1,27200.0,27200.0
+porsche,suv,ca,11,13881.818181818182,152700.0
+porsche,suv,co,1,19500.0,19500.0
+porsche,suv,fl,4,9400.0,37600.0
+porsche,suv,ga,4,16250.0,65000.0
+porsche,suv,il,3,11600.0,34800.0
+porsche,suv,ma,1,11800.0,11800.0
+porsche,suv,mn,2,10450.0,20900.0
+porsche,suv,mo,1,9700.0,9700.0
+porsche,suv,nc,1,24800.0,24800.0
+porsche,suv,nj,1,9000.0,9000.0
+porsche,suv,nv,1,30250.0,30250.0
+porsche,suv,oh,1,5000.0,5000.0
+porsche,suv,pa,8,17325.0,138600.0
+porsche,suv,pr,1,9000.0,9000.0
+porsche,suv,tn,1,23400.0,23400.0
+porsche,suv,tx,3,19866.666666666668,59600.0
+porsche,suv,va,2,11150.0,22300.0
+porsche,suv,wa,1,21100.0,21100.0
+porsche,suv,wi,2,15550.0,31100.0
+ram,crew cab,ab,7,27607.14285714286,193250.0
+ram,crew cab,az,2,23250.0,46500.0
+ram,crew cab,ca,10,20905.0,209050.0
+ram,crew cab,co,15,27646.666666666668,414700.0
+ram,crew cab,fl,16,29656.25,474500.0
+ram,crew cab,ga,18,23033.333333333332,414600.0
+ram,crew cab,il,6,27783.333333333332,166700.0
+ram,crew cab,in,7,24457.14285714286,171200.0
+ram,crew cab,la,4,20825.0,83300.0
+ram,crew cab,ma,1,27000.0,27000.0
+ram,crew cab,md,1,29000.0,29000.0
+ram,crew cab,mi,42,26214.285714285714,1101000.0
+ram,crew cab,mn,11,26659.090909090908,293250.0
+ram,crew cab,mo,16,29250.0,468000.0
+ram,crew cab,ms,5,24200.0,121000.0
+ram,crew cab,nc,11,24000.0,264000.0
+ram,crew cab,ne,5,18900.0,94500.0
+ram,crew cab,nj,5,27590.0,137950.0
+ram,crew cab,nv,4,31687.5,126750.0
+ram,crew cab,ny,2,16000.0,32000.0
+ram,crew cab,oh,26,27428.846153846152,713150.0
+ram,crew cab,on,3,32833.333333333336,98500.0
+ram,crew cab,pa,41,28123.170731707316,1153050.0
+ram,crew cab,tn,19,25915.78947368421,492400.0
+ram,crew cab,tx,88,24624.43181818182,2166950.0
+ram,crew cab,va,4,31325.0,125300.0
+ram,crew cab,wa,7,24964.285714285714,174750.0
+ram,crew cab,wi,2,20850.0,41700.0
+ram,extended cab,ca,1,13000.0,13000.0
+ram,extended cab,nc,1,10900.0,10900.0
+ram,extended cab,tn,1,11400.0,11400.0
+ram,mega cab,ms,1,34800.0,34800.0
+ram,minivan,az,1,8400.0,8400.0
+ram,minivan,ca,3,9750.0,29250.0
+ram,minivan,fl,5,10260.0,51300.0
+ram,minivan,mo,1,7600.0,7600.0
+ram,minivan,nc,2,6950.0,13900.0
+ram,minivan,oh,1,7700.0,7700.0
+ram,minivan,on,1,11800.0,11800.0
+ram,minivan,pa,2,9750.0,19500.0
+ram,minivan,tx,1,3300.0,3300.0
+ram,promaster cargo van,fl,3,23800.0,71400.0
+ram,promaster cargo van,ga,4,22875.0,91500.0
+ram,promaster cargo van,mn,1,24600.0,24600.0
+ram,promaster cargo van,mo,1,24100.0,24100.0
+ram,promaster cargo van,nj,1,20500.0,20500.0
+ram,promaster cargo van,pa,2,22600.0,45200.0
+ram,promaster cargo van,tn,1,23500.0,23500.0
+ram,promaster cargo van,tx,1,20100.0,20100.0
+ram,promaster cargo van,va,1,21400.0,21400.0
+ram,quad cab,ab,1,19000.0,19000.0
+ram,quad cab,az,4,18987.5,75950.0
+ram,quad cab,ca,16,22050.0,352800.0
+ram,quad cab,co,3,22666.666666666668,68000.0
+ram,quad cab,fl,21,20923.809523809523,439400.0
+ram,quad cab,ga,19,20021.052631578947,380400.0
+ram,quad cab,il,5,24680.0,123400.0
+ram,quad cab,in,8,18125.0,145000.0
+ram,quad cab,la,2,22800.0,45600.0
+ram,quad cab,ma,3,21533.333333333332,64600.0
+ram,quad cab,md,4,25637.5,102550.0
+ram,quad cab,mi,21,21619.04761904762,454000.0
+ram,quad cab,mn,16,23856.25,381700.0
+ram,quad cab,mo,15,21516.666666666668,322750.0
+ram,quad cab,ms,1,21400.0,21400.0
+ram,quad cab,nc,7,19800.0,138600.0
+ram,quad cab,ne,7,21657.14285714286,151600.0
+ram,quad cab,nj,5,25820.0,129100.0
+ram,quad cab,nv,4,22262.5,89050.0
+ram,quad cab,ny,3,24233.333333333332,72700.0
+ram,quad cab,oh,12,22208.333333333332,266500.0
+ram,quad cab,on,1,25000.0,25000.0
+ram,quad cab,or,2,16200.0,32400.0
+ram,quad cab,pa,25,23436.0,585900.0
+ram,quad cab,qc,2,21100.0,42200.0
+ram,quad cab,sc,3,22533.333333333332,67600.0
+ram,quad cab,tn,15,21446.666666666668,321700.0
+ram,quad cab,tx,44,20315.909090909092,893900.0
+ram,quad cab,ut,2,19750.0,39500.0
+ram,quad cab,va,7,27000.0,189000.0
+ram,quad cab,wa,2,28400.0,56800.0
+ram,regular cab,az,1,16600.0,16600.0
+ram,regular cab,ca,5,14490.0,72450.0
+ram,regular cab,co,1,18000.0,18000.0
+ram,regular cab,fl,6,17216.666666666668,103300.0
+ram,regular cab,ga,8,14662.5,117300.0
+ram,regular cab,il,3,15166.666666666666,45500.0
+ram,regular cab,in,3,13266.666666666666,39800.0
+ram,regular cab,md,2,19550.0,39100.0
+ram,regular cab,mi,2,12150.0,24300.0
+ram,regular cab,mn,1,16500.0,16500.0
+ram,regular cab,mo,3,15133.333333333334,45400.0
+ram,regular cab,ms,1,14000.0,14000.0
+ram,regular cab,nc,3,18300.0,54900.0
+ram,regular cab,ne,1,25000.0,25000.0
+ram,regular cab,nv,1,14900.0,14900.0
+ram,regular cab,oh,1,24300.0,24300.0
+ram,regular cab,pa,2,17550.0,35100.0
+ram,regular cab,sc,1,16200.0,16200.0
+ram,regular cab,tn,4,15750.0,63000.0
+ram,regular cab,tx,12,17787.5,213450.0
+ram,regular cab,va,1,9400.0,9400.0
+saab,convertible,ca,6,4891.666666666667,29350.0
+saab,convertible,fl,5,2840.0,14200.0
+saab,convertible,ma,1,4800.0,4800.0
+saab,convertible,nj,1,3800.0,3800.0
+saab,convertible,nv,1,500.0,500.0
+saab,convertible,tx,1,8700.0,8700.0
+saab,hatchback,ca,2,1025.0,2050.0
+saab,sedan,az,1,8300.0,8300.0
+saab,sedan,ca,5,2520.0,12600.0
+saab,sedan,fl,5,2620.0,13100.0
+saab,sedan,ga,8,3700.0,29600.0
+saab,sedan,hi,1,11000.0,11000.0
+saab,sedan,il,1,6300.0,6300.0
+saab,sedan,ma,2,1100.0,2200.0
+saab,sedan,md,1,3000.0,3000.0
+saab,sedan,mi,1,3100.0,3100.0
+saab,sedan,mn,1,1800.0,1800.0
+saab,sedan,nc,3,1616.6666666666667,4850.0
+saab,sedan,nj,1,650.0,650.0
+saab,sedan,oh,1,4800.0,4800.0
+saab,sedan,pa,3,1700.0,5100.0
+saab,sedan,pr,1,11500.0,11500.0
+saab,sedan,sc,2,5150.0,10300.0
+saab,sedan,tn,1,3700.0,3700.0
+saab,sedan,tx,5,2860.0,14300.0
+saab,sedan,va,1,7000.0,7000.0
+saab,sedan,wi,2,1025.0,2050.0
+saab,suv,ga,1,2800.0,2800.0
+saab,suv,il,1,6400.0,6400.0
+saab,suv,ma,1,1800.0,1800.0
+saab,suv,md,2,3350.0,6700.0
+saab,suv,nc,1,4700.0,4700.0
+saab,suv,ne,1,7400.0,7400.0
+saab,suv,pa,2,7050.0,14100.0
+saab,suv,tx,1,3600.0,3600.0
+saab,suv,va,1,6400.0,6400.0
+saab,wagon,ca,1,5500.0,5500.0
+saab,wagon,fl,1,3500.0,3500.0
+saab,wagon,md,1,3200.0,3200.0
+saab,wagon,nc,1,5700.0,5700.0
+saab,wagon,pa,4,5175.0,20700.0
+saab,wagon,wi,1,2000.0,2000.0
+saturn,convertible,ca,2,7200.0,14400.0
+saturn,convertible,nv,2,7750.0,15500.0
+saturn,convertible,pa,1,15000.0,15000.0
+saturn,convertible,tn,1,5900.0,5900.0
+saturn,convertible,tx,1,5500.0,5500.0
+saturn,coupe,ca,6,1600.0,9600.0
+saturn,coupe,fl,5,1860.0,9300.0
+saturn,coupe,mo,2,1350.0,2700.0
+saturn,coupe,nc,4,1575.0,6300.0
+saturn,coupe,nj,3,2516.6666666666665,7550.0
+saturn,coupe,oh,3,2966.6666666666665,8900.0
+saturn,coupe,pa,2,1650.0,3300.0
+saturn,coupe,sc,1,2300.0,2300.0
+saturn,coupe,tx,1,2100.0,2100.0
+saturn,coupe,va,1,700.0,700.0
+saturn,coupe,wa,1,800.0,800.0
+saturn,hatchback,ca,1,5500.0,5500.0
+saturn,hatchback,fl,1,5200.0,5200.0
+saturn,hatchback,nc,2,3950.0,7900.0
+saturn,hatchback,ne,1,3900.0,3900.0
+saturn,hatchback,ny,1,3500.0,3500.0
+saturn,hatchback,pa,1,6900.0,6900.0
+saturn,hatchback,va,1,2200.0,2200.0
+saturn,hatchback,wi,1,4650.0,4650.0
+saturn,minivan,ca,2,3450.0,6900.0
+saturn,minivan,fl,1,1100.0,1100.0
+saturn,minivan,il,2,1800.0,3600.0
+saturn,minivan,nc,1,1700.0,1700.0
+saturn,minivan,nj,1,1000.0,1000.0
+saturn,minivan,tn,1,1600.0,1600.0
+saturn,sedan,az,6,3587.5,21525.0
+saturn,sedan,ca,14,2553.5714285714284,35750.0
+saturn,sedan,co,1,1000.0,1000.0
+saturn,sedan,fl,31,2670.967741935484,82800.0
+saturn,sedan,ga,22,4040.909090909091,88900.0
+saturn,sedan,il,7,3600.0,25200.0
+saturn,sedan,in,3,4483.333333333333,13450.0
+saturn,sedan,ma,4,2775.0,11100.0
+saturn,sedan,md,11,1954.5454545454545,21500.0
+saturn,sedan,mi,8,4375.0,35000.0
+saturn,sedan,mn,2,4000.0,8000.0
+saturn,sedan,mo,7,2985.714285714286,20900.0
+saturn,sedan,nc,23,2193.478260869565,50450.0
+saturn,sedan,nj,10,2400.0,24000.0
+saturn,sedan,nv,8,2725.0,21800.0
+saturn,sedan,ny,4,2087.5,8350.0
+saturn,sedan,oh,9,2705.5555555555557,24350.0
+saturn,sedan,pa,11,3113.6363636363635,34250.0
+saturn,sedan,sc,2,2500.0,5000.0
+saturn,sedan,tn,6,2183.3333333333335,13100.0
+saturn,sedan,tx,13,3192.3076923076924,41500.0
+saturn,sedan,va,8,2818.75,22550.0
+saturn,sedan,wa,2,825.0,1650.0
+saturn,sedan,wi,8,2306.25,18450.0
+saturn,suv,az,1,800.0,800.0
+saturn,suv,ca,27,4338.888888888889,117150.0
+saturn,suv,co,2,4650.0,9300.0
+saturn,suv,fl,26,3230.769230769231,84000.0
+saturn,suv,ga,13,4388.461538461538,57050.0
+saturn,suv,il,3,4650.0,13950.0
+saturn,suv,in,1,10100.0,10100.0
+saturn,suv,la,2,2400.0,4800.0
+saturn,suv,ma,6,3333.3333333333335,20000.0
+saturn,suv,md,9,3122.222222222222,28100.0
+saturn,suv,mi,7,5064.285714285715,35450.0
+saturn,suv,mn,2,6200.0,12400.0
+saturn,suv,mo,8,5862.5,46900.0
+saturn,suv,nc,21,3626.190476190476,76150.0
+saturn,suv,nj,9,2944.4444444444443,26500.0
+saturn,suv,nv,1,15050.0,15050.0
+saturn,suv,ny,3,2700.0,8100.0
+saturn,suv,oh,11,5218.181818181818,57400.0
+saturn,suv,on,1,1700.0,1700.0
+saturn,suv,pa,13,5438.461538461538,70700.0
+saturn,suv,sc,6,4983.333333333333,29900.0
+saturn,suv,tn,2,3700.0,7400.0
+saturn,suv,tx,20,4630.0,92600.0
+saturn,suv,ut,2,4350.0,8700.0
+saturn,suv,va,10,3640.0,36400.0
+saturn,suv,wa,4,6600.0,26400.0
+saturn,suv,wi,2,4650.0,9300.0
+saturn,wagon,ca,1,1100.0,1100.0
+saturn,wagon,md,1,600.0,600.0
+saturn,wagon,oh,1,2050.0,2050.0
+scion,coupe,az,2,18100.0,36200.0
+scion,coupe,ca,4,16662.5,66650.0
+scion,coupe,fl,10,18475.0,184750.0
+scion,coupe,ga,2,15350.0,30700.0
+scion,coupe,mn,1,18800.0,18800.0
+scion,coupe,mo,1,15800.0,15800.0
+scion,coupe,nc,2,16700.0,33400.0
+scion,coupe,nj,2,19100.0,38200.0
+scion,coupe,oh,1,18600.0,18600.0
+scion,coupe,pa,5,18990.0,94950.0
+scion,coupe,tx,1,16500.0,16500.0
+scion,coupe,wa,2,16900.0,33800.0
+scion,coupe,wi,2,17300.0,34600.0
+scion,hatchback,az,7,9271.42857142857,64900.0
+scion,hatchback,ca,34,8847.058823529413,300800.0
+scion,hatchback,co,2,14250.0,28500.0
+scion,hatchback,fl,42,10313.095238095239,433150.0
+scion,hatchback,ga,13,8961.538461538461,116500.0
+scion,hatchback,il,2,5500.0,11000.0
+scion,hatchback,la,1,13300.0,13300.0
+scion,hatchback,ma,3,4966.666666666667,14900.0
+scion,hatchback,md,2,7400.0,14800.0
+scion,hatchback,mi,1,7000.0,7000.0
+scion,hatchback,mn,6,7750.0,46500.0
+scion,hatchback,mo,5,9930.0,49650.0
+scion,hatchback,nc,7,8142.857142857143,57000.0
+scion,hatchback,nj,10,9515.0,95150.0
+scion,hatchback,nv,4,8700.0,34800.0
+scion,hatchback,ny,1,7900.0,7900.0
+scion,hatchback,oh,13,9892.307692307691,128600.0
+scion,hatchback,pa,13,10200.0,132600.0
+scion,hatchback,pr,3,9933.333333333334,29800.0
+scion,hatchback,tn,2,8375.0,16750.0
+scion,hatchback,tx,9,7933.333333333333,71400.0
+scion,hatchback,va,6,5633.333333333333,33800.0
+scion,hatchback,wa,3,5966.666666666667,17900.0
+scion,hatchback,wi,2,8850.0,17700.0
+scion,wagon,az,6,8850.0,53100.0
+scion,wagon,ca,21,7871.428571428572,165300.0
+scion,wagon,fl,17,7720.588235294118,131250.0
+scion,wagon,ga,6,10233.333333333334,61400.0
+scion,wagon,hi,2,11050.0,22100.0
+scion,wagon,il,1,4400.0,4400.0
+scion,wagon,ma,1,1200.0,1200.0
+scion,wagon,md,1,2600.0,2600.0
+scion,wagon,mn,2,5000.0,10000.0
+scion,wagon,mo,4,7375.0,29500.0
+scion,wagon,nc,4,6000.0,24000.0
+scion,wagon,nj,3,8133.333333333333,24400.0
+scion,wagon,nv,3,7166.666666666667,21500.0
+scion,wagon,ny,1,2600.0,2600.0
+scion,wagon,oh,2,14750.0,29500.0
+scion,wagon,pa,6,8750.0,52500.0
+scion,wagon,pr,1,10600.0,10600.0
+scion,wagon,tn,1,5600.0,5600.0
+scion,wagon,tx,4,4650.0,18600.0
+scion,wagon,ut,1,2200.0,2200.0
+scion,wagon,va,2,1150.0,2300.0
+scion,wagon,wi,1,4800.0,4800.0
+smart,convertible,az,2,4250.0,8500.0
+smart,convertible,ca,1,7500.0,7500.0
+smart,convertible,co,1,1600.0,1600.0
+smart,convertible,fl,1,7000.0,7000.0
+smart,convertible,hi,1,9000.0,9000.0
+smart,convertible,nc,1,3700.0,3700.0
+smart,convertible,nv,1,9500.0,9500.0
+smart,convertible,oh,1,9250.0,9250.0
+smart,convertible,tx,2,5625.0,11250.0
+smart,hatchback,ab,1,2800.0,2800.0
+smart,hatchback,az,1,7300.0,7300.0
+smart,hatchback,ca,20,6415.0,128300.0
+smart,hatchback,fl,14,6321.428571428572,88500.0
+smart,hatchback,ga,2,6750.0,13500.0
+smart,hatchback,hi,1,8500.0,8500.0
+smart,hatchback,ma,1,3600.0,3600.0
+smart,hatchback,mo,1,6300.0,6300.0
+smart,hatchback,nc,1,6000.0,6000.0
+smart,hatchback,nj,2,7450.0,14900.0
+smart,hatchback,nv,7,7392.857142857143,51750.0
+smart,hatchback,on,1,4000.0,4000.0
+smart,hatchback,pa,6,6525.0,39150.0
+smart,hatchback,pr,1,9300.0,9300.0
+smart,hatchback,sc,1,5800.0,5800.0
+smart,hatchback,tn,1,7400.0,7400.0
+smart,hatchback,tx,6,6375.0,38250.0
+smart,hatchback,wi,3,6083.333333333333,18250.0
+subaru,coupe,ca,1,19500.0,19500.0
+subaru,coupe,co,1,19000.0,19000.0
+subaru,coupe,fl,1,19800.0,19800.0
+subaru,coupe,nj,1,18200.0,18200.0
+subaru,coupe,wi,1,19100.0,19100.0
+subaru,crew cab,ca,3,9000.0,27000.0
+subaru,crew cab,md,1,4900.0,4900.0
+subaru,crew cab,mo,1,5000.0,5000.0
+subaru,crew cab,nj,1,7500.0,7500.0
+subaru,crew cab,pa,1,12700.0,12700.0
+subaru,crew cab,tx,1,7100.0,7100.0
+subaru,hatchback,ca,15,17166.666666666668,257500.0
+subaru,hatchback,co,2,12150.0,24300.0
+subaru,hatchback,fl,3,16333.333333333334,49000.0
+subaru,hatchback,ga,1,11100.0,11100.0
+subaru,hatchback,il,1,21100.0,21100.0
+subaru,hatchback,md,1,10700.0,10700.0
+subaru,hatchback,mi,3,13766.666666666666,41300.0
+subaru,hatchback,ne,1,25300.0,25300.0
+subaru,hatchback,nj,11,17163.636363636364,188800.0
+subaru,hatchback,nv,1,17000.0,17000.0
+subaru,hatchback,ny,2,6250.0,12500.0
+subaru,hatchback,oh,2,12250.0,24500.0
+subaru,hatchback,pa,20,14722.5,294450.0
+subaru,hatchback,pr,1,4000.0,4000.0
+subaru,hatchback,sc,1,5400.0,5400.0
+subaru,hatchback,tn,2,14950.0,29900.0
+subaru,hatchback,tx,2,23075.0,46150.0
+subaru,hatchback,ut,1,7500.0,7500.0
+subaru,hatchback,va,1,6600.0,6600.0
+subaru,hatchback,wa,8,14237.5,113900.0
+subaru,hatchback,wi,1,17300.0,17300.0
+subaru,sedan,az,2,21525.0,43050.0
+subaru,sedan,ca,66,17071.21212121212,1126700.0
+subaru,sedan,co,15,14340.0,215100.0
+subaru,sedan,fl,41,17951.219512195123,736000.0
+subaru,sedan,ga,5,7020.0,35100.0
+subaru,sedan,hi,1,9250.0,9250.0
+subaru,sedan,il,8,21737.5,173900.0
+subaru,sedan,ma,4,9525.0,38100.0
+subaru,sedan,md,6,7533.333333333333,45200.0
+subaru,sedan,mi,4,15500.0,62000.0
+subaru,sedan,mn,8,12212.5,97700.0
+subaru,sedan,mo,1,11300.0,11300.0
+subaru,sedan,ms,1,22300.0,22300.0
+subaru,sedan,nc,9,10811.111111111111,97300.0
+subaru,sedan,ne,3,7566.666666666667,22700.0
+subaru,sedan,nj,42,16258.333333333334,682850.0
+subaru,sedan,nv,5,15090.0,75450.0
+subaru,sedan,ny,5,7550.0,37750.0
+subaru,sedan,oh,8,13606.25,108850.0
+subaru,sedan,pa,42,13469.047619047618,565700.0
+subaru,sedan,tn,8,12425.0,99400.0
+subaru,sedan,tx,12,16791.666666666668,201500.0
+subaru,sedan,ut,2,3350.0,6700.0
+subaru,sedan,va,7,5842.857142857143,40900.0
+subaru,sedan,wa,12,12391.666666666666,148700.0
+subaru,sedan,wi,12,11225.0,134700.0
+subaru,suv,az,4,13525.0,54100.0
+subaru,suv,ca,33,20653.030303030304,681550.0
+subaru,suv,co,12,19600.0,235200.0
+subaru,suv,fl,25,15528.0,388200.0
+subaru,suv,ga,1,24600.0,24600.0
+subaru,suv,hi,1,7000.0,7000.0
+subaru,suv,il,13,21900.0,284700.0
+subaru,suv,ma,4,8750.0,35000.0
+subaru,suv,md,4,6125.0,24500.0
+subaru,suv,mi,5,14640.0,73200.0
+subaru,suv,mn,3,13333.333333333334,40000.0
+subaru,suv,mo,1,6900.0,6900.0
+subaru,suv,nc,4,17800.0,71200.0
+subaru,suv,nj,37,20001.35135135135,740050.0
+subaru,suv,nv,3,17816.666666666668,53450.0
+subaru,suv,ny,5,10090.0,50450.0
+subaru,suv,oh,1,14500.0,14500.0
+subaru,suv,or,1,21000.0,21000.0
+subaru,suv,pa,33,17293.939393939392,570700.0
+subaru,suv,tn,6,17975.0,107850.0
+subaru,suv,tx,4,18400.0,73600.0
+subaru,suv,ut,2,8750.0,17500.0
+subaru,suv,va,5,9200.0,46000.0
+subaru,suv,wa,12,18858.333333333332,226300.0
+subaru,suv,wi,3,12466.666666666666,37400.0
+subaru,wagon,az,3,9633.333333333334,28900.0
+subaru,wagon,ca,55,17375.454545454544,955650.0
+subaru,wagon,co,6,12466.666666666666,74800.0
+subaru,wagon,fl,31,19780.645161290322,613200.0
+subaru,wagon,ga,6,8683.333333333334,52100.0
+subaru,wagon,il,23,23291.304347826088,535700.0
+subaru,wagon,in,2,3350.0,6700.0
+subaru,wagon,ma,10,2930.0,29300.0
+subaru,wagon,md,7,5250.0,36750.0
+subaru,wagon,mi,2,18300.0,36600.0
+subaru,wagon,mn,2,15850.0,31700.0
+subaru,wagon,mo,3,10566.666666666666,31700.0
+subaru,wagon,nc,9,8372.222222222223,75350.0
+subaru,wagon,ne,1,12000.0,12000.0
+subaru,wagon,nj,34,17326.470588235294,589100.0
+subaru,wagon,nv,2,5550.0,11100.0
+subaru,wagon,ny,7,4792.857142857143,33550.0
+subaru,wagon,oh,7,9614.285714285714,67300.0
+subaru,wagon,or,1,5600.0,5600.0
+subaru,wagon,pa,34,12127.941176470587,412350.0
+subaru,wagon,sc,2,9100.0,18200.0
+subaru,wagon,tn,6,17400.0,104400.0
+subaru,wagon,tx,6,20650.0,123900.0
+subaru,wagon,va,14,7082.142857142857,99150.0
+subaru,wagon,wa,15,14266.666666666666,214000.0
+subaru,wagon,wi,4,14187.5,56750.0
+suzuki,hatchback,az,1,3300.0,3300.0
+suzuki,hatchback,fl,5,3480.0,17400.0
+suzuki,hatchback,ga,1,2900.0,2900.0
+suzuki,hatchback,la,1,7200.0,7200.0
+suzuki,hatchback,ma,1,4900.0,4900.0
+suzuki,hatchback,nc,3,3333.3333333333335,10000.0
+suzuki,hatchback,nj,2,2900.0,5800.0
+suzuki,hatchback,oh,2,4900.0,9800.0
+suzuki,hatchback,tn,2,2050.0,4100.0
+suzuki,hatchback,tx,1,1500.0,1500.0
+suzuki,hatchback,wi,1,6000.0,6000.0
+suzuki,sedan,ca,11,2922.7272727272725,32150.0
+suzuki,sedan,fl,15,2826.6666666666665,42400.0
+suzuki,sedan,ga,8,3006.25,24050.0
+suzuki,sedan,il,1,2600.0,2600.0
+suzuki,sedan,in,2,3500.0,7000.0
+suzuki,sedan,la,1,5800.0,5800.0
+suzuki,sedan,md,2,5550.0,11100.0
+suzuki,sedan,mi,1,3000.0,3000.0
+suzuki,sedan,mo,2,4850.0,9700.0
+suzuki,sedan,nc,12,3479.1666666666665,41750.0
+suzuki,sedan,nj,2,4200.0,8400.0
+suzuki,sedan,nv,1,1600.0,1600.0
+suzuki,sedan,oh,1,650.0,650.0
+suzuki,sedan,or,1,3000.0,3000.0
+suzuki,sedan,pa,4,4062.5,16250.0
+suzuki,sedan,pr,15,5226.666666666667,78400.0
+suzuki,sedan,tn,1,8600.0,8600.0
+suzuki,sedan,tx,10,3065.0,30650.0
+suzuki,suv,az,2,4500.0,9000.0
+suzuki,suv,ca,4,5025.0,20100.0
+suzuki,suv,fl,15,4973.333333333333,74600.0
+suzuki,suv,ga,4,3625.0,14500.0
+suzuki,suv,in,1,2200.0,2200.0
+suzuki,suv,md,3,3633.3333333333335,10900.0
+suzuki,suv,mn,2,4650.0,9300.0
+suzuki,suv,mo,4,2975.0,11900.0
+suzuki,suv,nc,6,5116.666666666667,30700.0
+suzuki,suv,nj,4,3800.0,15200.0
+suzuki,suv,nm,1,500.0,500.0
+suzuki,suv,nv,1,1450.0,1450.0
+suzuki,suv,ny,1,4200.0,4200.0
+suzuki,suv,oh,6,3783.3333333333335,22700.0
+suzuki,suv,pa,6,4891.666666666667,29350.0
+suzuki,suv,pr,7,5542.857142857143,38800.0
+suzuki,suv,sc,2,3350.0,6700.0
+suzuki,suv,tn,1,3300.0,3300.0
+suzuki,suv,tx,8,4181.25,33450.0
+suzuki,suv,va,5,4820.0,24100.0
+suzuki,suv,wa,2,2500.0,5000.0
+suzuki,suv,wi,1,2500.0,2500.0
+suzuki,wagon,ca,1,1500.0,1500.0
+suzuki,wagon,fl,2,1700.0,3400.0
+suzuki,wagon,il,1,1050.0,1050.0
+suzuki,wagon,oh,1,1200.0,1200.0
+toyota,access cab,az,1,14000.0,14000.0
+toyota,access cab,ca,4,8600.0,34400.0
+toyota,access cab,fl,12,11983.333333333334,143800.0
+toyota,access cab,ga,6,16233.333333333334,97400.0
+toyota,access cab,ma,4,4937.5,19750.0
+toyota,access cab,mi,1,10700.0,10700.0
+toyota,access cab,mo,2,14600.0,29200.0
+toyota,access cab,nc,3,10366.666666666666,31100.0
+toyota,access cab,nj,3,9866.666666666666,29600.0
+toyota,access cab,nv,1,24800.0,24800.0
+toyota,access cab,oh,3,11166.666666666666,33500.0
+toyota,access cab,or,1,15700.0,15700.0
+toyota,access cab,pa,3,19916.666666666668,59750.0
+toyota,access cab,sc,1,20900.0,20900.0
+toyota,access cab,tn,2,20700.0,41400.0
+toyota,access cab,tx,3,7900.0,23700.0
+toyota,access cab,va,2,13900.0,27800.0
+toyota,access cab,wa,2,21000.0,42000.0
+toyota,access cab,wi,2,13250.0,26500.0
+toyota,convertible,ca,5,3840.0,19200.0
+toyota,convertible,fl,6,6283.333333333333,37700.0
+toyota,convertible,ga,4,8950.0,35800.0
+toyota,convertible,il,1,7700.0,7700.0
+toyota,convertible,md,4,3125.0,12500.0
+toyota,convertible,nj,2,3750.0,7500.0
+toyota,convertible,oh,1,6200.0,6200.0
+toyota,convertible,pa,2,6450.0,12900.0
+toyota,convertible,sc,1,1000.0,1000.0
+toyota,convertible,tx,1,7000.0,7000.0
+toyota,convertible,va,1,3700.0,3700.0
+toyota,coupe,ca,10,4490.0,44900.0
+toyota,coupe,fl,13,2626.923076923077,34150.0
+toyota,coupe,ga,3,2650.0,7950.0
+toyota,coupe,ma,3,1466.6666666666667,4400.0
+toyota,coupe,md,8,3231.25,25850.0
+toyota,coupe,mi,2,4175.0,8350.0
+toyota,coupe,mo,2,1275.0,2550.0
+toyota,coupe,nc,5,3640.0,18200.0
+toyota,coupe,nv,1,4900.0,4900.0
+toyota,coupe,oh,2,4600.0,9200.0
+toyota,coupe,pa,3,8566.666666666666,25700.0
+toyota,coupe,pr,2,2250.0,4500.0
+toyota,coupe,tx,1,3600.0,3600.0
+toyota,coupe,va,3,2450.0,7350.0
+toyota,crewmax cab,az,4,29137.5,116550.0
+toyota,crewmax cab,ca,12,24000.0,288000.0
+toyota,crewmax cab,co,3,26833.333333333332,80500.0
+toyota,crewmax cab,fl,3,26333.333333333332,79000.0
+toyota,crewmax cab,ga,5,22020.0,110100.0
+toyota,crewmax cab,il,1,26200.0,26200.0
+toyota,crewmax cab,mi,4,24725.0,98900.0
+toyota,crewmax cab,mo,7,24914.285714285714,174400.0
+toyota,crewmax cab,nc,1,21800.0,21800.0
+toyota,crewmax cab,nj,2,20350.0,40700.0
+toyota,crewmax cab,nv,4,31050.0,124200.0
+toyota,crewmax cab,oh,3,26366.666666666668,79100.0
+toyota,crewmax cab,pa,5,28740.0,143700.0
+toyota,crewmax cab,tn,4,25112.5,100450.0
+toyota,crewmax cab,tx,11,23818.18181818182,262000.0
+toyota,crewmax cab,ut,1,20100.0,20100.0
+toyota,crewmax cab,va,2,25450.0,50900.0
+toyota,double cab,az,5,21520.0,107600.0
+toyota,double cab,ca,33,22739.39393939394,750400.0
+toyota,double cab,co,3,24266.666666666668,72800.0
+toyota,double cab,fl,50,22240.0,1112000.0
+toyota,double cab,ga,27,22233.333333333332,600300.0
+toyota,double cab,in,1,24800.0,24800.0
+toyota,double cab,ma,2,8500.0,17000.0
+toyota,double cab,md,1,23400.0,23400.0
+toyota,double cab,mi,12,24275.0,291300.0
+toyota,double cab,mn,4,20775.0,83100.0
+toyota,double cab,mo,6,25383.333333333332,152300.0
+toyota,double cab,ms,1,26600.0,26600.0
+toyota,double cab,nc,3,23133.333333333332,69400.0
+toyota,double cab,nj,4,23200.0,92800.0
+toyota,double cab,nv,8,27000.0,216000.0
+toyota,double cab,ny,1,11300.0,11300.0
+toyota,double cab,oh,6,26050.0,156300.0
+toyota,double cab,pa,26,26740.384615384617,695250.0
+toyota,double cab,pr,4,24575.0,98300.0
+toyota,double cab,sc,1,24000.0,24000.0
+toyota,double cab,tn,11,23695.454545454544,260650.0
+toyota,double cab,tx,25,21290.0,532250.0
+toyota,double cab,va,4,23950.0,95800.0
+toyota,double cab,wa,2,23400.0,46800.0
+toyota,double cab,wi,1,21500.0,21500.0
+toyota,extended cab,ca,1,4600.0,4600.0
+toyota,extended cab,ga,2,3650.0,7300.0
+toyota,extended cab,md,2,3100.0,6200.0
+toyota,extended cab,mn,1,1700.0,1700.0
+toyota,extended cab,mo,1,5600.0,5600.0
+toyota,extended cab,nj,1,3250.0,3250.0
+toyota,extended cab,sc,1,5000.0,5000.0
+toyota,hatchback,az,19,11515.78947368421,218800.0
+toyota,hatchback,ca,95,9845.8,935351.0
+toyota,hatchback,co,6,11333.333333333334,68000.0
+toyota,hatchback,fl,107,9867.757009345794,1055850.0
+toyota,hatchback,ga,31,9890.322580645161,306600.0
+toyota,hatchback,il,12,8162.5,97950.0
+toyota,hatchback,in,2,7750.0,15500.0
+toyota,hatchback,la,3,9666.666666666666,29000.0
+toyota,hatchback,ma,13,6792.307692307692,88300.0
+toyota,hatchback,md,16,7012.5,112200.0
+toyota,hatchback,mi,5,9410.0,47050.0
+toyota,hatchback,mn,8,8587.625,68701.0
+toyota,hatchback,mo,17,10464.70588235294,177900.0
+toyota,hatchback,ms,1,12400.0,12400.0
+toyota,hatchback,nc,12,7408.333333333333,88900.0
+toyota,hatchback,ne,4,7250.0,29000.0
+toyota,hatchback,nj,30,10406.666666666666,312200.0
+toyota,hatchback,nv,5,11540.0,57700.0
+toyota,hatchback,ny,3,4633.333333333333,13900.0
+toyota,hatchback,oh,17,11255.882352941177,191350.0
+toyota,hatchback,or,2,12175.0,24350.0
+toyota,hatchback,pa,33,11650.0,384450.0
+toyota,hatchback,pr,16,11337.5,181400.0
+toyota,hatchback,qc,1,5600.0,5600.0
+toyota,hatchback,sc,7,8571.42857142857,60000.0
+toyota,hatchback,tn,16,11593.75,185500.0
+toyota,hatchback,tx,12,10154.166666666666,121850.0
+toyota,hatchback,ut,1,10200.0,10200.0
+toyota,hatchback,va,7,7100.0,49700.0
+toyota,hatchback,wa,9,11083.333333333334,99750.0
+toyota,hatchback,wi,6,12716.666666666666,76300.0
+toyota,minivan,ab,1,2750.0,2750.0
+toyota,minivan,az,4,13200.0,52800.0
+toyota,minivan,ca,78,13630.128205128205,1063150.0
+toyota,minivan,co,5,19060.0,95300.0
+toyota,minivan,fl,120,16267.916666666666,1952150.0
+toyota,minivan,ga,22,12236.363636363636,269200.0
+toyota,minivan,il,9,13911.111111111111,125200.0
+toyota,minivan,in,5,15620.0,78100.0
+toyota,minivan,la,2,10100.0,20200.0
+toyota,minivan,ma,8,5500.0,44000.0
+toyota,minivan,md,15,7180.0,107700.0
+toyota,minivan,mi,2,11600.0,23200.0
+toyota,minivan,mn,7,6857.142857142857,48000.0
+toyota,minivan,mo,15,15666.666666666666,235000.0
+toyota,minivan,ms,2,19000.0,38000.0
+toyota,minivan,nc,18,11466.722222222223,206401.0
+toyota,minivan,ne,3,10000.0,30000.0
+toyota,minivan,nj,40,10333.75,413350.0
+toyota,minivan,nv,9,17477.777777777777,157300.0
+toyota,minivan,ny,4,4362.5,17450.0
+toyota,minivan,oh,17,18226.470588235294,309850.0
+toyota,minivan,on,1,12700.0,12700.0
+toyota,minivan,or,4,13625.0,54500.0
+toyota,minivan,pa,49,15237.755102040815,746650.0
+toyota,minivan,pr,1,17000.0,17000.0
+toyota,minivan,sc,2,5050.0,10100.0
+toyota,minivan,tn,12,19625.0,235500.0
+toyota,minivan,tx,22,14554.545454545454,320200.0
+toyota,minivan,ut,1,12200.0,12200.0
+toyota,minivan,va,16,9106.25,145700.0
+toyota,minivan,wa,6,11533.333333333334,69200.0
+toyota,minivan,wi,6,15083.333333333334,90500.0
+toyota,regular cab,ca,3,4800.0,14400.0
+toyota,regular cab,fl,7,12142.857142857143,85000.0
+toyota,regular cab,ga,2,14550.0,29100.0
+toyota,regular cab,nc,3,11833.333333333334,35500.0
+toyota,regular cab,nj,2,7800.0,15600.0
+toyota,regular cab,oh,2,16100.0,32200.0
+toyota,regular cab,pa,5,11680.0,58400.0
+toyota,regular cab,tn,1,19600.0,19600.0
+toyota,regular cab,tx,1,1400.0,1400.0
+toyota,regular cab,va,2,10600.0,21200.0
+toyota,regular cab,wa,3,13033.333333333334,39100.0
+toyota,regular cab,wi,1,5200.0,5200.0
+toyota,sedan,ab,2,5600.0,11200.0
+toyota,sedan,az,101,11471.287128712871,1158600.0
+toyota,sedan,ca,430,9162.906976744185,3940050.0
+toyota,sedan,co,70,14315.714285714286,1002100.0
+toyota,sedan,fl,1023,10990.421309872923,11243201.0
+toyota,sedan,ga,325,10701.243076923078,3477904.0
+toyota,sedan,hi,5,9250.0,46250.0
+toyota,sedan,il,72,10148.625,730701.0
+toyota,sedan,in,23,9677.173913043478,222575.0
+toyota,sedan,la,17,8482.35294117647,144200.0
+toyota,sedan,ma,73,5740.41095890411,419050.0
+toyota,sedan,md,151,7250.662251655629,1094850.0
+toyota,sedan,mi,14,8103.571428571428,113450.0
+toyota,sedan,mn,61,11998.377049180328,731901.0
+toyota,sedan,mo,72,11663.208333333334,839751.0
+toyota,sedan,ms,26,10907.692307692309,283600.0
+toyota,sedan,nc,209,10674.401913875598,2230950.0
+toyota,sedan,ne,35,10940.942857142858,382933.0
+toyota,sedan,nj,163,8788.957055214723,1432600.0
+toyota,sedan,nv,108,11736.111111111111,1267500.0
+toyota,sedan,ny,22,7090.909090909091,156000.0
+toyota,sedan,oh,232,12061.866379310344,2798353.0
+toyota,sedan,on,8,6875.0,55000.0
+toyota,sedan,or,8,9612.5,76900.0
+toyota,sedan,pa,234,10982.905982905982,2570000.0
+toyota,sedan,pr,33,9790.90909090909,323100.0
+toyota,sedan,qc,4,2862.5,11450.0
+toyota,sedan,sc,37,9364.864864864865,346500.0
+toyota,sedan,tn,87,12339.080459770115,1073500.0
+toyota,sedan,tx,199,9536.683417085427,1897800.0
+toyota,sedan,ut,9,8461.111111111111,76150.0
+toyota,sedan,va,80,6833.125,546650.0
+toyota,sedan,wa,77,11764.285714285714,905850.0
+toyota,sedan,wi,107,12212.616822429907,1306750.0
+toyota,suv,az,28,15332.142857142857,429300.0
+toyota,suv,ca,176,11732.96590909091,2065002.0
+toyota,suv,co,20,19085.0,381700.0
+toyota,suv,fl,254,16486.023622047243,4187450.0
+toyota,suv,ga,84,12707.738095238095,1067450.0
+toyota,suv,hi,2,15950.0,31900.0
+toyota,suv,il,24,13252.166666666666,318052.0
+toyota,suv,in,6,15616.666666666666,93700.0
+toyota,suv,la,3,13566.666666666666,40700.0
+toyota,suv,ma,36,9409.722222222223,338750.0
+toyota,suv,md,42,9784.52380952381,410950.0
+toyota,suv,mi,13,18761.53846153846,243900.0
+toyota,suv,mn,24,17137.5,411300.0
+toyota,suv,mo,37,16950.0,627150.0
+toyota,suv,ms,5,15240.0,76200.0
+toyota,suv,nc,45,9797.777777777777,440900.0
+toyota,suv,ne,9,13344.444444444445,120100.0
+toyota,suv,nj,86,14048.255813953489,1208150.0
+toyota,suv,nm,1,26400.0,26400.0
+toyota,suv,nv,16,16531.25,264500.0
+toyota,suv,ny,9,9527.777777777777,85750.0
+toyota,suv,oh,120,16250.833333333334,1950100.0
+toyota,suv,on,1,7500.0,7500.0
+toyota,suv,or,3,16300.0,48900.0
+toyota,suv,pa,166,18098.192771084337,3004300.0
+toyota,suv,pr,7,17157.14285714286,120100.0
+toyota,suv,qc,1,14600.0,14600.0
+toyota,suv,sc,11,15427.272727272728,169700.0
+toyota,suv,tn,37,18490.54054054054,684150.0
+toyota,suv,tx,78,13401.923076923076,1045350.0
+toyota,suv,ut,6,14350.0,86100.0
+toyota,suv,va,31,11612.90322580645,360000.0
+toyota,suv,wa,20,16110.0,322200.0
+toyota,suv,wi,36,17172.222222222223,618200.0
+toyota,wagon,az,4,15500.0,62000.0
+toyota,wagon,ca,21,9588.095238095239,201350.0
+toyota,wagon,fl,24,14750.0,354000.0
+toyota,wagon,ga,11,12600.0,138600.0
+toyota,wagon,hi,1,17000.0,17000.0
+toyota,wagon,in,1,15200.0,15200.0
+toyota,wagon,la,2,18300.0,36600.0
+toyota,wagon,ma,2,7750.0,15500.0
+toyota,wagon,md,2,9950.0,19900.0
+toyota,wagon,mi,1,14900.0,14900.0
+toyota,wagon,mn,2,16900.0,33800.0
+toyota,wagon,mo,2,10800.0,21600.0
+toyota,wagon,nc,3,10133.333333333334,30400.0
+toyota,wagon,ne,1,15800.0,15800.0
+toyota,wagon,nj,3,17966.666666666668,53900.0
+toyota,wagon,nv,3,16533.333333333332,49600.0
+toyota,wagon,ny,1,13800.0,13800.0
+toyota,wagon,oh,14,16878.571428571428,236300.0
+toyota,wagon,pa,22,16777.272727272728,369100.0
+toyota,wagon,pr,3,16233.333333333334,48700.0
+toyota,wagon,tn,5,14340.0,71700.0
+toyota,wagon,tx,15,14783.333333333334,221750.0
+toyota,wagon,va,1,3700.0,3700.0
+toyota,wagon,wa,2,17100.0,34200.0
+toyota,wagon,wi,4,17350.0,69400.0
+toyota,xtracab,ca,1,5700.0,5700.0
+toyota,xtracab,fl,4,5875.0,23500.0
+toyota,xtracab,ga,3,6200.0,18600.0
+toyota,xtracab,nj,1,4000.0,4000.0
+toyota,xtracab,nv,1,6200.0,6200.0
+toyota,xtracab,va,1,8500.0,8500.0
+volkswagen,beetle convertible,ca,5,20260.0,101300.0
+volkswagen,beetle convertible,fl,2,18150.0,36300.0
+volkswagen,beetle convertible,mo,1,18900.0,18900.0
+volkswagen,beetle convertible,pa,1,17200.0,17200.0
+volkswagen,convertible,az,4,5350.0,21400.0
+volkswagen,convertible,ca,17,5920.588235294118,100650.0
+volkswagen,convertible,fl,15,6506.666666666667,97600.0
+volkswagen,convertible,ga,3,11600.0,34800.0
+volkswagen,convertible,hi,1,21000.0,21000.0
+volkswagen,convertible,ma,3,3616.6666666666665,10850.0
+volkswagen,convertible,md,2,2600.0,5200.0
+volkswagen,convertible,mo,2,11050.0,22100.0
+volkswagen,convertible,nc,6,5233.333333333333,31400.0
+volkswagen,convertible,nj,2,11725.0,23450.0
+volkswagen,convertible,nv,2,6550.0,13100.0
+volkswagen,convertible,ny,2,1750.0,3500.0
+volkswagen,convertible,oh,6,10983.333333333334,65900.0
+volkswagen,convertible,pa,9,7022.222222222223,63200.0
+volkswagen,convertible,sc,1,4750.0,4750.0
+volkswagen,convertible,tn,2,4450.0,8900.0
+volkswagen,convertible,tx,10,7015.0,70150.0
+volkswagen,convertible,va,2,3100.0,6200.0
+volkswagen,convertible,wa,1,3600.0,3600.0
+volkswagen,convertible,wi,1,17100.0,17100.0
+volkswagen,hatchback,az,2,4250.0,8500.0
+volkswagen,hatchback,ca,81,9353.086419753086,757600.0
+volkswagen,hatchback,co,5,9360.0,46800.0
+volkswagen,hatchback,fl,60,9408.333333333334,564500.0
+volkswagen,hatchback,ga,24,6983.333333333333,167600.0
+volkswagen,hatchback,il,17,11623.529411764706,197600.0
+volkswagen,hatchback,la,1,16700.0,16700.0
+volkswagen,hatchback,ma,4,5925.0,23700.0
+volkswagen,hatchback,md,9,5911.111111111111,53200.0
+volkswagen,hatchback,mi,1,10000.0,10000.0
+volkswagen,hatchback,mn,1,2600.0,2600.0
+volkswagen,hatchback,mo,5,7080.0,35400.0
+volkswagen,hatchback,nc,9,3866.6666666666665,34800.0
+volkswagen,hatchback,ne,1,9500.0,9500.0
+volkswagen,hatchback,nj,11,7718.181818181818,84900.0
+volkswagen,hatchback,nv,17,11570.588235294117,196700.0
+volkswagen,hatchback,ny,1,12000.0,12000.0
+volkswagen,hatchback,oh,7,14328.57142857143,100300.0
+volkswagen,hatchback,on,1,5400.0,5400.0
+volkswagen,hatchback,or,3,8866.666666666666,26600.0
+volkswagen,hatchback,pa,28,10030.357142857143,280850.0
+volkswagen,hatchback,pr,1,1500.0,1500.0
+volkswagen,hatchback,sc,4,3575.0,14300.0
+volkswagen,hatchback,tn,2,7950.0,15900.0
+volkswagen,hatchback,tx,23,9658.695652173914,222150.0
+volkswagen,hatchback,ut,1,1500.0,1500.0
+volkswagen,hatchback,va,7,6357.142857142857,44500.0
+volkswagen,hatchback,wa,9,9744.444444444445,87700.0
+volkswagen,hatchback,wi,3,12966.666666666666,38900.0
+volkswagen,minivan,az,1,12500.0,12500.0
+volkswagen,minivan,ca,9,9116.666666666666,82050.0
+volkswagen,minivan,fl,8,11250.0,90000.0
+volkswagen,minivan,ga,1,9300.0,9300.0
+volkswagen,minivan,hi,1,11250.0,11250.0
+volkswagen,minivan,il,2,11600.0,23200.0
+volkswagen,minivan,mi,1,14000.0,14000.0
+volkswagen,minivan,nc,4,7875.0,31500.0
+volkswagen,minivan,nj,4,10025.0,40100.0
+volkswagen,minivan,oh,2,9350.0,18700.0
+volkswagen,minivan,pa,2,7900.0,15800.0
+volkswagen,minivan,tn,2,7800.0,15600.0
+volkswagen,minivan,tx,3,7066.666666666667,21200.0
+volkswagen,minivan,va,1,9700.0,9700.0
+volkswagen,minivan,wi,2,15750.0,31500.0
+volkswagen,sedan,ab,2,1400.0,2800.0
+volkswagen,sedan,az,27,5990.740740740741,161750.0
+volkswagen,sedan,ca,270,9616.851851851852,2596550.0
+volkswagen,sedan,co,18,9783.388888888889,176101.0
+volkswagen,sedan,fl,235,9463.829787234043,2224000.0
+volkswagen,sedan,ga,93,9917.20430107527,922300.0
+volkswagen,sedan,hi,5,7920.0,39600.0
+volkswagen,sedan,il,61,11446.72131147541,698250.0
+volkswagen,sedan,in,7,7214.285714285715,50500.0
+volkswagen,sedan,la,3,9767.0,29301.0
+volkswagen,sedan,ma,30,5943.333333333333,178300.0
+volkswagen,sedan,md,28,6996.428571428572,195900.0
+volkswagen,sedan,mi,7,10757.142857142857,75300.0
+volkswagen,sedan,mn,17,8432.35294117647,143350.0
+volkswagen,sedan,mo,16,10518.8125,168301.0
+volkswagen,sedan,ms,3,10566.666666666666,31700.0
+volkswagen,sedan,nc,45,5975.555555555556,268900.0
+volkswagen,sedan,ne,8,8100.0,64800.0
+volkswagen,sedan,nj,94,9169.91489361702,861972.0
+volkswagen,sedan,nv,38,10723.684210526315,407500.0
+volkswagen,sedan,ny,15,6826.666666666667,102400.0
+volkswagen,sedan,oh,53,9791.528301886792,518951.0
+volkswagen,sedan,on,13,10061.538461538461,130800.0
+volkswagen,sedan,or,2,11850.0,23700.0
+volkswagen,sedan,pa,177,10286.440677966102,1820700.0
+volkswagen,sedan,qc,2,10200.0,20400.0
+volkswagen,sedan,sc,15,10406.733333333334,156101.0
+volkswagen,sedan,tn,29,9593.103448275862,278200.0
+volkswagen,sedan,tx,122,10549.180327868853,1287000.0
+volkswagen,sedan,ut,9,7988.888888888889,71900.0
+volkswagen,sedan,va,38,6650.0,252700.0
+volkswagen,sedan,wa,26,9192.307692307691,239000.0
+volkswagen,sedan,wi,21,9004.809523809523,189101.0
+volkswagen,suv,az,1,16500.0,16500.0
+volkswagen,suv,ca,33,13343.939393939394,440350.0
+volkswagen,suv,co,2,10250.0,20500.0
+volkswagen,suv,fl,24,13295.833333333334,319100.0
+volkswagen,suv,ga,8,12212.5,97700.0
+volkswagen,suv,hi,3,13000.0,39000.0
+volkswagen,suv,il,4,15150.0,60600.0
+volkswagen,suv,in,1,11000.0,11000.0
+volkswagen,suv,ma,1,5200.0,5200.0
+volkswagen,suv,mn,3,10400.0,31200.0
+volkswagen,suv,mo,3,8300.0,24900.0
+volkswagen,suv,ms,1,12400.0,12400.0
+volkswagen,suv,nc,7,9128.57142857143,63900.0
+volkswagen,suv,nj,7,11192.857142857143,78350.0
+volkswagen,suv,nv,6,12658.333333333334,75950.0
+volkswagen,suv,ny,2,13400.0,26800.0
+volkswagen,suv,oh,8,13737.5,109900.0
+volkswagen,suv,or,1,11000.0,11000.0
+volkswagen,suv,pa,19,14457.894736842105,274700.0
+volkswagen,suv,qc,1,13100.0,13100.0
+volkswagen,suv,tn,1,27400.0,27400.0
+volkswagen,suv,tx,8,15687.5,125500.0
+volkswagen,suv,ut,1,2850.0,2850.0
+volkswagen,suv,va,2,9100.0,18200.0
+volkswagen,suv,wa,6,12833.333333333334,77000.0
+volkswagen,suv,wi,1,6600.0,6600.0
+volkswagen,wagon,az,2,1850.0,3700.0
+volkswagen,wagon,ca,13,4326.923076923077,56250.0
+volkswagen,wagon,co,2,2600.0,5200.0
+volkswagen,wagon,fl,9,14077.777777777777,126700.0
+volkswagen,wagon,ga,4,12025.0,48100.0
+volkswagen,wagon,hi,1,11250.0,11250.0
+volkswagen,wagon,il,1,19800.0,19800.0
+volkswagen,wagon,la,1,15800.0,15800.0
+volkswagen,wagon,ma,2,1325.0,2650.0
+volkswagen,wagon,md,2,2575.0,5150.0
+volkswagen,wagon,mn,1,2200.0,2200.0
+volkswagen,wagon,mo,2,8050.0,16100.0
+volkswagen,wagon,nc,3,8066.666666666667,24200.0
+volkswagen,wagon,ne,1,14500.0,14500.0
+volkswagen,wagon,nj,6,8716.666666666666,52300.0
+volkswagen,wagon,nv,4,9575.0,38300.0
+volkswagen,wagon,oh,2,9300.0,18600.0
+volkswagen,wagon,on,1,25600.0,25600.0
+volkswagen,wagon,or,1,10300.0,10300.0
+volkswagen,wagon,pa,11,11818.181818181818,130000.0
+volkswagen,wagon,tx,10,9355.0,93550.0
+volkswagen,wagon,va,4,4575.0,18300.0
+volkswagen,wagon,wa,4,7325.0,29300.0
+volkswagen,wagon,wi,3,12633.333333333334,37900.0
+volvo,convertible,ca,6,10033.333333333334,60200.0
+volvo,convertible,fl,1,11000.0,11000.0
+volvo,convertible,ga,2,3650.0,7300.0
+volvo,convertible,nj,2,15100.0,30200.0
+volvo,convertible,nv,3,12216.666666666666,36650.0
+volvo,convertible,pa,9,15755.555555555555,141800.0
+volvo,convertible,tn,1,17600.0,17600.0
+volvo,convertible,tx,1,2500.0,2500.0
+volvo,convertible,va,2,1950.0,3900.0
+volvo,hatchback,ca,2,8750.0,17500.0
+volvo,hatchback,ga,1,13500.0,13500.0
+volvo,hatchback,oh,1,12500.0,12500.0
+volvo,hatchback,pa,3,9600.0,28800.0
+volvo,hatchback,tx,2,14500.0,29000.0
+volvo,sedan,az,7,14685.714285714286,102800.0
+volvo,sedan,ca,61,11914.754098360656,726800.0
+volvo,sedan,co,2,15500.0,31000.0
+volvo,sedan,fl,56,9775.0,547400.0
+volvo,sedan,ga,23,11580.434782608696,266350.0
+volvo,sedan,il,4,10450.0,41800.0
+volvo,sedan,ma,5,3400.0,17000.0
+volvo,sedan,md,15,2176.6666666666665,32650.0
+volvo,sedan,mi,3,8800.0,26400.0
+volvo,sedan,mn,1,2300.0,2300.0
+volvo,sedan,mo,3,1516.6666666666667,4550.0
+volvo,sedan,ms,1,1500.0,1500.0
+volvo,sedan,nc,18,3861.1111111111113,69500.0
+volvo,sedan,ne,1,6000.0,6000.0
+volvo,sedan,nj,16,6918.75,110700.0
+volvo,sedan,nv,4,4612.5,18450.0
+volvo,sedan,ny,2,7400.0,14800.0
+volvo,sedan,oh,5,5400.0,27000.0
+volvo,sedan,pa,57,15763.157894736842,898500.0
+volvo,sedan,sc,3,2466.6666666666665,7400.0
+volvo,sedan,tn,14,20489.285714285714,286850.0
+volvo,sedan,tx,19,7084.210526315789,134600.0
+volvo,sedan,ut,1,3300.0,3300.0
+volvo,sedan,va,10,4440.0,44400.0
+volvo,sedan,wa,6,19483.333333333332,116900.0
+volvo,sedan,wi,4,5050.0,20200.0
+volvo,suv,az,9,25900.0,233100.0
+volvo,suv,ca,37,15945.945945945947,590000.0
+volvo,suv,co,3,14083.333333333334,42250.0
+volvo,suv,fl,33,17300.0,570900.0
+volvo,suv,ga,15,10946.666666666666,164200.0
+volvo,suv,il,3,9166.666666666666,27500.0
+volvo,suv,ma,6,5850.0,35100.0
+volvo,suv,md,6,4733.333333333333,28400.0
+volvo,suv,mi,1,7000.0,7000.0
+volvo,suv,mo,2,23950.0,47900.0
+volvo,suv,nc,10,8130.0,81300.0
+volvo,suv,ne,1,14800.0,14800.0
+volvo,suv,nj,6,9991.666666666666,59950.0
+volvo,suv,nv,5,9280.0,46400.0
+volvo,suv,ny,2,10500.0,21000.0
+volvo,suv,oh,3,15666.666666666666,47000.0
+volvo,suv,on,1,1700.0,1700.0
+volvo,suv,pa,40,20175.0,807000.0
+volvo,suv,sc,2,4550.0,9100.0
+volvo,suv,tn,10,22570.0,225700.0
+volvo,suv,tx,16,11800.0,188800.0
+volvo,suv,va,9,7433.333333333333,66900.0
+volvo,suv,wa,4,16887.5,67550.0
+volvo,suv,wi,2,18150.0,36300.0
+volvo,wagon,az,1,28100.0,28100.0
+volvo,wagon,ca,16,14571.875,233150.0
+volvo,wagon,co,1,29600.0,29600.0
+volvo,wagon,fl,6,20883.333333333332,125300.0
+volvo,wagon,ga,5,8400.0,42000.0
+volvo,wagon,il,2,1825.0,3650.0
+volvo,wagon,ma,3,716.6666666666666,2150.0
+volvo,wagon,md,5,1400.0,7000.0
+volvo,wagon,mo,2,7100.0,14200.0
+volvo,wagon,nc,5,5980.0,29900.0
+volvo,wagon,nj,6,4016.6666666666665,24100.0
+volvo,wagon,nv,1,3500.0,3500.0
+volvo,wagon,or,1,2300.0,2300.0
+volvo,wagon,pa,19,12171.052631578947,231250.0
+volvo,wagon,tn,4,27875.0,111500.0
+volvo,wagon,tx,4,10900.0,43600.0
+volvo,wagon,ut,1,500.0,500.0
+volvo,wagon,va,8,5118.75,40950.0
+volvo,wagon,wa,4,23175.0,92700.0
