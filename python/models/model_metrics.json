@@ -1,0 +1,52 @@
+{
+  "regression": [
+    {
+      "model": "linear_regression",
+      "mae": 1005.275253694549,
+      "rmse": 1554.517995050525,
+      "r2": 0.9589028881582805
+    },
+    {
+      "model": "random_forest_regressor",
+      "mae": 924.277894251828,
+      "rmse": 1427.2492166924944,
+      "r2": 0.9653566867048902
+    }
+  ],
+  "classification": {
+    "accuracy": 0.597639562667439,
+    "classification_report": {
+      "Fair Deal": {
+        "precision": 0.6223468768950879,
+        "recall": 0.7083692838654012,
+        "f1-score": 0.6625776773464611,
+        "support": 5795.0
+      },
+      "Good Deal": {
+        "precision": 0.6009779951100245,
+        "recall": 0.575374531835206,
+        "f1-score": 0.5878976321454198,
+        "support": 4272.0
+      },
+      "Overpriced": {
+        "precision": 0.54112,
+        "recall": 0.4516559829059829,
+        "f1-score": 0.49235696607948753,
+        "support": 3744.0
+      },
+      "accuracy": 0.597639562667439,
+      "macro avg": {
+        "precision": 0.5881482906683708,
+        "recall": 0.5784665995355301,
+        "f1-score": 0.5809440918571228,
+        "support": 13811.0
+      },
+      "weighted avg": {
+        "precision": 0.593717430071469,
+        "recall": 0.597639562667439,
+        "f1-score": 0.593332908967459,
+        "support": 13811.0
+      }
+    }
+  }
+}
