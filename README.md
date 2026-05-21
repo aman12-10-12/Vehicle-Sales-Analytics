@@ -1,6 +1,6 @@
 # Vehicle Sales Analytics
 
-End-to-end data analytics portfolio project using **car auction data** (~558K records). Pipeline: **SQL → Python → Excel → Machine Learning → Power BI**, aligned with all questions in `vehicle_sales_question_bank.docx`.
+End-to-end data analytics portfolio project using **car auction data** (~558K records) to perform data cleaning, exploratory analysis, business intelligence, price prediction, and dashboard visualization using SQL, Python, Excel, Machine Learning, and Power BI. Pipeline: **SQL → Python → Excel → Machine Learning → Power BI**.
 
 ## Project Structure
 
@@ -57,11 +57,11 @@ predict_price({
 })
 ```
 
-## Question Bank
+## Documentation & Analysis Mapping
 
-All **60 questions** (Basic, Intermediate, Advanced, Master) are mapped in [`docs/question_bank_index.md`](docs/question_bank_index.md).
+Analytical tasks, SQL workflows, EDA processes, and ML components are mapped in: [`docs/index.md`].
 
-## Outputs
+## Project Outputs
 
 - **528,845** cleaned records → `dataset/cleaned/cleaned_vehicle_sales.csv`
 - **4 EDA charts** → `visuals/eda_charts/`
